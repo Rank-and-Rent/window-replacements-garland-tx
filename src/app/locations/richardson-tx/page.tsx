@@ -19,7 +19,7 @@ export default function RichardsonWindowReplacement() {
       <section className="relative min-h-[50vh] flex items-center justify-center bg-navy-900">
         <div 
           className="absolute inset-0 bg-cover bg-center opacity-20"
-          style={{ backgroundImage: "url('https://images.unsplash.com/photo-1560518883-ce09059eeffa?ixlib=rb-4.0.3&auto=format&fit=crop&w=2073&q=80')" }}
+          style={{ backgroundImage: "url('/windows/double-hung-windows-garland-tx.jpg')" }}
         />
         <div className="relative z-10 text-center px-6 max-w-4xl mx-auto py-24">
           <h1 className="font-serif text-5xl md:text-6xl font-bold text-cream-100 mb-6">
@@ -85,7 +85,7 @@ export default function RichardsonWindowReplacement() {
                 </li>
                 <li className="flex items-start">
                   <span className="text-gold-500 mr-3 mt-1">•</span>
-                  <span><strong className="text-cream-100">Professional Service:</strong> Licensed, insured installation teams with decades of combined experience</span>
+                  <span><strong className="text-cream-100">Professional Service:</strong> Experienced installation teams with decades of combined expertise</span>
                 </li>
               </ul>
             </div>
@@ -194,7 +194,7 @@ export default function RichardsonWindowReplacement() {
               the long term, ready to serve your window needs today and in the future.
             </p>
             <div className="flex flex-wrap justify-center gap-4">
-              <Link href="/services/double-hung-windows" className="btn-primary">
+              <Link href="/windows/double-hung-windows" className="btn-primary">
                 Explore Window Options
               </Link>
               <a href="tel:972-734-3158" className="btn-primary">

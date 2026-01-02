@@ -6,32 +6,28 @@ const windowTypes = [
     slug: "double-hung-windows",
     description:
       "Classic versatility with two operable sashes that slide vertically. Perfect for traditional Texas homes, offering excellent ventilation control and easy cleaning from inside your home.",
-    image:
-      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&auto=format&fit=crop&w=870&q=80",
+    image: "/windows/double-hung-windows-garland-tx.jpg",
   },
   {
     name: "Single-Hung Windows",
     slug: "single-hung-windows",
     description:
       "An economical choice featuring a fixed upper sash and operable lower sash. Ideal for bedrooms and living spaces where simplicity and reliability meet energy efficiency.",
-    image:
-      "https://images.unsplash.com/photo-1600573472591-ee6c563aaec3?ixlib=rb-4.0.3&auto=format&fit=crop&w=870&q=80",
+    image: "/windows/single-hung-windows-garland-tx.jpg",
   },
   {
     name: "Casement Windows",
     slug: "casement-windows",
     description:
       "Hinged windows that swing outward for maximum ventilation and unobstructed views. Their tight seal makes them exceptionally energy-efficient for Garland's hot summers.",
-    image:
-      "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?ixlib=rb-4.0.3&auto=format&fit=crop&w=870&q=80",
+    image: "/windows/casement-windows-garland-tx.jpg",
   },
   {
     name: "Awning Windows",
     slug: "awning-windows",
     description:
       "Hinged at the top, these windows open outward from the bottom. Perfect for Texas weather as they allow ventilation even during light rain while maintaining security.",
-    image:
-      "https://images.unsplash.com/photo-1600607687644-aac4c3eac7f4?ixlib=rb-4.0.3&auto=format&fit=crop&w=870&q=80",
+    image: "/windows/awning-windows-garland-tx.jpg",
   },
 ];
 
@@ -39,26 +35,22 @@ const windowTypesRow2 = [
   {
     name: "Sliding Windows",
     slug: "sliding-windows",
-    image:
-      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?ixlib=rb-4.0.3&auto=format&fit=crop&w=870&q=80",
+    image: "/windows/sliding-windows-garland-tx.jpg",
   },
   {
     name: "Picture Windows",
     slug: "picture-windows",
-    image:
-      "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?ixlib=rb-4.0.3&auto=format&fit=crop&w=870&q=80",
+    image: "/windows/picture-windows-garland-tx.jpg",
   },
   {
     name: "Bay & Bow Windows",
     slug: "bay-bow-windows",
-    image:
-      "https://images.unsplash.com/photo-1600566752355-35792bedcfea?ixlib=rb-4.0.3&auto=format&fit=crop&w=870&q=80",
+    image: "/windows/bay-bow-windows-garland-tx.jpg",
   },
   {
     name: "Special Shape Windows",
     slug: "special-shape-windows",
-    image:
-      "https://images.unsplash.com/photo-1600210492493-0946911123ea?ixlib=rb-4.0.3&auto=format&fit=crop&w=870&q=80",
+    image: "/windows/special-shape-windows-garland-tx.jpg",
   },
 ];
 
@@ -110,7 +102,7 @@ export default function Services() {
             {windowTypes.map((window, index) => (
               <Link
                 key={index}
-                href={`/services/${window.slug}`}
+                href={`/windows/${window.slug}`}
                 className="group relative overflow-hidden bg-navy-800 block cursor-pointer"
               >
                 <div
@@ -134,7 +126,7 @@ export default function Services() {
             {windowTypesRow2.map((window, index) => (
               <Link
                 key={index}
-                href={`/services/${window.slug}`}
+                href={`/windows/${window.slug}`}
                 className="group relative overflow-hidden bg-navy-800 block cursor-pointer"
               >
                 <div

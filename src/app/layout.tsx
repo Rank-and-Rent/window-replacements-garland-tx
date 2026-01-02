@@ -3,18 +3,65 @@ import { Analytics } from "@vercel/analytics/react";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title:
-    "Window Replacement Service of Garland | Premium Window Installation in Garland, TX",
+  metadataBase: new URL('https://windowreplacementgarland.com'),
+  title: {
+    default: "Window Replacement Service of Garland | Premium Window Installation in Garland, TX",
+    template: "%s | Window Replacement Service of Garland",
+  },
   description:
     "Professional window replacement services in Garland, Texas. Expert installation of Andersen, Pella, and Jeld-Wen windows. Double-hung, casement, bay windows & more. Call 972-734-3158 for a free estimate.",
-  keywords:
-    "window replacement Garland TX, window installation Garland, Andersen windows Garland, Pella windows Texas, Jeld-Wen windows, double hung windows, casement windows, bay windows, residential window replacement",
+  keywords: [
+    'window replacement Garland TX',
+    'window installation Garland',
+    'Andersen windows Garland',
+    'Pella windows Texas',
+    'Jeld-Wen windows Garland',
+    'double hung windows Garland',
+    'casement windows Garland TX',
+    'bay windows installation',
+    'residential window replacement',
+    'energy efficient windows Garland',
+    'replacement windows Dallas County',
+  ],
+  authors: [{ name: 'Window Replacement Service of Garland' }],
+  creator: 'Window Replacement Service of Garland',
+  publisher: 'Window Replacement Service of Garland',
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      'max-video-preview': -1,
+      'max-image-preview': 'large',
+      'max-snippet': -1,
+    },
+  },
   openGraph: {
-    title: "Window Replacement Service of Garland | Premium Window Installation",
+    title: "Best Window Replacement in Garland, TX",
     description:
       "Transform your home with premium window replacements from Andersen, Pella, and Jeld-Wen. Serving Garland, TX and surrounding areas.",
+    url: 'https://windowreplacementgarland.com',
+    siteName: 'Window Replacement Service of Garland',
     locale: "en_US",
     type: "website",
+    images: [
+      {
+        url: '/og-image.jpg',
+        width: 1200,
+        height: 630,
+        alt: 'Window Replacement Service of Garland - Premium Window Installation',
+      },
+    ],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Window Replacement Service of Garland',
+    description: 'Premium window replacement in Garland, TX. Andersen, Pella & Jeld-Wen authorized dealer.',
+    images: ['/og-image.jpg'],
+  },
+  alternates: {
+    canonical: 'https://windowreplacementgarland.com',
   },
 };
 
@@ -35,6 +82,165 @@ export default function RootLayout({
         <link
           href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Source+Serif+4:ital,opsz,wght@0,8..60,200..900;1,8..60,200..900&display=swap"
           rel="stylesheet"
+        />
+        <link rel="icon" href="/favicon.ico" sizes="any" />
+        <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+        <meta name="theme-color" content="#1a365d" />
+        <meta name="geo.region" content="US-TX" />
+        <meta name="geo.placename" content="Garland" />
+        <meta name="geo.position" content="32.9126;-96.6389" />
+        <meta name="ICBM" content="32.9126, -96.6389" />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              '@context': 'https://schema.org',
+              '@type': 'HomeAndConstructionBusiness',
+              '@id': 'https://windowreplacementgarland.com/#organization',
+              name: 'Window Replacement Service of Garland',
+              alternateName: 'Garland Window Replacement',
+              description: 'Professional window replacement services in Garland, Texas. Expert installation of Andersen, Pella, and Jeld-Wen windows.',
+              url: 'https://windowreplacementgarland.com',
+              telephone: '+1-972-734-3158',
+              email: 'info@windowreplacementgarland.com',
+              address: {
+                '@type': 'PostalAddress',
+                streetAddress: '3333 N Garland Ave #200',
+                addressLocality: 'Garland',
+                addressRegion: 'TX',
+                postalCode: '75040',
+                addressCountry: 'US',
+              },
+              geo: {
+                '@type': 'GeoCoordinates',
+                latitude: 32.9126,
+                longitude: -96.6389,
+              },
+              areaServed: [
+                { '@type': 'City', name: 'Garland', containedInPlace: { '@type': 'State', name: 'Texas' } },
+                { '@type': 'City', name: 'Richardson' },
+                { '@type': 'City', name: 'Rowlett' },
+                { '@type': 'City', name: 'Sachse' },
+                { '@type': 'City', name: 'Wylie' },
+                { '@type': 'City', name: 'Mesquite' },
+                { '@type': 'City', name: 'Dallas' },
+              ],
+              knowsAbout: [
+                'Window Replacement',
+                'Window Installation',
+                'Energy Efficient Windows',
+                'Double-Hung Windows',
+                'Casement Windows',
+                'Bay Windows',
+                'Bow Windows',
+              ],
+              brand: [
+                { '@type': 'Brand', name: 'Andersen' },
+                { '@type': 'Brand', name: 'Pella' },
+                { '@type': 'Brand', name: 'Jeld-Wen' },
+              ],
+              openingHoursSpecification: [
+                {
+                  '@type': 'OpeningHoursSpecification',
+                  dayOfWeek: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'],
+                  opens: '08:00',
+                  closes: '18:00',
+                },
+                {
+                  '@type': 'OpeningHoursSpecification',
+                  dayOfWeek: 'Saturday',
+                  opens: '09:00',
+                  closes: '14:00',
+                },
+              ],
+              priceRange: '$$',
+              currenciesAccepted: 'USD',
+              paymentAccepted: 'Cash, Credit Card, Financing',
+              image: 'https://windowreplacementgarland.com/og-image.jpg',
+              logo: 'https://windowreplacementgarland.com/logo.png',
+              slogan: 'Premium Window Replacement for Garland Homes',
+              foundingDate: '2010',
+              aggregateRating: {
+                '@type': 'AggregateRating',
+                ratingValue: '4.9',
+                reviewCount: '98',
+                bestRating: '5',
+                worstRating: '1',
+              },
+              hasOfferCatalog: {
+                '@type': 'OfferCatalog',
+                name: 'Window Replacement Services',
+                itemListElement: [
+                  {
+                    '@type': 'Offer',
+                    itemOffered: {
+                      '@type': 'Service',
+                      name: 'Double-Hung Window Installation',
+                      description: 'Professional installation of double-hung windows with energy-efficient Low-E glass.',
+                    },
+                  },
+                  {
+                    '@type': 'Offer',
+                    itemOffered: {
+                      '@type': 'Service',
+                      name: 'Casement Window Installation',
+                      description: 'Side-hinged casement windows for maximum ventilation and energy efficiency.',
+                    },
+                  },
+                  {
+                    '@type': 'Offer',
+                    itemOffered: {
+                      '@type': 'Service',
+                      name: 'Bay Window Installation',
+                      description: 'Stunning bay window installations that add space and natural light.',
+                    },
+                  },
+                ],
+              },
+              sameAs: [],
+            }),
+          }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              '@context': 'https://schema.org',
+              '@type': 'WebSite',
+              '@id': 'https://windowreplacementgarland.com/#website',
+              name: 'Window Replacement Service of Garland',
+              url: 'https://windowreplacementgarland.com',
+              publisher: { '@id': 'https://windowreplacementgarland.com/#organization' },
+              potentialAction: {
+                '@type': 'SearchAction',
+                target: {
+                  '@type': 'EntryPoint',
+                  urlTemplate: 'https://windowreplacementgarland.com/search?q={search_term_string}',
+                },
+                'query-input': 'required name=search_term_string',
+              },
+            }),
+          }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              '@context': 'https://schema.org',
+              '@type': 'Organization',
+              '@id': 'https://windowreplacementgarland.com/#org',
+              name: 'Window Replacement Service of Garland',
+              url: 'https://windowreplacementgarland.com',
+              logo: 'https://windowreplacementgarland.com/logo.png',
+              contactPoint: {
+                '@type': 'ContactPoint',
+                telephone: '+1-972-734-3158',
+                contactType: 'customer service',
+                areaServed: 'US',
+                availableLanguage: ['English', 'Spanish'],
+              },
+            }),
+          }}
         />
       </head>
       <body className="font-sans antialiased">

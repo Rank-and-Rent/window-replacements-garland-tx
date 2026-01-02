@@ -59,3 +59,16 @@ h1, h2, h3, h4, h5, h6 {
 ::-webkit-scrollbar-thumb:hover {
   background: var(--navy-800);
 }
+
+/* Prevent header from cutting off hero sections */
+main section:first-child,
+.hero-section {
+  padding-top: 140px !important;
+}
+
+/* Mobile bottom padding for sticky call button */
+@media (max-width: 1024px) {
+  main {
+    padding-bottom: 80px;
+  }
+}

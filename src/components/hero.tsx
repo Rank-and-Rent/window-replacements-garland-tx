@@ -5,28 +5,28 @@ import { useState, useEffect } from "react";
 
 const heroImages = [
   {
-    src: "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80",
-    alt: "Beautiful home with modern windows",
+    src: "/windows/double-hung-windows-garland-tx.jpg",
+    alt: "Double-hung windows in Garland home",
   },
   {
-    src: "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80",
-    alt: "Contemporary home exterior with large windows",
+    src: "/windows/casement-windows-garland-tx.jpg",
+    alt: "Casement windows installation",
   },
   {
-    src: "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80",
-    alt: "Luxury home with picture windows",
+    src: "/windows/picture-windows-garland-tx.jpg",
+    alt: "Picture windows with views",
   },
   {
-    src: "https://images.unsplash.com/photo-1518780664697-55e3ad937233?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80",
-    alt: "Modern residential architecture",
+    src: "/windows/bay-bow-windows-garland-tx.jpg",
+    alt: "Bay and bow windows",
   },
   {
-    src: "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80",
-    alt: "Elegant home with bay windows",
+    src: "/windows/sliding-windows-garland-tx.jpg",
+    alt: "Sliding windows installation",
   },
   {
-    src: "https://images.unsplash.com/photo-1449844908441-8829872d2607?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80",
-    alt: "Stunning home facade with windows",
+    src: "/windows/awning-windows-garland-tx.jpg",
+    alt: "Awning windows for ventilation",
   },
 ];
 
@@ -138,9 +138,6 @@ export default function Hero() {
             <div className="flex flex-col sm:flex-row gap-4">
               <Link href="#services" className="btn-outline-light">
                 PRODUCTS
-              </Link>
-              <Link href="#gallery" className="btn-primary">
-                GALLERY
               </Link>
             </div>
           </div>

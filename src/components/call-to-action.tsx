@@ -5,7 +5,7 @@ export default function CallToAction() {
       className="relative py-32 lg:py-44"
       style={{
         backgroundImage:
-          "url('https://images.unsplash.com/photo-1600566752355-35792bedcfea?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80')",
+          "url('/windows/double-hung-windows-garland-tx.jpg')",
         backgroundSize: "cover",
         backgroundPosition: "center",
         backgroundAttachment: "fixed",

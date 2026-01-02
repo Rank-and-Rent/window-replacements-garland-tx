@@ -34,7 +34,7 @@ export default function About() {
               className="aspect-[4/3] bg-cover bg-center transition-transform duration-700 hover:scale-105"
               style={{
                 backgroundImage:
-                  "url('https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?ixlib=rb-4.0.3&auto=format&fit=crop&w=1470&q=80')",
+                  "url('/windows/double-hung-windows-garland-tx.jpg')",
               }}
             />
           </div>

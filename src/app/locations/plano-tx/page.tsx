@@ -19,7 +19,7 @@ export default function PlanoWindowReplacement() {
       <section className="relative min-h-[50vh] flex items-center justify-center bg-navy-900">
         <div 
           className="absolute inset-0 bg-cover bg-center opacity-20"
-          style={{ backgroundImage: "url('https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80')" }}
+          style={{ backgroundImage: "url('/windows/double-hung-windows-garland-tx.jpg')" }}
         />
         <div className="relative z-10 text-center px-6 max-w-4xl mx-auto py-24">
           <h1 className="font-serif text-5xl md:text-6xl font-bold text-cream-100 mb-6">
@@ -188,7 +188,7 @@ export default function PlanoWindowReplacement() {
               window replacement projects.
             </p>
             <div className="flex flex-wrap justify-center gap-4">
-              <Link href="/services/double-hung-windows" className="btn-primary">
+              <Link href="/windows/double-hung-windows" className="btn-primary">
                 View Window Styles
               </Link>
               <a href="tel:972-734-3158" className="btn-primary">
