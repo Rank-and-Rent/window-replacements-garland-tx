@@ -73,14 +73,11 @@ export default function Header() {
           <div className="flex items-center justify-between py-4">
             {/* Logo */}
             <Link href="/" className="flex-shrink-0" onClick={closeMobileMenu}>
-              <div className="border-2 border-gold-500 px-4 py-2 bg-navy-900/90 backdrop-blur-sm">
-                <span
-                  className="text-gold-500 text-2xl font-bold italic"
-                  style={{ fontFamily: "Georgia, serif" }}
-                >
-                  WRG
-                </span>
-              </div>
+              <img
+                src="/window-replacement-service-garland-tx.png"
+                alt="Window Replacement Service of Garland"
+                className="h-12 w-auto"
+              />
             </Link>
 
             {/* Phone Number - Desktop */}
@@ -474,15 +471,6 @@ export default function Header() {
         </div>
       )}
 
-      {/* Mobile Sticky Call Button */}
-      <div className="lg:hidden fixed bottom-0 left-0 right-0 z-40 bg-navy-950 p-4 shadow-lg border-t border-navy-800">
-        <a
-          href="tel:972-734-3158"
-          className="block w-full bg-gold-500 text-white text-center py-4 font-semibold uppercase tracking-wider hover:bg-gold-400 transition-colors"
-        >
-          Call Now: (972) 734-3158
-        </a>
-      </div>
     </>
   );
 }

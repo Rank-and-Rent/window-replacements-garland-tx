@@ -6,7 +6,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Window Replacement Fate TX | Premium Installation Services",
-  description: "Professional window replacement throughout Fate, TX. Serving all Fate neighborhoods. Andersen, Pella & Jeld-Wen authorized dealer. Expert service: 972-734-3158",
+  description: "Professional window replacement throughout Fate, TX. Serving all Fate neighborhoods. Andersen, Pella & Jeld-Wen windows. Expert service: 972-734-3158",
   keywords: "window replacement Fate TX, Fate window installation, Fate windows",
 };
 

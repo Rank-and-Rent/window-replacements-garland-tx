@@ -1,5 +1,6 @@
 import Header from "@/components/header";
 import Footer from "@/components/footer";
+import BrandLogos from "@/components/brand-logos";
 import Link from "next/link";
 import type { Metadata } from "next";
 import { servicesData } from "@/data";
@@ -110,6 +111,19 @@ export default function WindowsIndexPage() {
               </p>
             </div>
           </div>
+        </div>
+      </section>
+
+      {/* Brand Logos */}
+      <section className="py-16 bg-cream-100">
+        <div className="max-w-4xl mx-auto px-6 text-center">
+          <h2 className="font-serif text-3xl font-semibold text-navy-900 mb-6">
+            Premium Window Brands We Install
+          </h2>
+          <p className="text-navy-700 text-lg mb-8">
+            Choose from the finest window manufacturers for your Garland home.
+          </p>
+          <BrandLogos size="lg" />
         </div>
       </section>
 

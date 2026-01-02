@@ -57,7 +57,7 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
     title: 'Window Replacement Service of Garland',
-    description: 'Premium window replacement in Garland, TX. Andersen, Pella & Jeld-Wen authorized dealer.',
+    description: 'Premium window replacement in Garland, TX. Andersen, Pella & Jeld-Wen windows.',
     images: ['/og-image.jpg'],
   },
   alternates: {
@@ -83,8 +83,11 @@ export default function RootLayout({
           href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Source+Serif+4:ital,opsz,wght@0,8..60,200..900;1,8..60,200..900&display=swap"
           rel="stylesheet"
         />
-        <link rel="icon" href="/favicon.ico" sizes="any" />
-        <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+        <link rel="icon" href="/favicon/favicon.ico" sizes="any" />
+        <link rel="icon" href="/favicon/favicon-16x16.png" sizes="16x16" type="image/png" />
+        <link rel="icon" href="/favicon/favicon-32x32.png" sizes="32x32" type="image/png" />
+        <link rel="apple-touch-icon" href="/favicon/apple-touch-icon.png" />
+        <link rel="manifest" href="/favicon/site.webmanifest" />
         <meta name="theme-color" content="#1a365d" />
         <meta name="geo.region" content="US-TX" />
         <meta name="geo.placename" content="Garland" />

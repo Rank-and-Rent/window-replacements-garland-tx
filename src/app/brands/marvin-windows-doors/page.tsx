@@ -1,12 +1,13 @@
 import Header from "@/components/header";
 import Footer from "@/components/footer";
+import Brands from "@/components/brands";
 import Link from "next/link";
 import Image from "next/image";
 import type { Metadata } from "next";
 import { brandsData } from "@/data";
 
 export const metadata: Metadata = {
-  title: "Marvin Windows & Doors Garland TX | Authorized Dealer",
+  title: "Marvin Windows & Doors Garland TX",
   description: "Marvin window and door replacement in Garland, TX. Premium custom craftsmanship since 1912. Signature, Elevate, and Essential collections. Call 972-734-3158.",
   keywords: "Marvin windows Garland TX, Marvin doors, custom windows, premium windows Garland",
 };
@@ -60,6 +61,9 @@ export default function MarvinPage() {
           </div>
         </div>
       </section>
+
+      {/* Prominent Brand Logos */}
+      <Brands />
 
       {/* Main Content */}
       <section className="py-20 bg-cream-100">

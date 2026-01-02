@@ -1,12 +1,13 @@
 import Header from "@/components/header";
 import Footer from "@/components/footer";
+import Brands from "@/components/brands";
 import Link from "next/link";
 import Image from "next/image";
 import type { Metadata } from "next";
 import { brandsData } from "@/data";
 
 export const metadata: Metadata = {
-  title: "Andersen Windows & Doors Garland TX | Authorized Dealer",
+  title: "Andersen Windows & Doors Garland TX",
   description: "Andersen window and door replacement in Garland, TX. Over 120 years of quality and innovation. Fibrex composite frames, Low-E glass. Call 972-734-3158.",
   keywords: "Andersen windows Garland TX, Andersen doors, Fibrex windows, window replacement Garland",
 };
@@ -60,6 +61,9 @@ export default function AndersenPage() {
           </div>
         </div>
       </section>
+
+      {/* Prominent Brand Logos */}
+      <Brands />
 
       {/* Main Content */}
       <section className="py-20 bg-cream-100">

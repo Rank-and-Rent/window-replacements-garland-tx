@@ -6,7 +6,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Window Replacement North Garland TX | Premium Installation Services",
-  description: "Professional window replacement throughout North Garland, TX. Serving all North Garland neighborhoods. Andersen, Pella & Jeld-Wen authorized dealer. Expert service: 972-734-3158",
+  description: "Professional window replacement throughout North Garland, TX. Serving all North Garland neighborhoods. Andersen, Pella & Jeld-Wen windows. Expert service: 972-734-3158",
   keywords: "window replacement North Garland TX, North Garland window installation, North Garland windows",
 };
 

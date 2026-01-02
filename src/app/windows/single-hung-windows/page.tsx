@@ -1,5 +1,6 @@
 import Header from "@/components/header";
 import Footer from "@/components/footer";
+import BrandLogos from "@/components/brand-logos";
 import Link from "next/link";
 import type { Metadata } from "next";
 
@@ -31,7 +32,7 @@ export default function SingleHungWindows() {
       <section className="relative min-h-[60vh] flex items-center justify-center bg-navy-900">
         <div 
           className="absolute inset-0 bg-cover bg-center opacity-30"
-          style={{ backgroundImage: "url('/windows/double-hung-windows-garland-tx.jpg')" }}
+          style={{ backgroundImage: "url('/windows/single-hung-windows-garland-tx.webp')" }}
         />
         <div className="relative z-10 text-center px-6 max-w-4xl mx-auto py-20">
           <h1 className="font-serif text-5xl md:text-6xl font-bold text-cream-100 mb-6">
@@ -66,10 +67,18 @@ export default function SingleHungWindows() {
                 glass packages and weatherstripping as their double-hung counterparts.
               </p>
               <p className="text-navy-700 leading-relaxed">
-                The fewer moving parts in single-hung windows also mean less potential for mechanical issues 
-                over time. Many homeowners appreciate this simplicity, especially in upper-floor installations 
+                The fewer moving parts in single-hung windows also mean less potential for mechanical issues
+                over time. Many homeowners appreciate this simplicity, especially in upper-floor installations
                 where the fixed top sash provides enhanced security while the bottom sash handles ventilation needs.
               </p>
+            </div>
+
+            {/* Brand Logos */}
+            <div className="mt-12">
+              <h3 className="font-serif text-2xl font-semibold text-navy-900 mb-6 text-center">
+                Premium Brands We Install
+              </h3>
+              <BrandLogos size="md" />
             </div>
             <div className="bg-navy-900 p-8 rounded-sm">
               <h3 className="font-serif text-2xl text-cream-100 mb-6">Single-Hung Advantages</h3>

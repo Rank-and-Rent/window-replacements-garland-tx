@@ -1,6 +1,7 @@
 import Header from "@/components/header";
 import CallToAction from "@/components/call-to-action";
 import Footer from "@/components/footer";
+import BrandLogos from "@/components/brand-logos";
 import Link from "next/link";
 import type { Metadata } from "next";
 
@@ -17,9 +18,9 @@ export default function DallasWindowReplacement() {
       
       {/* Hero Section */}
       <section className="relative min-h-[50vh] flex items-center justify-center bg-navy-900">
-        <div 
+        <div
           className="absolute inset-0 bg-cover bg-center opacity-20"
-          style={{ backgroundImage: "url('/windows/double-hung-windows-garland-tx.jpg')" }}
+          style={{ backgroundImage: "url('/locations/window-replacement-dallas-tx-2.jpg')" }}
         />
         <div className="relative z-10 text-center px-6 max-w-4xl mx-auto py-24">
           <h1 className="font-serif text-5xl md:text-6xl font-bold text-cream-100 mb-6">
@@ -92,6 +93,14 @@ export default function DallasWindowReplacement() {
                 </li>
               </ul>
             </div>
+          </div>
+
+          {/* Brand Logos */}
+          <div className="mt-12 bg-navy-900 p-8 rounded-sm">
+            <h3 className="font-serif text-2xl text-cream-100 mb-6 text-center">
+              Premium Window Brands for Dallas Homes
+            </h3>
+            <BrandLogos size="md" className="justify-center" />
           </div>
 
           {/* Dallas Neighborhoods */}

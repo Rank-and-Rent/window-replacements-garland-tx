@@ -6,7 +6,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Window Replacement Garland TX | Expert Installation Services",
-  description: "Professional window replacement throughout Garland, TX. Serving all Garland neighborhoods. Andersen, Pella & Jeld-Wen authorized dealer. Expert service: 972-734-3158",
+  description: "Professional window replacement throughout Garland, TX. Serving all Garland neighborhoods. Andersen, Pella & Jeld-Wen windows. Expert service: 972-734-3158",
   keywords: "window replacement Garland TX, Garland window installation, Garland windows",
 };
 

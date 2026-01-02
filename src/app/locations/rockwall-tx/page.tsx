@@ -18,7 +18,7 @@ export default function RockwallWindowReplacement() {
       <section className="relative min-h-[50vh] flex items-center justify-center bg-navy-900">
         <div 
           className="absolute inset-0 bg-cover bg-center opacity-20"
-          style={{ backgroundImage: "url('/windows/double-hung-windows-garland-tx.jpg')" }}
+          style={{ backgroundImage: "url('/locations/window-replacement-rockwall-tx.jpg')" }}
         />
         <div className="relative z-10 text-center px-6 max-w-4xl mx-auto py-24">
           <h1 className="font-serif text-5xl md:text-6xl font-bold text-cream-100 mb-6">

@@ -1,5 +1,6 @@
 import Header from "@/components/header";
 import Footer from "@/components/footer";
+import BrandLogos from "@/components/brand-logos";
 import Link from "next/link";
 import type { Metadata } from "next";
 
@@ -104,37 +105,12 @@ export default function DoubleHungWindows() {
             </div>
           </div>
 
-          {/* Brand Showcase */}
+          {/* Brand Logos */}
           <div className="mb-16">
             <h2 className="font-serif text-3xl font-semibold text-navy-900 mb-8 text-center">
-              Premium Double-Hung Window Brands
+              Premium Brands We Install
             </h2>
-            <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
-              <div className="bg-white p-6 border-t-4 border-gold-500">
-                <h3 className="font-serif text-xl text-navy-900 mb-3">Andersen</h3>
-                <p className="text-navy-700 text-sm">
-                  400 Series double-hung with Fibrex frames, Low-E4 glass, and superior energy ratings.
-                </p>
-              </div>
-              <div className="bg-white p-6 border-t-4 border-gold-500">
-                <h3 className="font-serif text-xl text-navy-900 mb-3">Pella</h3>
-                <p className="text-navy-700 text-sm">
-                  250 Series featuring EnduraClad exteriors and optional between-the-glass blinds.
-                </p>
-              </div>
-              <div className="bg-white p-6 border-t-4 border-gold-500">
-                <h3 className="font-serif text-xl text-navy-900 mb-3">JELD-WEN</h3>
-                <p className="text-navy-700 text-sm">
-                  Premium vinyl double-hung with multi-chamber frames and competitive pricing.
-                </p>
-              </div>
-              <div className="bg-white p-6 border-t-4 border-gold-500">
-                <h3 className="font-serif text-xl text-navy-900 mb-3">Marvin</h3>
-                <p className="text-navy-700 text-sm">
-                  Signature Collection with unlimited customization and premium craftsmanship.
-                </p>
-              </div>
-            </div>
+            <BrandLogos size="lg" />
           </div>
 
           {/* FAQ */}

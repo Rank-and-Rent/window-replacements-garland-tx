@@ -1,12 +1,13 @@
 import Header from "@/components/header";
 import Footer from "@/components/footer";
+import Brands from "@/components/brands";
 import Link from "next/link";
 import Image from "next/image";
 import type { Metadata } from "next";
 import { brandsData } from "@/data";
 
 export const metadata: Metadata = {
-  title: "Pella Windows & Doors Garland TX | Authorized Dealer",
+  title: "Pella Windows & Doors Garland TX",
   description: "Pella window and door replacement in Garland, TX. Industry leader since 1925. InsulShield glass, EnduraClad exteriors. Call 972-734-3158.",
   keywords: "Pella windows Garland TX, Pella doors, InsulShield glass, window replacement Garland",
 };
@@ -60,6 +61,9 @@ export default function PellaPage() {
           </div>
         </div>
       </section>
+
+      {/* Prominent Brand Logos */}
+      <Brands />
 
       {/* Main Content */}
       <section className="py-20 bg-cream-100">

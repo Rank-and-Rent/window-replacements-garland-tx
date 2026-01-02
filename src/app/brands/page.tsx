@@ -1,5 +1,6 @@
 import Header from "@/components/header";
 import Footer from "@/components/footer";
+import Brands from "@/components/brands";
 import Link from "next/link";
 import Image from "next/image";
 import type { Metadata } from "next";
@@ -30,7 +31,7 @@ export default function BrandsIndexPage() {
       <section className="relative min-h-[50vh] flex items-center justify-center bg-navy-900">
         <div 
           className="absolute inset-0 bg-cover bg-center opacity-30"
-          style={{ backgroundImage: "url('/windows/double-hung-windows-garland-tx.jpg')" }}
+          style={{ backgroundImage: "url('/brands/andersen-windows-garland-tx.jpg')" }}
         />
         <div className="relative z-10 text-center px-6 max-w-4xl mx-auto py-20">
           <h1 className="font-serif text-5xl md:text-6xl font-bold text-cream-100 mb-6">
@@ -45,6 +46,9 @@ export default function BrandsIndexPage() {
           </Link>
         </div>
       </section>
+
+      {/* Prominent Brand Logos */}
+      <Brands />
 
       {/* Brands Grid */}
       <section className="py-20 bg-cream-100">

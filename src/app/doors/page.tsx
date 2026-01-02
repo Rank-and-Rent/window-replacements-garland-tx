@@ -1,5 +1,6 @@
 import Header from "@/components/header";
 import Footer from "@/components/footer";
+import BrandLogos from "@/components/brand-logos";
 import Link from "next/link";
 import type { Metadata } from "next";
 import { servicesData } from "@/data";
@@ -31,7 +32,7 @@ export default function DoorsIndexPage() {
       <section className="relative min-h-[50vh] flex items-center justify-center bg-navy-900">
         <div 
           className="absolute inset-0 bg-cover bg-center opacity-30"
-          style={{ backgroundImage: "url('/windows/double-hung-windows-garland-tx.jpg')" }}
+          style={{ backgroundImage: "url('/doors/entry-doors-garland-tx.jpg')" }}
         />
         <div className="relative z-10 text-center px-6 max-w-4xl mx-auto py-20">
           <h1 className="font-serif text-5xl md:text-6xl font-bold text-cream-100 mb-6">
@@ -110,6 +111,19 @@ export default function DoorsIndexPage() {
               </p>
             </div>
           </div>
+        </div>
+      </section>
+
+      {/* Brand Logos */}
+      <section className="py-16 bg-cream-100">
+        <div className="max-w-4xl mx-auto px-6 text-center">
+          <h2 className="font-serif text-3xl font-semibold text-navy-900 mb-6">
+            Premium Door Brands We Install
+          </h2>
+          <p className="text-navy-700 text-lg mb-8">
+            Choose from the finest door manufacturers for your Garland home.
+          </p>
+          <BrandLogos size="lg" />
         </div>
       </section>
 

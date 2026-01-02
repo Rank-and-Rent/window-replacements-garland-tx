@@ -13,7 +13,7 @@ const windowTypes = [
     slug: "single-hung-windows",
     description:
       "An economical choice featuring a fixed upper sash and operable lower sash. Ideal for bedrooms and living spaces where simplicity and reliability meet energy efficiency.",
-    image: "/windows/single-hung-windows-garland-tx.jpg",
+    image: "/windows/single-hung-windows-garland-tx.webp",
   },
   {
     name: "Casement Windows",
@@ -76,9 +76,9 @@ export default function Services() {
               insight, each product is made to perform beautifully for years to
               come.
             </p>
-            <a href="#brands" className="btn-primary">
+            <Link href="/brands" className="btn-primary">
               VIEW PRODUCTS
-            </a>
+            </Link>
           </div>
         </div>
       </div>

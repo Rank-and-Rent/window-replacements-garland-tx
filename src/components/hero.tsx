@@ -28,6 +28,14 @@ const heroImages = [
     src: "/windows/awning-windows-garland-tx.jpg",
     alt: "Awning windows for ventilation",
   },
+  {
+    src: "/windows/single-hung-windows-garland-tx.webp",
+    alt: "Single-hung windows installation",
+  },
+  {
+    src: "/windows/special-shape-windows-garland-tx.jpg",
+    alt: "Special shape windows",
+  },
 ];
 
 export default function Hero() {
@@ -56,6 +64,43 @@ export default function Hero() {
   };
   return (
     <section className="relative min-h-screen flex items-end">
+      {/* Brand Logos Banner - positioned below fixed header */}
+      <div className="absolute top-[80px] left-0 right-0 z-20 bg-white/90 backdrop-blur-sm border-b border-gray-200/20">
+        <div className="max-w-7xl mx-auto px-4 lg:px-12 py-3 lg:py-4">
+          <div className="flex items-center justify-center gap-3 sm:gap-4 lg:gap-8">
+            <span className="hidden sm:inline text-sm font-medium text-gray-700 mr-2 lg:mr-4">Trusted Brands:</span>
+            <Link href="/brands" className="hover:opacity-80 transition-opacity flex-shrink-0">
+              <img
+                src="/andersen-windows-and-doors-logo.png"
+                alt="Andersen Windows & Doors"
+                className="h-6 sm:h-8 lg:h-10 w-auto"
+              />
+            </Link>
+            <Link href="/brands" className="hover:opacity-80 transition-opacity flex-shrink-0">
+              <img
+                src="/Pella-Corp-Windows-Doors-Logo-2x1-1.png"
+                alt="Pella Windows & Doors"
+                className="h-6 sm:h-8 lg:h-10 w-auto"
+              />
+            </Link>
+            <Link href="/brands" className="hover:opacity-80 transition-opacity flex-shrink-0">
+              <img
+                src="/jeld-wen-windows-and-doors-logo.png"
+                alt="Jeld-Wen Windows & Doors"
+                className="h-6 sm:h-8 lg:h-10 w-auto"
+              />
+            </Link>
+            <Link href="/brands" className="hover:opacity-80 transition-opacity flex-shrink-0">
+              <img
+                src="/Marvin-LOCKUP-CMYK-898x301.png"
+                alt="Marvin Windows & Doors"
+                className="h-6 sm:h-8 lg:h-10 w-auto"
+              />
+            </Link>
+          </div>
+        </div>
+      </div>
+
       {/* Background Image */}
       <div className="absolute inset-0 bg-cover bg-center bg-no-repeat transition-all duration-1000">
         {heroImages.map((image, index) => (
@@ -129,14 +174,14 @@ export default function Hero() {
       </div>
 
       {/* Content */}
-      <div className="relative z-10 w-full pb-16 lg:pb-24">
+      <div className="relative z-10 w-full pt-40 pb-16 lg:pb-24">
         <div className="px-6 lg:px-12">
           <div className="flex flex-col lg:flex-row lg:items-end lg:justify-between gap-8">
             <h1 className="font-serif text-4xl md:text-5xl lg:text-6xl text-cream-100 font-semibold leading-tight max-w-xl">
-              Premium Window Replacements
+              Best Window and Door Replacement Service in Garland, TX
             </h1>
             <div className="flex flex-col sm:flex-row gap-4">
-              <Link href="#services" className="btn-outline-light">
+              <Link href="/windows" className="btn-outline-light">
                 PRODUCTS
               </Link>
             </div>
