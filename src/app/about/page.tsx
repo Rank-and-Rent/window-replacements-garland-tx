@@ -94,7 +94,7 @@ export default function AboutPage() {
               <li>- Knowledge of local building codes and permit requirements</li>
               <li>- Experience with Garland&apos;s climate considerations</li>
               <li>
-                - Authorized dealers for premium brands like
+                - Premium brands including
                 Andersen, Pella, JELD-WEN, and Marvin
               </li>
               <li>

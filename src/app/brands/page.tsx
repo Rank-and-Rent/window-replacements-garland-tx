@@ -8,7 +8,7 @@ import { brandsData } from "@/data";
 
 export const metadata: Metadata = {
   title: "Premium Window & Door Brands Garland TX | Andersen, Pella, JELD-WEN, Marvin",
-  description: "Authorized dealer for Andersen, Pella, JELD-WEN, and Marvin windows and doors in Garland, TX. Premium quality with full warranty support. Call 972-734-3158.",
+  description: "Andersen, Pella, JELD-WEN, and Marvin windows and doors in Garland, TX. Premium quality with full warranty support. Call 972-734-3158.",
 };
 
 export default function BrandsIndexPage() {

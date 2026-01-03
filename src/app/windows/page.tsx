@@ -85,7 +85,7 @@ export default function WindowsIndexPage() {
               </div>
               <h3 className="font-serif text-xl text-cream-100 mb-3">Premium Brands</h3>
               <p className="text-cream-200 text-sm">
-                Authorized dealer for Andersen, Pella, JELD-WEN, and Marvin windows with full warranty support.
+                Andersen, Pella, JELD-WEN, and Marvin windows with full warranty support.
               </p>
             </div>
             <div className="text-center">
