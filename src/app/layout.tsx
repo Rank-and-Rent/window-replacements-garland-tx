@@ -3,7 +3,7 @@ import { Analytics } from "@vercel/analytics/react";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://windowreplacementgarland.com'),
+  metadataBase: new URL('https://windowreplacementgarlandtx.com'),
   title: {
     default: "Window Replacement Service of Garland | Premium Window Installation in Garland, TX",
     template: "%s | Window Replacement Service of Garland",
@@ -41,7 +41,7 @@ export const metadata: Metadata = {
     title: "Best Window Replacement in Garland, TX",
     description:
       "Transform your home with premium window replacements from Andersen, Pella, and Jeld-Wen. Serving Garland, TX and surrounding areas.",
-    url: 'https://windowreplacementgarland.com',
+    url: 'https://windowreplacementgarlandtx.com',
     siteName: 'Window Replacement Service of Garland',
     locale: "en_US",
     type: "website",
@@ -61,7 +61,7 @@ export const metadata: Metadata = {
     images: ['/og-image.jpg'],
   },
   alternates: {
-    canonical: 'https://windowreplacementgarland.com',
+    canonical: 'https://windowreplacementgarlandtx.com',
   },
 };
 
@@ -99,13 +99,13 @@ export default function RootLayout({
             __html: JSON.stringify({
               '@context': 'https://schema.org',
               '@type': 'HomeAndConstructionBusiness',
-              '@id': 'https://windowreplacementgarland.com/#organization',
+              '@id': 'https://windowreplacementgarlandtx.com/#organization',
               name: 'Window Replacement Service of Garland',
               alternateName: 'Garland Window Replacement',
               description: 'Professional window replacement services in Garland, Texas. Expert installation of Andersen, Pella, and Jeld-Wen windows.',
-              url: 'https://windowreplacementgarland.com',
+              url: 'https://windowreplacementgarlandtx.com',
               telephone: '+1-972-734-3158',
-              email: 'info@windowreplacementgarland.com',
+              email: 'contact@windowreplacementgarlandtx.com',
               address: {
                 '@type': 'PostalAddress',
                 streetAddress: '3333 N Garland Ave #200',
@@ -159,8 +159,8 @@ export default function RootLayout({
               priceRange: '$$',
               currenciesAccepted: 'USD',
               paymentAccepted: 'Cash, Credit Card, Financing',
-              image: 'https://windowreplacementgarland.com/og-image.jpg',
-              logo: 'https://windowreplacementgarland.com/logo.png',
+              image: 'https://windowreplacementgarlandtx.com/og-image.jpg',
+              logo: 'https://windowreplacementgarlandtx.com/logo.png',
               slogan: 'Premium Window Replacement for Garland Homes',
               foundingDate: '2010',
               aggregateRating: {
@@ -210,15 +210,15 @@ export default function RootLayout({
             __html: JSON.stringify({
               '@context': 'https://schema.org',
               '@type': 'WebSite',
-              '@id': 'https://windowreplacementgarland.com/#website',
+              '@id': 'https://windowreplacementgarlandtx.com/#website',
               name: 'Window Replacement Service of Garland',
-              url: 'https://windowreplacementgarland.com',
-              publisher: { '@id': 'https://windowreplacementgarland.com/#organization' },
+              url: 'https://windowreplacementgarlandtx.com',
+              publisher: { '@id': 'https://windowreplacementgarlandtx.com/#organization' },
               potentialAction: {
                 '@type': 'SearchAction',
                 target: {
                   '@type': 'EntryPoint',
-                  urlTemplate: 'https://windowreplacementgarland.com/search?q={search_term_string}',
+                  urlTemplate: 'https://windowreplacementgarlandtx.com/search?q={search_term_string}',
                 },
                 'query-input': 'required name=search_term_string',
               },
@@ -231,10 +231,10 @@ export default function RootLayout({
             __html: JSON.stringify({
               '@context': 'https://schema.org',
               '@type': 'Organization',
-              '@id': 'https://windowreplacementgarland.com/#org',
+              '@id': 'https://windowreplacementgarlandtx.com/#org',
               name: 'Window Replacement Service of Garland',
-              url: 'https://windowreplacementgarland.com',
-              logo: 'https://windowreplacementgarland.com/logo.png',
+              url: 'https://windowreplacementgarlandtx.com',
+              logo: 'https://windowreplacementgarlandtx.com/logo.png',
               contactPoint: {
                 '@type': 'ContactPoint',
                 telephone: '+1-972-734-3158',

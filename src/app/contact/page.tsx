@@ -71,10 +71,10 @@ export default function ContactPage() {
                     Email Us
                   </h3>
                   <a
-                    href="mailto:info@windowreplacementgarland.com"
+                    href="mailto:contact@windowreplacementgarlandtx.com"
                     className="text-gold-500 hover:text-gold-600"
                   >
-                    info@windowreplacementgarland.com
+                    contact@windowreplacementgarlandtx.com
                   </a>
                 </div>
 

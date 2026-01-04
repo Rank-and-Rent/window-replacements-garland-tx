@@ -102,10 +102,10 @@ export default function Footer() {
               </p>
               <p>
                 <a
-                  href="mailto:info@windowreplacementgarland.com"
+                  href="mailto:contact@windowreplacementgarlandtx.com"
                   className="hover:text-gold-400 transition-colors"
                 >
-                  info@windowreplacementgarland.com
+                  contact@windowreplacementgarlandtx.com
                 </a>
               </p>
               <address className="not-italic">

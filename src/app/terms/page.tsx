@@ -108,7 +108,7 @@ export default function TermsPage() {
               <br />
               Phone: <a href="tel:972-734-3158" className="text-gold-500 hover:text-gold-600">(972) 734-3158</a>
               <br />
-              Email: <a href="mailto:info@windowreplacementgarland.com" className="text-gold-500 hover:text-gold-600">info@windowreplacementgarland.com</a>
+              Email: <a href="mailto:contact@windowreplacementgarlandtx.com" className="text-gold-500 hover:text-gold-600">contact@windowreplacementgarlandtx.com</a>
             </p>
           </div>
         </div>
