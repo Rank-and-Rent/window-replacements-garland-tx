@@ -1,0 +1,10 @@
+export const PRIMARY_CITY = "Garland";
+export const PRIMARY_STATE_ABBR = "TX";
+export const PRIMARY_STATE_FULL = "Texas";
+export const COMPANY_NAME = "Window Replacements of Garland";
+export const PHONE = "972-734-3158";
+export const PHONE_DIGITS = "19727343158";
+export const EMAIL = "contact@windowreplacementgarlandtx.com";
+export const ADDRESS = "Garland, TX";
+export const CANONICAL_URL = "https://www.windowreplacementgarlandtx.com/";
+export const BUSINESS_HOURS = "Open 24/7";
