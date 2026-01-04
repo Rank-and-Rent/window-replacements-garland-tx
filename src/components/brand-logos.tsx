@@ -17,7 +17,7 @@ export default function BrandLogos({ className = '', size = 'md' }: BrandLogosPr
       {/* Andersen */}
       <Link href="/brands/andersen-windows-doors" className="hover:opacity-80 transition-opacity">
         <img
-          src="/andersen-windows-and-doors-logo.png"
+          src="/andersen-windows-and-doors-garland-tx-logo.png"
           alt="Andersen Windows & Doors"
           className={`${sizeClasses[size]} w-auto`}
         />
@@ -26,7 +26,7 @@ export default function BrandLogos({ className = '', size = 'md' }: BrandLogosPr
       {/* Pella */}
       <Link href="/brands/pella-windows-doors" className="hover:opacity-80 transition-opacity">
         <img
-          src="/Pella-Corp-Windows-Doors-Logo-2x1-1.png"
+          src="/pella-windows-and-doors-garland-tx-logo.png"
           alt="Pella Windows & Doors"
           className={`${sizeClasses[size]} w-auto`}
         />
@@ -35,7 +35,7 @@ export default function BrandLogos({ className = '', size = 'md' }: BrandLogosPr
       {/* Jeld-Wen */}
       <Link href="/brands/jeld-wen-windows-doors" className="hover:opacity-80 transition-opacity">
         <img
-          src="/jeld-wen-windows-and-doors-logo.png"
+          src="/jeld-wen-windows-and-doors-garland-tx-logo.png"
           alt="Jeld-Wen Windows & Doors"
           className={`${sizeClasses[size]} w-auto`}
         />
@@ -44,7 +44,7 @@ export default function BrandLogos({ className = '', size = 'md' }: BrandLogosPr
       {/* Marvin */}
       <Link href="/brands/marvin-windows-doors" className="hover:opacity-80 transition-opacity">
         <img
-          src="/Marvin-LOCKUP-CMYK-898x301.png"
+          src="/marvin-windows-and-doors-garland-tx-logo.png"
           alt="Marvin Windows & Doors"
           className={`${sizeClasses[size]} w-auto`}
         />
