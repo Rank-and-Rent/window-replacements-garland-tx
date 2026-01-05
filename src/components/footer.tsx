@@ -186,14 +186,13 @@ export default function Footer() {
         {/* Copyright */}
         <div className="pt-8 border-t border-navy-800">
           <div className="flex flex-col md:flex-row items-center justify-between gap-4">
-            <div className="border-2 border-gold-500 px-4 py-2 bg-navy-900">
-              <span
-                className="text-gold-500 text-xl font-bold italic"
-                style={{ fontFamily: "Georgia, serif" }}
-              >
-                WRG
-              </span>
-            </div>
+            <Link href="/">
+              <img
+                src="/window-replacement-service-garland-tx.png"
+                alt="Window Replacement Service of Garland"
+                className="h-12 w-auto"
+              />
+            </Link>
             <p className="text-cream-300 text-sm text-center">
               &copy; {currentYear} Window Replacement Service of Garland. All rights reserved.
             </p>
