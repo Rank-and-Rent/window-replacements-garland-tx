@@ -10,6 +10,9 @@ export const metadata: Metadata = {
   title: "Pella Windows & Doors Garland TX",
   description: "Pella window and door replacement in Garland, TX. Industry leader since 1925. InsulShield glass, EnduraClad exteriors. Call 972-734-3158.",
   keywords: "Pella windows Garland TX, Pella doors, InsulShield glass, window replacement Garland",
+  alternates: {
+    canonical: 'https://windowreplacementgarlandtx.com/brands/pella-windows-doors',
+  },
 };
 
 export default function PellaPage() {

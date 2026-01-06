@@ -9,6 +9,9 @@ import { brandsData } from "@/data";
 export const metadata: Metadata = {
   title: "Premium Window & Door Brands Garland TX | Andersen, Pella, JELD-WEN, Marvin",
   description: "Andersen, Pella, JELD-WEN, and Marvin windows and doors in Garland, TX. Premium quality with full warranty support. Call 972-734-3158.",
+  alternates: {
+    canonical: 'https://windowreplacementgarlandtx.com/brands',
+  },
 };
 
 export default function BrandsIndexPage() {

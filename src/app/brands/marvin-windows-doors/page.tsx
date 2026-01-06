@@ -10,6 +10,9 @@ export const metadata: Metadata = {
   title: "Marvin Windows & Doors Garland TX",
   description: "Marvin window and door replacement in Garland, TX. Premium custom craftsmanship since 1912. Signature, Elevate, and Essential collections. Call 972-734-3158.",
   keywords: "Marvin windows Garland TX, Marvin doors, custom windows, premium windows Garland",
+  alternates: {
+    canonical: 'https://windowreplacementgarlandtx.com/brands/marvin-windows-doors',
+  },
 };
 
 export default function MarvinPage() {

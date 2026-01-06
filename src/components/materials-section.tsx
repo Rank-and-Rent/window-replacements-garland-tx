@@ -9,14 +9,14 @@ const materialTypes = [
   {
     name: 'Vinyl Windows',
     slug: '/windows/vinyl-windows',
-    description: 'Low-maintenance vinyl windows with superior energy efficiency and durability. Perfect for Arlington homeowners seeking hassle-free performance.',
+    description: 'Low-maintenance vinyl windows with superior energy efficiency and durability. Perfect for Garland homeowners seeking hassle-free performance.',
     features: ['Low maintenance', 'Energy efficient', 'Weather resistant'],
     image: '/window-types/vinyl-garland-tx.jpg',
   },
   {
     name: 'Aluminum Windows',
     slug: '/windows/aluminum-windows',
-    description: 'Durable aluminum windows with modern thermal efficiency and sleek contemporary styling. Exceptional strength for any Arlington home.',
+    description: 'Durable aluminum windows with modern thermal efficiency and sleek contemporary styling. Exceptional strength for any Garland home.',
     features: ['Durable & strong', 'Sleek design', 'Impact resistant'],
     image: '/window-types/aluminum-garland-tx.jpg',
   },
@@ -44,7 +44,7 @@ const materialTypes = [
   {
     name: 'Wood Windows',
     slug: '/windows/wood-windows',
-    description: 'Traditional wood windows with natural beauty and superior insulation. Timeless character and craftsmanship for discerning Arlington homeowners.',
+    description: 'Traditional wood windows with natural beauty and superior insulation. Timeless character and craftsmanship for discerning Garland homeowners.',
     features: ['Natural beauty', 'Superior insulation', 'Timeless character'],
     image: '/window-types/wood-garland-tx.jpg',
   },
@@ -63,7 +63,7 @@ export default function MaterialsSection() {
         >
           <h2 className={styles.title}>Window Materials</h2>
           <p className={styles.subtitle}>
-            Choose from premium window materials designed for Arlington&apos;s climate.
+            Choose from premium window materials designed for Garland&apos;s climate.
             Each material offers unique benefits in terms of durability, energy efficiency,
             and aesthetic appeal.
           </p>
@@ -82,7 +82,7 @@ export default function MaterialsSection() {
               <div className={styles.imageWrapper}>
                 <Image
                   src={material.image}
-                  alt={`${material.name} in Arlington, TX`}
+                  alt={`${material.name} in Garland, TX`}
                   fill
                   className={styles.image}
                 />
@@ -122,7 +122,7 @@ export default function MaterialsSection() {
           <h3 className={styles.ctaTitle}>Find the Perfect Material for Your Home</h3>
           <p className={styles.ctaText}>
             Our experts help you choose the ideal window material based on your budget,
-            style preferences, and Arlington climate considerations.
+            style preferences, and Garland climate considerations.
           </p>
           <Link href="/#contact" className={styles.ctaButton}>
             Get Expert Advice

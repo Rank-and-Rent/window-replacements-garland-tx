@@ -118,7 +118,7 @@ export default function ContactPage() {
               </div>
               <div className="mt-8"><h3 className="font-semibold text-navy-900 mb-4">Find Us</h3><div className="aspect-video w-full"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3347.8!2d-96.6285!3d32.9285!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x864c1f5b5e1b5a6d%3A0x1234567890!2s350%20Oaks%20Trl%20%23220%2C%20Garland%2C%20TX%2075043!5e0!3m2!1sen!2sus!4v1234567890" width="100%" height="100%" style={{ border: 0, borderRadius: "4px" }} allowFullScreen loading="lazy" referrerPolicy="no-referrer-when-downgrade" title="Window Replacement Service of Garland location map"></iframe></div></div>
             </div>
-            <div className="bg-navy-900 p-8 rounded-sm">
+            <div id="contact-form" className="bg-navy-900 p-8 rounded-sm scroll-mt-32">
               <h2 className="font-serif text-2xl font-semibold text-cream-100 mb-6">Request Your Free Estimate</h2>
               {status === 'success' && <div className="bg-green-500 text-white p-4 rounded mb-4">{feedback}</div>}
               {status === 'error' && <div className="bg-red-500 text-white p-4 rounded mb-4">{feedback}</div>}

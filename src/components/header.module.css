@@ -49,7 +49,7 @@
   font-family: var(--font-body);
   font-size: 0.875rem;
   font-weight: 500;
-  color: var(--color-white);
+  color: #ffffff;
   text-transform: uppercase;
   letter-spacing: 0.1em;
   position: relative;
@@ -125,7 +125,7 @@
 .dropdownItem {
   display: block;
   padding: 0.75rem 1.5rem;
-  color: var(--color-white);
+  color: #ffffff;
   font-size: 0.875rem;
   font-weight: 500;
   white-space: nowrap;
@@ -145,7 +145,7 @@
   border-top: 1px solid rgba(255, 255, 255, 0.1);
   padding-top: 0.75rem;
   font-weight: 600;
-  color: var(--color-accent);
+  color: #ffffff;
   text-transform: uppercase;
   font-size: 0.75rem;
   letter-spacing: 0.1em;
@@ -173,14 +173,14 @@
   font-size: 0.7rem;
   text-transform: uppercase;
   letter-spacing: 0.15em;
-  color: var(--color-gray-400);
+  color: #ffffff;
 }
 
 .phoneNumber {
   font-family: var(--font-display);
   font-size: 1.25rem;
   font-weight: 600;
-  color: var(--color-white);
+  color: #ffffff;
   transition: color var(--transition-fast);
 }
 
@@ -194,7 +194,7 @@
   justify-content: center;
   padding: 0.875rem 1.75rem;
   background: var(--color-accent);
-  color: var(--color-primary-dark);
+  color: #ffffff;
   font-family: var(--font-body);
   font-size: 0.8rem;
   font-weight: 600;
@@ -227,7 +227,7 @@
   display: block;
   width: 24px;
   height: 2px;
-  background: var(--color-white);
+  background: #ffffff;
   transition: all 0.3s ease;
   margin: 3px 0;
 }
@@ -313,7 +313,7 @@
   background: rgba(255, 255, 255, 0.05);
   border: none;
   border-radius: 8px;
-  color: var(--color-white);
+  color: #ffffff;
   cursor: pointer;
   transition: background 0.2s ease;
 }
@@ -341,7 +341,7 @@
   padding: 1rem 1.5rem;
   background: transparent;
   border: none;
-  color: var(--color-white);
+  color: #ffffff;
   font-family: var(--font-body);
   font-size: 1rem;
   font-weight: 500;
@@ -379,7 +379,7 @@
 .mobileDropdownItem {
   display: block;
   padding: 0.875rem 1.5rem 0.875rem 2.5rem;
-  color: rgba(255, 255, 255, 0.8);
+  color: #ffffff;
   font-size: 0.9rem;
   font-weight: 400;
   border-left: 3px solid transparent;
@@ -393,7 +393,7 @@
 }
 
 .mobileViewAll {
-  color: var(--color-accent);
+  color: #ffffff;
   font-weight: 600;
   text-transform: uppercase;
   font-size: 0.8rem;
@@ -406,7 +406,7 @@
 .mobileNavLink {
   display: block;
   padding: 1rem 1.5rem;
-  color: var(--color-white);
+  color: #ffffff;
   font-family: var(--font-body);
   font-size: 1rem;
   font-weight: 500;
@@ -440,7 +440,7 @@
   background: rgba(255, 255, 255, 0.05);
   border: 1px solid rgba(255, 255, 255, 0.1);
   border-radius: 8px;
-  color: var(--color-white);
+  color: #ffffff;
   font-family: var(--font-display);
   font-size: 1rem;
   font-weight: 600;
@@ -479,10 +479,8 @@
   position: fixed;
   bottom: 24px;
   right: 24px;
-  width: 60px;
-  height: 60px;
   background: var(--color-accent);
-  border-radius: 50%;
+  border-radius: 30px;
   align-items: center;
   justify-content: center;
   color: var(--color-primary-dark);
@@ -490,11 +488,26 @@
   z-index: 900;
   transition: all 0.3s ease;
   animation: pulse 2s infinite;
+  padding: 12px 20px;
+  gap: 8px;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 0.875rem;
+  white-space: nowrap;
+  flex-direction: row;
 }
 
 .floatingCallButton:hover {
-  transform: scale(1.08);
+  transform: scale(1.05);
   box-shadow: 0 6px 30px rgba(247, 195, 70, 0.5), 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+
+.messageIcon {
+  flex-shrink: 0;
+}
+
+.buttonText {
+  display: none;
 }
 
 @keyframes pulse {
@@ -555,13 +568,16 @@
   .floatingCallButton {
     bottom: 20px;
     right: 20px;
-    width: 56px;
-    height: 56px;
+    padding: 14px 20px;
+  }
+
+  .floatingCallButton .buttonText {
+    display: inline;
   }
 
   .floatingCallButton svg {
-    width: 24px;
-    height: 24px;
+    width: 20px;
+    height: 20px;
   }
 }
 

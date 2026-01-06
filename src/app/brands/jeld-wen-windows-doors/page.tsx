@@ -10,6 +10,9 @@ export const metadata: Metadata = {
   title: "JELD-WEN Windows & Doors Garland TX",
   description: "JELD-WEN window and door replacement in Garland, TX. Quality and value with AuraLast wood protection. Wide selection of styles and price points. Call 972-734-3158.",
   keywords: "JELD-WEN windows Garland TX, JELD-WEN doors, AuraLast wood, window replacement Garland",
+  alternates: {
+    canonical: 'https://windowreplacementgarlandtx.com/brands/jeld-wen-windows-doors',
+  },
 };
 
 export default function JeldWenPage() {

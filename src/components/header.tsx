@@ -73,6 +73,7 @@ export default function Header() {
   // Split services into windows, doors, and materials
   const windowServices = servicesData.filter(s => s.category === 'Windows')
   const doorServices = servicesData.filter(s => s.category === 'Doors')
+  // Get all materials (6 total: Vinyl, Aluminum, Fibrex, Fiberglass, Wood Clad, Wood)
   const materialServices = servicesData.filter(s => s.category === 'Materials')
   
   // Top 8 locations for dropdown (main city first, then most populous)
@@ -172,7 +173,7 @@ export default function Header() {
                     </Link>
                   ))}
                   <Link
-                    href="/windows"
+                    href="/materials"
                     className={`${styles.dropdownItem} ${styles.viewAll}`}
                     onClick={() => setActiveDropdown(null)}
                   >
@@ -434,7 +435,7 @@ export default function Header() {
                 </Link>
               ))}
               <Link
-                href="/windows"
+                href="/materials"
                 className={`${styles.mobileDropdownItem} ${styles.mobileViewAll}`}
                 onClick={closeMobileMenu}
               >
@@ -565,16 +566,17 @@ export default function Header() {
         </div>
       </nav>
 
-      {/* Floating Mobile Call Button */}
-      <a 
-        href="tel:817-592-8870" 
+      {/* Floating Mobile Quote Button */}
+      <Link 
+        href="/contact#contact-form" 
         className={styles.floatingCallButton}
-        aria-label="Call Now"
+        aria-label="Get Free Quote"
       >
-        <svg viewBox="0 0 24 24" width="28" height="28" fill="currentColor">
-          <path d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"/>
+        <svg viewBox="0 0 24 24" width="24" height="24" fill="currentColor" className={styles.messageIcon}>
+          <path d="M20 2H4c-1.1 0-2 .9-2 2v18l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm0 14H6l-2 2V4h16v12z"/>
         </svg>
-      </a>
+        <span className={styles.buttonText}>Get Free Quote</span>
+      </Link>
     </>
   )
 }

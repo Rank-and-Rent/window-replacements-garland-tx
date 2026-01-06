@@ -10,6 +10,9 @@ export const metadata: Metadata = {
   title: "Andersen Windows & Doors Garland TX",
   description: "Andersen window and door replacement in Garland, TX. Over 120 years of quality and innovation. Fibrex composite frames, Low-E glass. Call 972-734-3158.",
   keywords: "Andersen windows Garland TX, Andersen doors, Fibrex windows, window replacement Garland",
+  alternates: {
+    canonical: 'https://windowreplacementgarlandtx.com/brands/andersen-windows-doors',
+  },
 };
 
 export default function AndersenPage() {
