@@ -5,6 +5,7 @@ export default function Footer() {
   const currentYear = new Date().getFullYear();
   const windowServices = servicesData.filter((s) => s.category === "Windows");
   const doorServices = servicesData.filter((s) => s.category === "Doors");
+  const materialServices = servicesData.filter((s) => s.category === "Materials");
   const topLocations = locationsData.filter((l) => l.type === "city").slice(0, 8);
 
   return (
@@ -34,6 +35,31 @@ export default function Footer() {
             <h3 className="font-serif text-lg text-gold-500 mb-4">Doors</h3>
             <ul className="space-y-2">
               {doorServices.map((service) => (
+                <li key={service.slug}>
+                  <Link
+                    href={service.route}
+                    className="text-cream-200 text-sm hover:text-gold-400 transition-colors"
+                  >
+                    {service.name}
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          </div>
+
+          {/* Materials */}
+          <div>
+            <h3 className="font-serif text-lg text-gold-500 mb-4">Materials</h3>
+            <ul className="space-y-2">
+              <li>
+                <Link
+                  href="/materials"
+                  className="text-cream-200 text-sm hover:text-gold-400 transition-colors"
+                >
+                  View All Materials
+                </Link>
+              </li>
+              {materialServices.map((service) => (
                 <li key={service.slug}>
                   <Link
                     href={service.route}
