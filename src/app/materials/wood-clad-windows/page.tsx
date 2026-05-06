@@ -105,6 +105,35 @@ export default function WoodCladWindows() {
             </div>
           </div>
 
+          {/* Wood Clad in Garland */}
+          <div className="bg-white p-10 rounded-sm mb-16">
+            <h2 className="font-serif text-3xl font-semibold text-navy-900 mb-6 text-center">
+              Wood Clad: The Best of Both Worlds for Garland Custom Homes
+            </h2>
+            <div className="grid md:grid-cols-2 gap-8 text-navy-700 text-sm leading-relaxed">
+              <div>
+                <h3 className="font-semibold text-navy-900 mb-3">Why It&apos;s the Right Pick for Most Garland Custom Homes</h3>
+                <p className="mb-4">
+                  Wood-clad windows give a Garland custom home the warmth and authenticity of real wood interiors paired with the no-maintenance, weatherproof exterior of factory-finished aluminum or fiberglass cladding. For Firewheel, Camelot, Naaman Forest, and the lakefront custom enclaves, wood-clad is the dominant pick because it solves the real-world maintenance problem without sacrificing the architectural intent.
+                </p>
+                <h3 className="font-semibold text-navy-900 mb-3">Cladding Options Compared</h3>
+                <p>
+                  Aluminum cladding (Marvin, Pella) holds its powder-coated finish for decades and resists every kind of weather Garland can throw at it. Fiberglass cladding (some Pella and Marvin lines) is paintable and slightly less prone to dents. Both eliminate the 3-to-5-year refinishing cycle that pure wood demands.
+                </p>
+              </div>
+              <div>
+                <h3 className="font-semibold text-navy-900 mb-3">Stain-Grade Interior Flexibility</h3>
+                <p className="mb-4">
+                  Pine, douglas fir, mahogany, and oak interiors are all available across the major brands. Marvin Signature Ultimate and Pella Reserve both offer exotic species and factory-stained finishes that arrive ready to install — no field finishing required. For Garland homeowners with stained millwork or built-ins, that color matching is a serious value.
+                </p>
+                <h3 className="font-semibold text-navy-900 mb-3">Premium Performance Glass</h3>
+                <p>
+                  Wood-clad windows are typically paired with the strongest Low-E glass packages in each manufacturer&apos;s lineup, including triple-pane options for the most demanding exposures. The combination delivers excellent thermal performance for west-facing Garland walls and hard north-wind exposure during winter cold fronts.
+                </p>
+              </div>
+            </div>
+          </div>
+
           {/* FAQ */}
           <div>
             <h2 className="font-serif text-3xl font-semibold text-navy-900 mb-8 text-center">

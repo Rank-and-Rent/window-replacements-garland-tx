@@ -106,6 +106,35 @@ export default function FiberglassWindows() {
             </div>
           </div>
 
+          {/* Fiberglass Performance */}
+          <div className="bg-white p-10 rounded-sm mb-16">
+            <h2 className="font-serif text-3xl font-semibold text-navy-900 mb-6 text-center">
+              Why Fiberglass Performs So Well in Garland Heat
+            </h2>
+            <div className="grid md:grid-cols-2 gap-8 text-navy-700 text-sm leading-relaxed">
+              <div>
+                <h3 className="font-semibold text-navy-900 mb-3">Thermal Stability</h3>
+                <p className="mb-4">
+                  Fiberglass expands and contracts at almost exactly the same rate as the glass it holds, which is why fiberglass windows simply don&apos;t develop the seal-failure issues that vinyl can in extreme heat cycles. In Garland, where summer surface temperatures on west-facing frames can hit 150&deg;F and then drop 80 degrees overnight in a winter cold front, that thermal compatibility translates directly into longer IGU life.
+                </p>
+                <h3 className="font-semibold text-navy-900 mb-3">Strength-to-Weight Ratio</h3>
+                <p>
+                  Fiberglass is structurally stronger than vinyl and lighter than aluminum, which lets manufacturers build narrower frame profiles without sacrificing rigidity. The result is windows with more glass area and cleaner sightlines, particularly in tall and wide openings on newer Garland custom builds.
+                </p>
+              </div>
+              <div>
+                <h3 className="font-semibold text-navy-900 mb-3">Paintability and Color Options</h3>
+                <p className="mb-4">
+                  Unlike vinyl, fiberglass can be field-painted with regular exterior paint, which means homeowners can refresh the exterior color in 15 or 20 years without replacing the windows. Pella, Marvin, and JELD-WEN all offer factory-applied finishes in dozens of colors, and the painted fiberglass holds up beautifully on west-facing exposures.
+                </p>
+                <h3 className="font-semibold text-navy-900 mb-3">Warranty and Service Life</h3>
+                <p>
+                  Premium fiberglass windows typically carry strong frame warranties alongside 20-year IGU coverage. Real-world service life on properly installed fiberglass windows in Garland regularly exceeds 30 years.
+                </p>
+              </div>
+            </div>
+          </div>
+
           {/* FAQ */}
           <div>
             <h2 className="font-serif text-3xl font-semibold text-navy-900 mb-8 text-center">

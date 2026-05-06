@@ -105,6 +105,35 @@ export default function FibrexWindows() {
             </div>
           </div>
 
+          {/* Fibrex in Garland */}
+          <div className="bg-white p-10 rounded-sm mb-16">
+            <h2 className="font-serif text-3xl font-semibold text-navy-900 mb-6 text-center">
+              Why Fibrex Performs Well in North Texas
+            </h2>
+            <div className="grid md:grid-cols-2 gap-8 text-navy-700 text-sm leading-relaxed">
+              <div>
+                <h3 className="font-semibold text-navy-900 mb-3">Composite Strength</h3>
+                <p className="mb-4">
+                  Andersen&apos;s Fibrex material is twice as strong as vinyl and resists the cyclical thermal expansion that causes seal failure in cheaper composite frames. For Garland homes facing 100-degree-plus summers and the occasional ice-storm winter, that stability translates into windows that hold their geometry, their seals, and their finish for decades.
+                </p>
+                <h3 className="font-semibold text-navy-900 mb-3">Sustainability Story</h3>
+                <p>
+                  Fibrex is roughly 40 percent reclaimed wood fiber by weight, much of it sourced from Andersen&apos;s own manufacturing waste stream. For environmentally minded Garland homeowners, that means a window frame with materially lower embodied carbon than aluminum, plus the low-maintenance benefits of a synthetic.
+                </p>
+              </div>
+              <div>
+                <h3 className="font-semibold text-navy-900 mb-3">Color Stability</h3>
+                <p className="mb-4">
+                  Fibrex frames are color-through, meaning the pigment runs all the way through the material rather than sitting on the surface. Scratches and minor abrasions don&apos;t show, and the color stays stable over decades of UV exposure on west-facing Garland elevations.
+                </p>
+                <h3 className="font-semibold text-navy-900 mb-3">Andersen-Exclusive Warranty</h3>
+                <p>
+                  Andersen&apos;s 100 Series, 400 Series Woodwright, and Renewal by Andersen lines all use Fibrex with manufacturer-backed warranties that cover frame integrity and finish performance. The transferable warranty stays with the home through ownership changes.
+                </p>
+              </div>
+            </div>
+          </div>
+
           {/* FAQ */}
           <div>
             <h2 className="font-serif text-3xl font-semibold text-navy-900 mb-8 text-center">

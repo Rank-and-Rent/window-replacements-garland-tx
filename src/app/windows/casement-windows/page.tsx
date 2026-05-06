@@ -104,6 +104,35 @@ export default function CasementWindows() {
             </div>
           </div>
 
+          {/* Casement Use Cases */}
+          <div className="bg-white p-10 rounded-sm mb-16">
+            <h2 className="font-serif text-3xl font-semibold text-navy-900 mb-6 text-center">
+              Where Casements Solve Real Garland Problems
+            </h2>
+            <div className="grid md:grid-cols-2 gap-8 text-navy-700 text-sm leading-relaxed">
+              <div>
+                <h3 className="font-semibold text-navy-900 mb-3">Kitchens Over Sinks</h3>
+                <p className="mb-4">
+                  Reaching across a wide farmhouse sink to lift a heavy double-hung sash is a daily annoyance in many older Garland kitchens. A casement with its single crank turns easily from the front edge of the counter, and the full-frame opening provides far more ventilation than the half-opening of a double-hung. We install casements over sinks in Spring Park, Eastern Hills, and Camelot kitchens almost every week.
+                </p>
+                <h3 className="font-semibold text-navy-900 mb-3">Tight Side-Yard Walls</h3>
+                <p>
+                  Garland zero-lot-line and tight-setback homes often have side-yard walls where a window opens close to a fence or neighboring wall. Casements that crank toward the back of the lot let homeowners take full advantage of the opening without interfering with the side yard.
+                </p>
+              </div>
+              <div>
+                <h3 className="font-semibold text-navy-900 mb-3">Energy-Critical West Walls</h3>
+                <p className="mb-4">
+                  Casement windows&apos; compression-seal design produces the tightest air seal of any operable window style, making them the right choice on west-facing walls where energy performance matters most. Andersen, Pella, and Marvin all rate their casements with the lowest air-infiltration numbers in their lineups.
+                </p>
+                <h3 className="font-semibold text-navy-900 mb-3">Tall, Narrow Openings</h3>
+                <p>
+                  Many newer Garland custom homes have tall, narrow accent windows next to fireplaces, in stairwells, or beside front entries. Casements work beautifully in these tall verticals, where double-hungs would feel awkwardly proportioned.
+                </p>
+              </div>
+            </div>
+          </div>
+
           {/* FAQ */}
           <div>
             <h2 className="font-serif text-3xl font-semibold text-navy-900 mb-8 text-center">

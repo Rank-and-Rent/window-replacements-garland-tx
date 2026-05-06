@@ -130,6 +130,35 @@ export default function AndersenPage() {
             </div>
           </div>
 
+          {/* Andersen Product Lines */}
+          <div className="bg-white p-10 rounded-sm mb-16">
+            <h2 className="font-serif text-3xl font-semibold text-navy-900 mb-6 text-center">
+              Andersen Product Lines We Install in Garland
+            </h2>
+            <div className="grid md:grid-cols-2 gap-8 text-navy-700 text-sm leading-relaxed">
+              <div>
+                <h3 className="font-semibold text-navy-900 mb-3">100 Series Fibrex</h3>
+                <p className="mb-4">
+                  Andersen&apos;s entry-level Fibrex line, a strong value play for Garland whole-house replacement projects. The composite Fibrex frames hold their color through Texas UV and resist the warping that hits cheaper vinyl on west-facing exposures. Available in dark colors that read sharply against brick and stone.
+                </p>
+                <h3 className="font-semibold text-navy-900 mb-3">200 and 400 Series</h3>
+                <p>
+                  The 400 Series is Andersen&apos;s most-installed line, with vinyl-clad pine exteriors and natural wood interiors. The Woodwright variant adds true divided lites for traditional Garland homes. The 200 Series simplifies the offering at a lower price point. Both lines come in nearly every operating style.
+                </p>
+              </div>
+              <div>
+                <h3 className="font-semibold text-navy-900 mb-3">A-Series Architectural</h3>
+                <p className="mb-4">
+                  Andersen&apos;s top-tier line, built on a Fibrex sash with composite or fiberglass exterior cladding and natural wood interiors. The A-Series handles the largest custom openings, the most demanding glass packages, and the specialty shapes that Firewheel and Heath custom homes require.
+                </p>
+                <h3 className="font-semibold text-navy-900 mb-3">E-Series Custom</h3>
+                <p>
+                  Andersen&apos;s fully custom line with extruded-aluminum cladding in essentially unlimited colors and any wood species you want for the interior. We use E-Series for Garland custom homes where architectural detailing pushes beyond what the standard A-Series can accommodate.
+                </p>
+              </div>
+            </div>
+          </div>
+
           {/* Why Choose */}
           <div className="bg-white p-10 rounded-sm mb-16">
             <h2 className="font-serif text-3xl font-semibold text-navy-900 mb-8 text-center">

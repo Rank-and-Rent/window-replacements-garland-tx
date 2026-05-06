@@ -104,6 +104,35 @@ export default function SpecialShapeWindows() {
             </div>
           </div>
 
+          {/* Specialty Shapes in Garland Homes */}
+          <div className="bg-white p-10 rounded-sm mb-16">
+            <h2 className="font-serif text-3xl font-semibold text-navy-900 mb-6 text-center">
+              Specialty Shapes Around Garland Neighborhoods
+            </h2>
+            <div className="grid md:grid-cols-2 gap-8 text-navy-700 text-sm leading-relaxed">
+              <div>
+                <h3 className="font-semibold text-navy-900 mb-3">Two-Story Foyer Palladians</h3>
+                <p className="mb-4">
+                  Newer Firewheel, Camelot, and Naaman Forest custom homes routinely feature Palladian-style assemblies above the front entry, with a half-round on top of a tall rectangular fixed unit. We measure every dimension carefully and order the unit factory-mulled so the geometry stays correct.
+                </p>
+                <h3 className="font-semibold text-navy-900 mb-3">Eyebrow and Quarter-Round Accents</h3>
+                <p>
+                  Many 1990s and 2000s Garland custom builds use eyebrow or quarter-round windows as architectural accents on gable ends. Replacement units need to match the original radius, mullion pattern, and frame depth to read correctly from the curb.
+                </p>
+              </div>
+              <div>
+                <h3 className="font-semibold text-navy-900 mb-3">Octagons in Stairwells and Baths</h3>
+                <p className="mb-4">
+                  Octagonal accent windows appear regularly in stairwell walls and primary-bath water-closet rooms across Garland subdivisions. Their compact shape provides daylight and architectural interest without demanding privacy treatment.
+                </p>
+                <h3 className="font-semibold text-navy-900 mb-3">Trapezoids on Vaulted Ceilings</h3>
+                <p>
+                  Vaulted-ceiling great rooms often feature trapezoidal windows that follow the roof slope. We work with Andersen, Pella, JELD-WEN, and Marvin custom programs to fabricate replacement units that match the exact angle of the existing opening.
+                </p>
+              </div>
+            </div>
+          </div>
+
           {/* FAQ */}
           <div>
             <h2 className="font-serif text-3xl font-semibold text-navy-900 mb-8 text-center">

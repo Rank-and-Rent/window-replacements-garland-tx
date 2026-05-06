@@ -97,6 +97,33 @@ export default function EntryDoorPage() {
             </div>
           </div>
 
+          {/* Material Deep Dive */}
+          <div className="bg-white p-10 rounded-sm mb-16">
+            <h2 className="font-serif text-3xl font-semibold text-navy-900 mb-6 text-center">
+              Picking the Right Entry Door for a Garland Home
+            </h2>
+            <div className="grid md:grid-cols-3 gap-6 text-navy-700 text-sm leading-relaxed">
+              <div>
+                <h3 className="font-semibold text-navy-900 mb-3">Fiberglass: The Default Pick</h3>
+                <p>
+                  Fiberglass is what we install most often in Garland. It doesn&apos;t expand or contract with the 100-degree summer-to-25-degree-winter temperature swing, it accepts wood-grain texturing that looks remarkably authentic, and it requires almost no maintenance over a 20-plus-year service life. Andersen&apos;s and JELD-WEN&apos;s fiberglass doors handle direct west-facing afternoon sun without warping, fading, or losing their gloss the way painted steel can.
+                </p>
+              </div>
+              <div>
+                <h3 className="font-semibold text-navy-900 mb-3">Steel: Security and Value</h3>
+                <p>
+                  Steel doors are the right answer for Garland homes where security is the priority and budget matters. The 24-gauge skins on a quality steel door, paired with a polyurethane core and multi-point hardware, give a high security rating at a price below comparable fiberglass. The trade-off is that steel needs paint maintenance every 10 to 15 years, especially on west-facing exposures, and dings show more visibly than they do on textured fiberglass.
+                </p>
+              </div>
+              <div>
+                <h3 className="font-semibold text-navy-900 mb-3">Wood: Architectural Statement</h3>
+                <p>
+                  Solid mahogany, knotty alder, and white oak doors remain the right pick for Garland custom homes and historic restorations where authenticity matters. Wood doors require a covered porch and a maintenance routine that includes refinishing every 3 to 5 years, but the look and feel are unmatched. We pair wood doors with a properly designed sill pan and rain gutter to extend service life.
+                </p>
+              </div>
+            </div>
+          </div>
+
           {/* Brand Showcase */}
           <div className="mb-16">
             <h2 className="font-serif text-3xl font-semibold text-navy-900 mb-8 text-center">

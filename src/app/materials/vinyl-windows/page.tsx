@@ -104,6 +104,35 @@ export default function VinylWindows() {
             </div>
           </div>
 
+          {/* Vinyl in Garland Heat */}
+          <div className="bg-white p-10 rounded-sm mb-16">
+            <h2 className="font-serif text-3xl font-semibold text-navy-900 mb-6 text-center">
+              How Vinyl Holds Up in North Texas
+            </h2>
+            <div className="grid md:grid-cols-2 gap-8 text-navy-700 text-sm leading-relaxed">
+              <div>
+                <h3 className="font-semibold text-navy-900 mb-3">Color Stability and UV Resistance</h3>
+                <p className="mb-4">
+                  The biggest concern with vinyl in Texas heat used to be color fade and chalking on west-facing exposures. Modern co-extruded vinyl from Andersen, Pella, JELD-WEN, and Marvin uses a tougher cap layer with UV-stable pigments, and color-through formulations have largely solved the problem on white frames. For tan, beige, and darker colors, premium lines now carry warranty coverage that includes color stability for decades.
+                </p>
+                <h3 className="font-semibold text-navy-900 mb-3">Heat Tolerance and Distortion</h3>
+                <p>
+                  Quality vinyl frames hold their shape through Garland&apos;s 100-degree summers thanks to multi-chambered profiles, internal reinforcement at meeting rails, and fusion-welded corners. Cheap builder vinyl can sag or distort over time on west elevations, which is why we steer Garland homeowners toward mid-tier and premium lines for any west or south exposure.
+                </p>
+              </div>
+              <div>
+                <h3 className="font-semibold text-navy-900 mb-3">Energy Performance Specifics</h3>
+                <p className="mb-4">
+                  Vinyl windows with proper Low-E glass packages routinely achieve U-factors in the 0.27-0.32 range, which is on par with or better than most clad-wood windows at half the price. SHGC values can be tuned from 0.20 (heavy solar control) to 0.40 (balanced) depending on exposure. We help homeowners pick the right balance for each elevation.
+                </p>
+                <h3 className="font-semibold text-navy-900 mb-3">Warranty Strength</h3>
+                <p>
+                  Premium vinyl windows from Andersen, Pella, JELD-WEN, and Marvin carry transferable limited lifetime warranties on the frame and 20-year warranties on the IGU seal. Those warranties are real value when seal failure does eventually happen, and they stay with the home through one or more changes of ownership.
+                </p>
+              </div>
+            </div>
+          </div>
+
           {/* FAQ */}
           <div>
             <h2 className="font-serif text-3xl font-semibold text-navy-900 mb-8 text-center">

@@ -102,6 +102,35 @@ export default function PictureWindows() {
             </div>
           </div>
 
+          {/* Picture Window Use Cases */}
+          <div className="bg-white p-10 rounded-sm mb-16">
+            <h2 className="font-serif text-3xl font-semibold text-navy-900 mb-6 text-center">
+              Where Picture Windows Shine in Garland Homes
+            </h2>
+            <div className="grid md:grid-cols-2 gap-8 text-navy-700 text-sm leading-relaxed">
+              <div>
+                <h3 className="font-semibold text-navy-900 mb-3">Lake Ray Hubbard Frontage</h3>
+                <p className="mb-4">
+                  Garland homes with views of Lake Ray Hubbard or its inlet creeks deserve windows that showcase the water without unnecessary mullions chopping up the view. Large fixed picture units can span 6 to 8 feet wide with proper structural support, framing the lake like a piece of art.
+                </p>
+                <h3 className="font-semibold text-navy-900 mb-3">Two-Story Foyer Drama</h3>
+                <p>
+                  Newer Firewheel and Naaman Forest custom homes often feature two-story foyers with stacked picture windows that flood the entry with daylight. Replacement units need to match the original architectural intent in proportion and grid pattern, and we order these from Andersen and Pella with simulated divided lites where the original used true divided lites.
+                </p>
+              </div>
+              <div>
+                <h3 className="font-semibold text-navy-900 mb-3">Mid-Century Living Rooms</h3>
+                <p className="mb-4">
+                  Many 1960s and 1970s Garland ranches feature wide horizontal picture windows in the main living room, often flanked by tall double-hungs or sliders. We replace these as a single mulled unit with a fixed center and operable flankers, preserving the architectural proportions while bringing modern Low-E performance to the entire opening.
+                </p>
+                <h3 className="font-semibold text-navy-900 mb-3">West-Facing Heat Control</h3>
+                <p>
+                  Picture windows on west elevations need the strongest solar-control glass package because they don&apos;t open for ventilation. SunDefense and SmartSun coatings cut solar heat gain by 50 percent or more compared to standard Low-E, which is the difference between a usable room and one nobody sits in during July.
+                </p>
+              </div>
+            </div>
+          </div>
+
           {/* FAQ */}
           <div>
             <h2 className="font-serif text-3xl font-semibold text-navy-900 mb-8 text-center">

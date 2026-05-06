@@ -63,34 +63,34 @@ export default function VinylWindowsPage() {
     brands: [
       {
         name: 'Andersen 200 Series Vinyl',
-        description: 'Andersen\&apos;s entry-level vinyl line offers exceptional value with their signature Fibrex composite construction. These windows feature multi-chambered frames, fusion-welded corners, and advanced weatherstripping for superior performance in Garland\&apos;s climate.',
+        description: 'Andersen\'s entry-level vinyl line offers exceptional value with their signature Fibrex composite construction. These windows feature multi-chambered frames, fusion-welded corners, and advanced weatherstripping for superior performance in Garland\'s climate.',
       },
       {
         name: 'Pella 150 Series Vinyl',
-        description: 'Pella\&apos;s vinyl windows combine affordability with premium features like their exclusive EnduraClad finish and multi-pane insulated glass. The smooth vinyl surfaces resist fading and staining while providing excellent energy efficiency.',
+        description: 'Pella\'s vinyl windows combine affordability with premium features like their exclusive EnduraClad finish and multi-pane insulated glass. The smooth vinyl surfaces resist fading and staining while providing excellent energy efficiency.',
       },
       {
         name: 'JELD-WEN Premium Vinyl',
-        description: 'JELD-WEN\&apos;s Premium Vinyl collection delivers outstanding performance with fusion-welded frames and advanced glass packages. Their AuraLast wood-grain finish provides authentic wood appearance with vinyl\&apos;s low-maintenance benefits.',
+        description: 'JELD-WEN\'s Premium Vinyl collection delivers outstanding performance with fusion-welded frames and advanced glass packages. Their AuraLast wood-grain finish provides authentic wood appearance with vinyl\'s low-maintenance benefits.',
       },
     ],
 
     faq: [
       {
-        question: 'Are vinyl windows suitable for Garland\&apos;s diverse community?',
-        answer: 'Absolutely. Vinyl windows are perfect for Garland\&apos;s diverse population with their low-maintenance design, versatility, and energy efficiency. They accommodate different lifestyles and aesthetic preferences without demanding restrictive maintenance schedules.',
+        question: 'Are vinyl windows suitable for Garland\'s diverse community?',
+        answer: 'Absolutely. Vinyl windows are perfect for Garland\'s diverse population with their low-maintenance design, versatility, and energy efficiency. They accommodate different lifestyles and aesthetic preferences without demanding restrictive maintenance schedules.',
       },
       {
-        question: 'How do vinyl windows handle Garland\&apos;s urban environment?',
-        answer: 'Vinyl windows excel in urban settings with their smooth, non-porous surfaces that resist pollutants and environmental factors. They maintain their appearance longer in Garland\&apos;s diverse environment.',
+        question: 'How do vinyl windows handle Garland\'s urban environment?',
+        answer: 'Vinyl windows excel in urban settings with their smooth, non-porous surfaces that resist pollutants and environmental factors. They maintain their appearance longer in Garland\'s diverse environment.',
       },
       {
         question: 'Are vinyl windows suitable for Garland historic homes?',
-        answer: 'Yes, vinyl windows offer wood-grain finishes that blend beautifully with Garland\&apos;s historic architecture while providing modern energy efficiency without the maintenance of real wood.',
+        answer: 'Yes, vinyl windows offer wood-grain finishes that blend beautifully with Garland\'s historic architecture while providing modern energy efficiency without the maintenance of real wood.',
       },
       {
         question: 'Do vinyl windows add value to Garland homes?',
-        answer: 'Yes, vinyl windows enhance property value in Garland\&apos;s competitive market. Their durability, energy efficiency, and low maintenance make them a smart investment for homeowners and investors.',
+        answer: 'Yes, vinyl windows enhance property value in Garland\'s competitive market. Their durability, energy efficiency, and low maintenance make them a smart investment for homeowners and investors.',
       },
       {
         question: 'Are vinyl windows environmentally friendly?',

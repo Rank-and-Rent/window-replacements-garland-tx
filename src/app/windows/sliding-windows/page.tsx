@@ -102,6 +102,35 @@ export default function SlidingWindows() {
             </div>
           </div>
 
+          {/* Sliders in Garland Homes */}
+          <div className="bg-white p-10 rounded-sm mb-16">
+            <h2 className="font-serif text-3xl font-semibold text-navy-900 mb-6 text-center">
+              Sliding Windows in Garland&apos;s Mid-Century Housing Stock
+            </h2>
+            <div className="grid md:grid-cols-2 gap-8 text-navy-700 text-sm leading-relaxed">
+              <div>
+                <h3 className="font-semibold text-navy-900 mb-3">The Original 1960s and 1970s Design</h3>
+                <p className="mb-4">
+                  Wide horizontal sliders are the signature window of mid-century Garland ranches. You see them in Spring Park, Eastern Hills, Camelot, and the original neighborhoods around Heritage Crossing. The original aluminum-frame sliders with single-pane glass are now well past their service life, with seized rollers, broken latches, and severe air leakage along worn weatherstripping.
+                </p>
+                <h3 className="font-semibold text-navy-900 mb-3">Modern Replacement Sliders</h3>
+                <p>
+                  Today&apos;s sliders from Andersen, Pella, JELD-WEN, and Marvin operate on tandem stainless-bearing rollers, lock with multi-point hardware, and seal against compression weatherstripping. The energy performance is dramatically better than the originals, and the rooms behind them feel like different spaces in July.
+                </p>
+              </div>
+              <div>
+                <h3 className="font-semibold text-navy-900 mb-3">Why Sliders Still Make Sense</h3>
+                <p className="mb-4">
+                  Sliders work especially well in horizontal openings where double-hungs would feel proportionally wrong. They&apos;re also easier to operate from awkward angles, like over a kitchen counter or in a bedroom where furniture sits close to the window. We replace originals like-for-like to preserve the architectural character of mid-century Garland homes.
+                </p>
+                <h3 className="font-semibold text-navy-900 mb-3">Glass Package Choices</h3>
+                <p>
+                  Sliders accept the full range of Low-E glass packages. For west-facing Garland exposures, we recommend SunDefense or SmartSun coatings to manage solar heat gain. For homes near I-635 or Hwy 78, laminated acoustic glass meaningfully reduces traffic noise.
+                </p>
+              </div>
+            </div>
+          </div>
+
           {/* FAQ */}
           <div>
             <h2 className="font-serif text-3xl font-semibold text-navy-900 mb-8 text-center">

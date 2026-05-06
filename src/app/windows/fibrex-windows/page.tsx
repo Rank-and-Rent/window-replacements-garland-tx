@@ -15,7 +15,7 @@ export const metadata: Metadata = {
 export default function FibrexWindowsPage() {
   const content = {
     title: 'Fibrex Windows Replacement in Garland, TX',
-    subtitle: 'Andersen\&apos;s Premium Composite Technology for Ultimate Performance',
+    subtitle: 'Andersen\'s Premium Composite Technology for Ultimate Performance',
     heroImage: '/window-types/fibrex-garland-tx.jpg',
 
     intro: "Garland homeowners seeking the ultimate in window performance discover that Andersen&apos;s Fibrex composite material perfectly balances traditional wood aesthetics with modern durability. As a major cultural hub with multicultural community, Garland attracts homeowners who appreciate Fibrex windows' combination of wood-like beauty, exceptional strength, and superior energy efficiency. Whether in cultural heritage or contemporary developments, Fibrex windows provide the premium quality and lasting performance that Garland homeowners demand. With the area&apos;s mix of traditional and modern architecture, Fibrex windows offer versatile design that enhances Garland&apos;s architectural heritage.",
@@ -23,7 +23,7 @@ export default function FibrexWindowsPage() {
     sections: [
       {
         heading: 'Advanced Composite Construction for Garland Durability',
-        content: "Fibrex represents Andersen\&apos;s revolutionary approach to window frame technology, blending wood fibers with advanced polymers to create a material that outperforms both traditional wood and modern synthetics. The wood fibers provide natural insulation and aesthetic appeal, while the polymer matrix delivers exceptional strength and moisture resistance. Unlike traditional wood that warps in Garland&apos;s humidity or vinyl that lacks structural integrity, Fibrex maintains perfect dimensional stability year-round. The material&apos;s advanced formulation resists UV degradation from intense Texas sun, ensuring Fibrex windows maintain their performance and appearance indefinitely in Garland&apos;s challenging climate.",
+        content: "Fibrex represents Andersen\'s revolutionary approach to window frame technology, blending wood fibers with advanced polymers to create a material that outperforms both traditional wood and modern synthetics. The wood fibers provide natural insulation and aesthetic appeal, while the polymer matrix delivers exceptional strength and moisture resistance. Unlike traditional wood that warps in Garland&apos;s humidity or vinyl that lacks structural integrity, Fibrex maintains perfect dimensional stability year-round. The material&apos;s advanced formulation resists UV degradation from intense Texas sun, ensuring Fibrex windows maintain their performance and appearance indefinitely in Garland&apos;s challenging climate.",
       },
       {
         heading: 'Authentic Wood Aesthetics Without Maintenance Burdens',
@@ -63,15 +63,15 @@ export default function FibrexWindowsPage() {
     brands: [
       {
         name: 'Andersen 100 Series Fibrex',
-        description: 'Andersen\&apos;s premium Fibrex line offers the ultimate in window performance with their signature composite technology. These windows feature multi-pane insulated glass, advanced weatherstripping, and comprehensive warranties.',
+        description: 'Andersen\'s premium Fibrex line offers the ultimate in window performance with their signature composite technology. These windows feature multi-pane insulated glass, advanced weatherstripping, and comprehensive warranties.',
       },
       {
         name: 'Andersen 200 Series Fibrex',
-        description: 'Andersen\&apos;s mid-range Fibrex windows provide exceptional value with the same composite construction and performance features as higher-end lines. Perfect for homeowners seeking premium quality at accessible pricing.',
+        description: 'Andersen\'s mid-range Fibrex windows provide exceptional value with the same composite construction and performance features as higher-end lines. Perfect for homeowners seeking premium quality at accessible pricing.',
       },
       {
         name: 'Andersen 300 Series Fibrex',
-        description: 'Andersen\&apos;s luxury Fibrex collection offers the most advanced features available, including impact-resistant glass options, premium hardware, and unlimited customization for discerning Garland homeowners.',
+        description: 'Andersen\'s luxury Fibrex collection offers the most advanced features available, including impact-resistant glass options, premium hardware, and unlimited customization for discerning Garland homeowners.',
       },
     ],
 
@@ -90,7 +90,7 @@ export default function FibrexWindowsPage() {
       },
       {
         question: 'Are Fibrex windows energy efficient?',
-        answer: 'Absolutely. Fibrex\&apos;s composite construction provides excellent insulation, and when combined with Andersen\&apos;s advanced glass packages, Fibrex windows can reduce energy costs by 35-45% in Garland\&apos;s climate.',
+        answer: 'Absolutely. Fibrex\'s composite construction provides excellent insulation, and when combined with Andersen\'s advanced glass packages, Fibrex windows can reduce energy costs by 35-45% in Garland\'s climate.',
       },
       {
         question: 'Do Fibrex windows require maintenance?',

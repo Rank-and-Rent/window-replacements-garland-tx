@@ -55,21 +55,13 @@ export default function SlidingGlassDoorPage() {
                 Space-Smart Design, Maximum Views
               </h2>
               <p className="text-navy-700 leading-relaxed mb-6">
-                Sliding glass doors are the ultimate space-saving solution for connecting indoor and 
-                outdoor living areas. Operating on smooth tracks, they require no floor clearance for 
-                swinging panels, making them ideal for rooms with furniture near the door opening or 
-                compact patios and decks.
+                Most Garland homes built between the 1970s and the early 2000s came with at least one sliding glass door, and after 20-plus years of daily use, almost all of them are due for replacement. The complaints are predictable: the slider drags or won&apos;t fully close, the screen is torn or off its track, condensation has crept inside the IGU, and the original aluminum or builder-grade vinyl frame looks chalky and tired. Modern sliding glass doors solve every one of these problems.
               </p>
               <p className="text-navy-700 leading-relaxed mb-6">
-                Modern sliding glass doors feature large glass panels that flood interiors with natural 
-                light while framing outdoor views. Premium models from Andersen, Pella, and JELD-WEN 
-                glide effortlessly on precision-engineered tracks and seal tightly when closed for 
-                excellent energy efficiency.
+                Premium models from Andersen, Pella, JELD-WEN, and Marvin glide on precision-engineered tandem stainless rollers, lock with multi-point hardware along the active panel, and seal against compression weatherstripping that holds up through Garland&apos;s 100-degree summer cycles. Andersen&apos;s 200 and 400 Series gliding patio doors and Pella&apos;s Lifestyle and Reserve sliders are our most-installed products in this market, both with proven track records on West Texas exposures.
               </p>
               <p className="text-navy-700 leading-relaxed">
-                Available in two, three, or four-panel configurations, sliding glass doors can span wide 
-                openings that would be impractical with hinged doors. Some models offer panels that stack 
-                to one side, creating nearly unobstructed openings between indoor and outdoor spaces.
+                Available in two, three, or four-panel configurations, sliding glass doors can span 12 to 16 feet or more in newer Garland custom homes. Multi-slide and pocket-slide configurations allow the panels to stack or hide entirely into the wall cavity, creating dramatic indoor-outdoor transitions for great rooms that open to covered loggias or pool decks.
               </p>
             </div>
             <div className="bg-navy-900 p-8 rounded-sm">
@@ -100,6 +92,35 @@ export default function SlidingGlassDoorPage() {
                   <span><strong className="text-cream-100">Value:</strong> Often more affordable than hinged alternatives</span>
                 </li>
               </ul>
+            </div>
+          </div>
+
+          {/* What Goes Wrong */}
+          <div className="bg-white p-10 rounded-sm mb-16">
+            <h2 className="font-serif text-3xl font-semibold text-navy-900 mb-6 text-center">
+              What Goes Wrong With Old Garland Sliders
+            </h2>
+            <div className="grid md:grid-cols-2 gap-8 text-navy-700 text-sm leading-relaxed">
+              <div>
+                <h3 className="font-semibold text-navy-900 mb-3">Failed Insulating Glass</h3>
+                <p className="mb-4">
+                  The biggest single failure mode in 20-year-old sliders is IGU seal failure. Once the seal goes, condensation forms inside the glass, the unit looks foggy, and the energy performance collapses. Modern dual-pane and triple-pane Low-E IGUs from Andersen, Pella, and Marvin carry warranties that significantly outlast original builder glass.
+                </p>
+                <h3 className="font-semibold text-navy-900 mb-3">Worn Rollers and Bent Tracks</h3>
+                <p>
+                  Original aluminum-frame sliders from the 1980s used cheap nylon rollers that flatten over time. Once a roller fails, the panel binds against the track, and continued forced operation can bend the track itself. Replacement sliders use sealed-bearing tandem rollers that ride on stainless tracks for decades.
+                </p>
+              </div>
+              <div>
+                <h3 className="font-semibold text-navy-900 mb-3">Compromised Weatherstripping</h3>
+                <p className="mb-4">
+                  Sun and heat eventually break down the brush and rubber weatherstripping in any slider. Once it&apos;s gone, conditioned air leaks past the panel even when the door is fully closed. Modern compression weatherstripping with thermoplastic memory holds up much longer in Garland heat.
+                </p>
+                <h3 className="font-semibold text-navy-900 mb-3">Inadequate Locking Hardware</h3>
+                <p>
+                  The single hook-and-latch lock on most original sliders is one of the easiest entry points in a Garland home for an opportunistic break-in. Modern multi-point hardware locks the panel at three or more places along the meeting stile, dramatically improving security.
+                </p>
+              </div>
             </div>
           </div>
 

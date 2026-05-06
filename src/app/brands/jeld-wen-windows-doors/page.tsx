@@ -130,6 +130,35 @@ export default function JeldWenPage() {
             </div>
           </div>
 
+          {/* JELD-WEN Product Lines */}
+          <div className="bg-white p-10 rounded-sm mb-16">
+            <h2 className="font-serif text-3xl font-semibold text-navy-900 mb-6 text-center">
+              JELD-WEN Product Lines We Install in Garland
+            </h2>
+            <div className="grid md:grid-cols-2 gap-8 text-navy-700 text-sm leading-relaxed">
+              <div>
+                <h3 className="font-semibold text-navy-900 mb-3">JELD-WEN Premium Vinyl</h3>
+                <p className="mb-4">
+                  Premium Vinyl is JELD-WEN&apos;s strongest vinyl offering, with fusion-welded multi-chambered frames, dual or triple Low-E glass options, and a full range of grid patterns. We install Premium Vinyl across most of the Garland market for whole-house replacements where homeowners want a real warranty without going to clad-wood pricing.
+                </p>
+                <h3 className="font-semibold text-navy-900 mb-3">JELD-WEN Builders Vinyl</h3>
+                <p>
+                  Builders Vinyl is the value-tier line, fitting for rental properties and budget-conscious replacements. The frames are simpler and the warranty is shorter than Premium Vinyl, but the energy performance is still vastly better than the original 1980s aluminum or 1990s builder vinyl most Garland homes started with.
+                </p>
+              </div>
+              <div>
+                <h3 className="font-semibold text-navy-900 mb-3">JELD-WEN Siteline</h3>
+                <p className="mb-4">
+                  Siteline is JELD-WEN&apos;s clad-wood line, with extruded-aluminum exteriors and AuraLast pine interiors that are factory-treated for moisture and pest resistance. Siteline competes directly with Pella Architect and Marvin Elevate at a comparable price point, and it&apos;s a strong fit for Camelot, Naaman Forest, and lakefront Garland custom homes.
+                </p>
+                <h3 className="font-semibold text-navy-900 mb-3">JELD-WEN Custom Wood</h3>
+                <p>
+                  The Custom Wood collection covers the architecturally demanding work, with specialty shapes, stain-grade interiors, and the largest custom sizes JELD-WEN builds. We use Custom Wood for Heath, Lucas, and Sunnyvale acreage estates that need authentic divided lites and proportions matched to the original architecture.
+                </p>
+              </div>
+            </div>
+          </div>
+
           {/* Why Choose */}
           <div className="bg-white p-10 rounded-sm mb-16">
             <h2 className="font-serif text-3xl font-semibold text-navy-900 mb-8 text-center">

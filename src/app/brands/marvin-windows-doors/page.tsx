@@ -130,6 +130,35 @@ export default function MarvinPage() {
             </div>
           </div>
 
+          {/* Marvin Product Lines */}
+          <div className="bg-white p-10 rounded-sm mb-16">
+            <h2 className="font-serif text-3xl font-semibold text-navy-900 mb-6 text-center">
+              Marvin Product Lines We Install in Garland
+            </h2>
+            <div className="grid md:grid-cols-2 gap-8 text-navy-700 text-sm leading-relaxed">
+              <div>
+                <h3 className="font-semibold text-navy-900 mb-3">Marvin Essential Fiberglass</h3>
+                <p className="mb-4">
+                  Marvin Essential is the company&apos;s entry-level fiberglass line, offering pultruded fiberglass frames with a strong performance-to-price ratio. Excellent for whole-house Garland projects where the homeowner wants something better than vinyl without going to clad-wood pricing. The fiberglass holds its shape through Texas heat cycles in a way builder-grade vinyl simply can&apos;t.
+                </p>
+                <h3 className="font-semibold text-navy-900 mb-3">Marvin Elevate</h3>
+                <p>
+                  Elevate combines pultruded fiberglass exteriors with natural wood interiors, delivering the warmth of wood inside with a maintenance-free exterior. Available in dozens of factory-applied exterior colors, with classic and contemporary styling. A favorite in the Firewheel, Naaman Forest, and Lake Ray Hubbard custom-home market.
+                </p>
+              </div>
+              <div>
+                <h3 className="font-semibold text-navy-900 mb-3">Marvin Signature Ultimate</h3>
+                <p className="mb-4">
+                  Signature Ultimate is Marvin&apos;s flagship line, with extruded-aluminum-clad pine, mahogany, oak, or vertical-grain Douglas fir interiors. Custom shapes, stain-grade interiors, and high-performance glass packages make this the line we specify for the most architecturally demanding Garland projects, particularly in Heath, Lucas, and the lakefront custom enclaves.
+                </p>
+                <h3 className="font-semibold text-navy-900 mb-3">Marvin Modern</h3>
+                <p>
+                  Modern is the company&apos;s contemporary line with extra-narrow frames, large fixed picture units, and tall-and-skinny sash proportions. Built for the contemporary and modern-farmhouse architecture that&apos;s increasingly common in newer Garland custom-home pockets.
+                </p>
+              </div>
+            </div>
+          </div>
+
           {/* Why Choose */}
           <div className="bg-white p-10 rounded-sm mb-16">
             <h2 className="font-serif text-3xl font-semibold text-navy-900 mb-8 text-center">

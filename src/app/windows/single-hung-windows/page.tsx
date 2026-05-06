@@ -111,6 +111,35 @@ export default function SingleHungWindows() {
             </div>
           </div>
 
+          {/* Single-Hung in Garland Homes */}
+          <div className="bg-white p-10 rounded-sm mb-16">
+            <h2 className="font-serif text-3xl font-semibold text-navy-900 mb-6 text-center">
+              The Smart Pick for Many Garland Replacement Projects
+            </h2>
+            <div className="grid md:grid-cols-2 gap-8 text-navy-700 text-sm leading-relaxed">
+              <div>
+                <h3 className="font-semibold text-navy-900 mb-3">Bedrooms and Secondary Rooms</h3>
+                <p className="mb-4">
+                  Single-hung windows make sense in bedrooms, hallways, and secondary spaces where the top sash is rarely if ever opened. The cost savings versus double-hungs across a 12-to-15-window whole-house package add up to a meaningful number, and the energy performance is essentially identical when both styles are properly sealed.
+                </p>
+                <h3 className="font-semibold text-navy-900 mb-3">Two-Story Replacement</h3>
+                <p>
+                  On second-story openings in Garland two-stories, the fixed top sash of a single-hung is actually an advantage: it&apos;s less to maintain, less to weatherstrip, and one fewer thing to break or fail. Every Andersen, Pella, and JELD-WEN single-hung we install includes the same Low-E glass options offered on the double-hung version.
+                </p>
+              </div>
+              <div>
+                <h3 className="font-semibold text-navy-900 mb-3">Rental Property and Investment Homes</h3>
+                <p className="mb-4">
+                  For Garland homeowners with rental properties, single-hungs strike the right balance between durability, simplicity, and cost. There&apos;s less hardware to fail, no upper-sash mechanism for tenants to misuse, and replacement parts are widely available across all the major brands.
+                </p>
+                <h3 className="font-semibold text-navy-900 mb-3">Mixed-Style Projects</h3>
+                <p>
+                  Many of our Garland whole-house replacement projects use single-hungs in secondary rooms and double-hungs in primary spaces, balancing budget and function. The exterior appearance is virtually identical from the curb, so curb appeal is preserved without paying for the second operable sash where it isn&apos;t needed.
+                </p>
+              </div>
+            </div>
+          </div>
+
           {/* FAQ */}
           <div>
             <h2 className="font-serif text-3xl font-semibold text-navy-900 mb-8 text-center">

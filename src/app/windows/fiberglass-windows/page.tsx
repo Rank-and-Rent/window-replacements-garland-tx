@@ -23,23 +23,23 @@ export default function FiberglassWindowsPage() {
     sections: [
       {
         heading: 'Unrivaled Structural Strength for Garland Homes',
-        content: "Fiberglass is fundamentally stronger than any other window frame material, making it ideal for Garland\&apos;s occasional severe weather and hail storms. The material\&apos;s tensile strength exceeds steel while maintaining flexibility that prevents cracking during temperature extremes. Unlike vinyl that can become brittle or wood that warps, fiberglass maintains perfect alignment and smooth operation year-round in Garland\&apos;s variable climate.",
+        content: "Fiberglass is fundamentally stronger than any other window frame material, making it ideal for Garland\'s occasional severe weather and hail storms. The material\'s tensile strength exceeds steel while maintaining flexibility that prevents cracking during temperature extremes. Unlike vinyl that can become brittle or wood that warps, fiberglass maintains perfect alignment and smooth operation year-round in Garland\'s variable climate.",
       },
       {
         heading: 'Superior Thermal Performance Reduces Costs',
-        content: "Fiberglass\&apos;s naturally low thermal conductivity creates exceptional insulating properties that significantly reduce energy costs in Garland\&apos;s hot summers. The material conducts heat 500 times slower than aluminum and far better than wood, creating a natural thermal barrier. Garland homeowners typically see 35-45% reductions in heating and cooling costs with fiberglass windows.",
+        content: "Fiberglass\'s naturally low thermal conductivity creates exceptional insulating properties that significantly reduce energy costs in Garland\'s hot summers. The material conducts heat 500 times slower than aluminum and far better than wood, creating a natural thermal barrier. Garland homeowners typically see 35-45% reductions in heating and cooling costs with fiberglass windows.",
       },
       {
         heading: 'Authentic Wood Beauty Without Maintenance',
-        content: "Modern fiberglass windows replicate the natural beauty of wood with stunning accuracy, yet require none of the maintenance that authentic wood demands in Garland\&apos;s climate. Advanced manufacturing creates wood-grain textures virtually indistinguishable from real wood, perfect for Garland\&apos;s historic neighborhoods while eliminating annual refinishing requirements.",
+        content: "Modern fiberglass windows replicate the natural beauty of wood with stunning accuracy, yet require none of the maintenance that authentic wood demands in Garland\'s climate. Advanced manufacturing creates wood-grain textures virtually indistinguishable from real wood, perfect for Garland\'s historic neighborhoods while eliminating annual refinishing requirements.",
       },
       {
         heading: 'Moisture Resistance for Texas Climate',
-        content: "Fiberglass is inherently moisture-resistant, making it perfect for Garland\&apos;s humid summers and occasional heavy rains. Unlike wood that absorbs moisture and rots, fiberglass remains impervious to water damage. The material never needs sealing or protective treatments, preventing mold and mildew growth that can compromise indoor air quality.",
+        content: "Fiberglass is inherently moisture-resistant, making it perfect for Garland\'s humid summers and occasional heavy rains. Unlike wood that absorbs moisture and rots, fiberglass remains impervious to water damage. The material never needs sealing or protective treatments, preventing mold and mildew growth that can compromise indoor air quality.",
       },
       {
         heading: 'Design Flexibility and Customization',
-        content: "Fiberglass\&apos;s workability allows manufacturers to create virtually any window style, size, or configuration. The material accommodates complex curves and irregular shapes that would be difficult with other materials. Available in unlimited color options, fiberglass windows match Garland\&apos;s diverse architectural styles from traditional ranch homes to contemporary designs.",
+        content: "Fiberglass\'s workability allows manufacturers to create virtually any window style, size, or configuration. The material accommodates complex curves and irregular shapes that would be difficult with other materials. Available in unlimited color options, fiberglass windows match Garland\'s diverse architectural styles from traditional ranch homes to contemporary designs.",
       },
       {
         heading: 'Environmental and Health Advantages',
@@ -67,11 +67,11 @@ export default function FiberglassWindowsPage() {
       },
       {
         name: 'Pella Fiberglass Windows',
-        description: 'Pella\&apos;s fiberglass windows feature their exclusive EnduraClad protection system and advanced insulated glass technology. The result is fiberglass performance with superior weather resistance and energy efficiency.',
+        description: 'Pella\'s fiberglass windows feature their exclusive EnduraClad protection system and advanced insulated glass technology. The result is fiberglass performance with superior weather resistance and energy efficiency.',
       },
       {
         name: 'JELD-WEN AuraLast Fiberglass',
-        description: 'JELD-WEN\&apos;s AuraLast fiberglass technology provides authentic wood beauty with fiberglass strength and durability. Their comprehensive warranty program reflects confidence in the material\&apos;s longevity.',
+        description: 'JELD-WEN\'s AuraLast fiberglass technology provides authentic wood beauty with fiberglass strength and durability. Their comprehensive warranty program reflects confidence in the material\'s longevity.',
       },
     ],
 
@@ -82,7 +82,7 @@ export default function FiberglassWindowsPage() {
       },
       {
         question: 'Are fiberglass windows energy efficient?',
-        answer: 'Extremely. Fiberglass\&apos;s low thermal conductivity creates superior insulation. Combined with advanced glass packages, fiberglass windows can reduce energy costs by 35-45% in Garland\&apos;s climate.',
+        answer: 'Extremely. Fiberglass\'s low thermal conductivity creates superior insulation. Combined with advanced glass packages, fiberglass windows can reduce energy costs by 35-45% in Garland\'s climate.',
       },
       {
         question: 'Do fiberglass windows require maintenance?',

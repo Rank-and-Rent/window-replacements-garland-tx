@@ -23,7 +23,7 @@ export default function WoodWindowsPage() {
     sections: [
       {
         heading: 'Unmatched Natural Beauty and Character',
-        content: "Solid wood windows provide authenticity that synthetic materials cannot replicate. Each window features unique grain patterns, natural color variations, and organic warmth that change subtly with light and seasons. Wood accepts stains and finishes that enhance natural beauty while allowing the grain to show through. For Garland\&apos;s historic homes and traditional architecture, wood windows provide period-appropriate authenticity that preserves architectural integrity.",
+        content: "Solid wood windows provide authenticity that synthetic materials cannot replicate. Each window features unique grain patterns, natural color variations, and organic warmth that change subtly with light and seasons. Wood accepts stains and finishes that enhance natural beauty while allowing the grain to show through. For Garland\'s historic homes and traditional architecture, wood windows provide period-appropriate authenticity that preserves architectural integrity.",
       },
       {
         heading: 'Superior Thermal Performance',
@@ -35,15 +35,15 @@ export default function WoodWindowsPage() {
       },
       {
         heading: 'Maintenance Requirements and Considerations',
-        content: "Solid wood windows require regular maintenance to preserve their beauty and performance in Garland\&apos;s climate. Exterior surfaces need repainting or refinishing every 3-5 years to protect against moisture and UV damage. Interior maintenance is minimal but benefits from occasional cleaning and refinishing. For homeowners willing to invest time in maintenance, wood windows reward with beauty and character that improve with age.",
+        content: "Solid wood windows require regular maintenance to preserve their beauty and performance in Garland\'s climate. Exterior surfaces need repainting or refinishing every 3-5 years to protect against moisture and UV damage. Interior maintenance is minimal but benefits from occasional cleaning and refinishing. For homeowners willing to invest time in maintenance, wood windows reward with beauty and character that improve with age.",
       },
       {
         heading: 'Historic Preservation and Architectural Authenticity',
-        content: "Wood windows are essential for authentic historic preservation in Garland\&apos;s older neighborhoods. Historic districts often require wood windows to maintain period character. Beyond regulatory requirements, wood windows provide architectural correctness that honors original design intent. For homeowners passionate about preserving Garland\&apos;s residential architectural heritage, wood windows are the only authentic choice.",
+        content: "Wood windows are essential for authentic historic preservation in Garland\'s older neighborhoods. Historic districts often require wood windows to maintain period character. Beyond regulatory requirements, wood windows provide architectural correctness that honors original design intent. For homeowners passionate about preserving Garland\'s residential architectural heritage, wood windows are the only authentic choice.",
       },
       {
         heading: 'Investment Value and Longevity',
-        content: "Quality wood windows represent significant initial investment but provide exceptional long-term value. With proper maintenance, wood windows last 50-100 years or more—far longer than synthetic alternatives. The windows can be refinished repeatedly, allowing homeowners to refresh appearance without replacement. In Garland\&apos;s historic neighborhoods, authentic wood windows significantly enhance property value and marketability.",
+        content: "Quality wood windows represent significant initial investment but provide exceptional long-term value. With proper maintenance, wood windows last 50-100 years or more—far longer than synthetic alternatives. The windows can be refinished repeatedly, allowing homeowners to refresh appearance without replacement. In Garland\'s historic neighborhoods, authentic wood windows significantly enhance property value and marketability.",
       },
     ],
 
@@ -63,22 +63,22 @@ export default function WoodWindowsPage() {
     brands: [
       {
         name: 'Andersen Traditional Wood Windows',
-        description: 'Andersen\&apos;s traditional wood line offers authentic wood windows crafted from premium species with time-honored construction methods. Their windows combine historical accuracy with modern performance features for discerning Garland homeowners.',
+        description: 'Andersen\'s traditional wood line offers authentic wood windows crafted from premium species with time-honored construction methods. Their windows combine historical accuracy with modern performance features for discerning Garland homeowners.',
       },
       {
         name: 'Pella Wood Windows',
-        description: 'Pella crafts solid wood windows using premium wood species and advanced preservation treatments. Their wood windows provide authentic beauty with enhanced longevity, perfect for Garland\&apos;s historic homes and traditional architecture.',
+        description: 'Pella crafts solid wood windows using premium wood species and advanced preservation treatments. Their wood windows provide authentic beauty with enhanced longevity, perfect for Garland\'s historic homes and traditional architecture.',
       },
       {
         name: 'JELD-WEN Premium Wood Collection',
-        description: 'JELD-WEN\&apos;s premium wood windows feature authentic construction using select wood species. Their AuraLast preservation system extends wood life while maintaining traditional appearance, ideal for Garland\&apos;s climate.',
+        description: 'JELD-WEN\'s premium wood windows feature authentic construction using select wood species. Their AuraLast preservation system extends wood life while maintaining traditional appearance, ideal for Garland\'s climate.',
       },
     ],
 
     faq: [
       {
         question: 'Do wood windows require a lot of maintenance?',
-        answer: 'Yes, solid wood windows require regular maintenance. Exterior surfaces need repainting or refinishing every 3-5 years in Garland\&apos;s climate to prevent moisture damage and UV degradation. However, many homeowners find this maintenance rewarding.',
+        answer: 'Yes, solid wood windows require regular maintenance. Exterior surfaces need repainting or refinishing every 3-5 years in Garland\'s climate to prevent moisture damage and UV degradation. However, many homeowners find this maintenance rewarding.',
       },
       {
         question: 'How long do wood windows last?',
@@ -86,7 +86,7 @@ export default function WoodWindowsPage() {
       },
       {
         question: 'Are wood windows energy efficient?',
-        answer: 'Yes, wood windows are naturally energy efficient. Wood\&apos;s cellular structure provides excellent insulation, achieving U-factors of 0.25-0.30. Combined with modern glass, wood windows reduce energy costs significantly.',
+        answer: 'Yes, wood windows are naturally energy efficient. Wood\'s cellular structure provides excellent insulation, achieving U-factors of 0.25-0.30. Combined with modern glass, wood windows reduce energy costs significantly.',
       },
       {
         question: 'Are wood windows required for historic homes?',
@@ -94,7 +94,7 @@ export default function WoodWindowsPage() {
       },
       {
         question: 'Can wood windows be painted?',
-        answer: 'Absolutely. Wood windows accept any exterior or interior paint or stain. Many homeowners change colors periodically to refresh appearance, taking advantage of wood\&apos;s ability to be refinished repeatedly throughout its long service life.',
+        answer: 'Absolutely. Wood windows accept any exterior or interior paint or stain. Many homeowners change colors periodically to refresh appearance, taking advantage of wood\'s ability to be refinished repeatedly throughout its long service life.',
       },
       {
         question: 'How much do wood windows cost with installation?',

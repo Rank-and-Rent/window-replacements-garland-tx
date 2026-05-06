@@ -105,6 +105,35 @@ export default function AluminumWindows() {
             </div>
           </div>
 
+          {/* Aluminum Use in Garland */}
+          <div className="bg-white p-10 rounded-sm mb-16">
+            <h2 className="font-serif text-3xl font-semibold text-navy-900 mb-6 text-center">
+              When Aluminum Is the Right Pick for a Garland Home
+            </h2>
+            <div className="grid md:grid-cols-2 gap-8 text-navy-700 text-sm leading-relaxed">
+              <div>
+                <h3 className="font-semibold text-navy-900 mb-3">Modern and Contemporary Architecture</h3>
+                <p className="mb-4">
+                  Newer Garland custom homes that lean modern, particularly the contemporary and mid-century-revival builds we see around Lake Ray Hubbard and in select Firewheel pockets, often want the narrow sightlines that only aluminum can deliver. The thin frame profile maximizes glass area and reads correctly with flat-roof and low-pitch architectural detailing.
+                </p>
+                <h3 className="font-semibold text-navy-900 mb-3">Large Spans and Tall Openings</h3>
+                <p>
+                  Aluminum&apos;s structural strength makes it the right pick for oversized openings — the 8-foot-tall picture units and the wide multi-panel slider assemblies that dominate newer custom-home great rooms. Vinyl can&apos;t match the structural performance at those sizes without bulky reinforcement.
+                </p>
+              </div>
+              <div>
+                <h3 className="font-semibold text-navy-900 mb-3">Thermal Break Quality Matters</h3>
+                <p className="mb-4">
+                  All thermal breaks are not created equal. Premium aluminum windows use a polyamide thermal break that fully separates the interior and exterior aluminum profiles. Cheaper systems use a foam-fill or partial separation that performs noticeably worse in Garland&apos;s heat. We specify the higher-performance thermal-break systems for any Garland install.
+                </p>
+                <h3 className="font-semibold text-navy-900 mb-3">Powder-Coat Finish Options</h3>
+                <p>
+                  Modern aluminum windows accept factory-applied powder coatings in essentially unlimited colors. Black-frame and bronze-frame aluminum windows have become the dominant choice on contemporary Garland homes, and the powder-coat finish stays sharp through years of UV and weather exposure with no homeowner maintenance.
+                </p>
+              </div>
+            </div>
+          </div>
+
           {/* FAQ */}
           <div>
             <h2 className="font-serif text-3xl font-semibold text-navy-900 mb-8 text-center">

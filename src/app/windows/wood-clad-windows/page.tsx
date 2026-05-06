@@ -23,7 +23,7 @@ export default function WoodCladWindowsPage() {
     sections: [
       {
         heading: 'Best of Both Worlds: Wood Inside, Durability Outside',
-        content: "Wood clad windows feature genuine wood interiors that provide authentic natural beauty, warmth, and character. The interior wood can be stained or painted to match any décor, from traditional stains to contemporary colors. The exterior cladding—typically aluminum or vinyl—protects the wood from Garland\&apos;s weather extremes, eliminating the maintenance burdens of traditional wood windows while preserving interior beauty.",
+        content: "Wood clad windows feature genuine wood interiors that provide authentic natural beauty, warmth, and character. The interior wood can be stained or painted to match any décor, from traditional stains to contemporary colors. The exterior cladding—typically aluminum or vinyl—protects the wood from Garland\'s weather extremes, eliminating the maintenance burdens of traditional wood windows while preserving interior beauty.",
       },
       {
         heading: 'Weather Protection for Garland Climate',
@@ -31,7 +31,7 @@ export default function WoodCladWindowsPage() {
       },
       {
         heading: 'Superior Energy Efficiency',
-        content: "Wood\&apos;s natural insulating properties combined with modern cladding technology create exceptional thermal performance. Wood clad windows typically achieve U-factors of 0.25-0.30, significantly better than aluminum and comparable to premium vinyl. Garland homeowners see 30-40% reductions in energy costs compared to older windows, with the added benefit of wood\&apos;s thermal mass that moderates temperature swings.",
+        content: "Wood\'s natural insulating properties combined with modern cladding technology create exceptional thermal performance. Wood clad windows typically achieve U-factors of 0.25-0.30, significantly better than aluminum and comparable to premium vinyl. Garland homeowners see 30-40% reductions in energy costs compared to older windows, with the added benefit of wood\'s thermal mass that moderates temperature swings.",
       },
       {
         heading: 'Design Flexibility and Customization',
@@ -43,7 +43,7 @@ export default function WoodCladWindowsPage() {
       },
       {
         heading: 'Investment in Home Value',
-        content: "Wood clad windows significantly enhance home value and appeal in Garland\&apos;s community real estate market. The natural wood interior creates warmth and character that buyers value, while the low-maintenance exterior appeals to practical considerations. Wood clad windows are often cited as a key selling feature in premium Garland properties.",
+        content: "Wood clad windows significantly enhance home value and appeal in Garland\'s community real estate market. The natural wood interior creates warmth and character that buyers value, while the low-maintenance exterior appeals to practical considerations. Wood clad windows are often cited as a key selling feature in premium Garland properties.",
       },
     ],
 
@@ -67,11 +67,11 @@ export default function WoodCladWindowsPage() {
       },
       {
         name: 'Pella Architect Series Wood Clad',
-        description: 'Pella\&apos;s wood clad windows combine authentic wood beauty with their proprietary EnduraClad protection system. The result is windows that perform beautifully in Garland\&apos;s challenging climate while maintaining traditional appeal.',
+        description: 'Pella\'s wood clad windows combine authentic wood beauty with their proprietary EnduraClad protection system. The result is windows that perform beautifully in Garland\'s challenging climate while maintaining traditional appeal.',
       },
       {
         name: 'JELD-WEN Siteline Wood Clad',
-        description: 'JELD-WEN\&apos;s Siteline collection offers premium wood clad windows with exceptional customization options. Their AuraLast wood protection system ensures longevity even in demanding Texas climate conditions.',
+        description: 'JELD-WEN\'s Siteline collection offers premium wood clad windows with exceptional customization options. Their AuraLast wood protection system ensures longevity even in demanding Texas climate conditions.',
       },
     ],
 
@@ -86,7 +86,7 @@ export default function WoodCladWindowsPage() {
       },
       {
         question: 'Are wood clad windows energy efficient?',
-        answer: 'Yes, wood clad windows are highly energy efficient. Wood\&apos;s natural insulating properties combined with modern glass technology can reduce energy costs by 30-40% in Garland\&apos;s climate.',
+        answer: 'Yes, wood clad windows are highly energy efficient. Wood\'s natural insulating properties combined with modern glass technology can reduce energy costs by 30-40% in Garland\'s climate.',
       },
       {
         question: 'How long do wood clad windows last?',
@@ -94,7 +94,7 @@ export default function WoodCladWindowsPage() {
       },
       {
         question: 'Can I paint the interior wood?',
-        answer: 'Absolutely. Wood clad window interiors accept any stain or paint, allowing perfect color matching with your Garland home\&apos;s interior design. Many homeowners change interior finishes over time.',
+        answer: 'Absolutely. Wood clad window interiors accept any stain or paint, allowing perfect color matching with your Garland home\'s interior design. Many homeowners change interior finishes over time.',
       },
       {
         question: 'How much do wood clad windows cost with installation?',

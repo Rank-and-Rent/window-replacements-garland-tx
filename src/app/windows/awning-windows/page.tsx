@@ -102,6 +102,35 @@ export default function AwningWindows() {
             </div>
           </div>
 
+          {/* Where Awnings Work in Garland Homes */}
+          <div className="bg-white p-10 rounded-sm mb-16">
+            <h2 className="font-serif text-3xl font-semibold text-navy-900 mb-6 text-center">
+              Where Awning Windows Work Best in a Garland Home
+            </h2>
+            <div className="grid md:grid-cols-2 gap-8 text-navy-700 text-sm leading-relaxed">
+              <div>
+                <h3 className="font-semibold text-navy-900 mb-3">Above and Below Picture Windows</h3>
+                <p className="mb-4">
+                  The most common awning-window application we install in Garland is as a transom or operable accent above a large fixed picture window. The picture unit captures the view, the awning above it provides ventilation, and the rain-proof design means homeowners can leave the awning cracked open during a typical North Texas afternoon thunderstorm without worrying about water intrusion.
+                </p>
+                <h3 className="font-semibold text-navy-900 mb-3">Bathrooms and Powder Rooms</h3>
+                <p>
+                  Awnings sit higher in the wall than typical sliders or double-hungs, which provides natural privacy in bathrooms while still letting steam and humidity escape. The compression-seal design also locks tight against the standing humidity that bathrooms generate.
+                </p>
+              </div>
+              <div>
+                <h3 className="font-semibold text-navy-900 mb-3">Kitchens Above Countertops</h3>
+                <p className="mb-4">
+                  Reaching across a deep countertop to operate a double-hung sash gets old quickly. Awning windows with crank operation are easy to open from the front edge of the counter, and the rain-deflecting geometry means they can stay open during a quick storm while a dish dries.
+                </p>
+                <h3 className="font-semibold text-navy-900 mb-3">Stairwell and Hallway Walls</h3>
+                <p>
+                  Many older Garland ranches have narrow stairwell or hallway openings that need ventilation but are too small or oddly placed for double-hungs. Awnings fit beautifully in these spots and operate easily even in awkward locations.
+                </p>
+              </div>
+            </div>
+          </div>
+
           {/* FAQ */}
           <div>
             <h2 className="font-serif text-3xl font-semibold text-navy-900 mb-8 text-center">

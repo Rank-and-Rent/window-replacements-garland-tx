@@ -129,6 +129,35 @@ export default function PellaPage() {
             </div>
           </div>
 
+          {/* Pella Product Lines */}
+          <div className="bg-white p-10 rounded-sm mb-16">
+            <h2 className="font-serif text-3xl font-semibold text-navy-900 mb-6 text-center">
+              Pella Product Lines We Install in Garland
+            </h2>
+            <div className="grid md:grid-cols-2 gap-8 text-navy-700 text-sm leading-relaxed">
+              <div>
+                <h3 className="font-semibold text-navy-900 mb-3">Pella 250 and Lifestyle Vinyl</h3>
+                <p className="mb-4">
+                  The 250 Series and Lifestyle vinyl lines hit the meat of the Garland replacement market. Multi-chambered fusion-welded vinyl frames, EnduraClad-protected exteriors, and InsulShield Low-E glass cover the performance needs of most Firewheel, Camelot, and North Garland homes at a sensible price point.
+                </p>
+                <h3 className="font-semibold text-navy-900 mb-3">Pella Impervia Fiberglass</h3>
+                <p>
+                  Impervia is Pella&apos;s fiberglass line, built for exceptional durability in extreme weather. The fiberglass frames don&apos;t expand and contract under Texas heat the way vinyl can, and the painted exteriors hold up beautifully on west-facing Garland walls. A solid pick for homes that want performance without going to clad-wood pricing.
+                </p>
+              </div>
+              <div>
+                <h3 className="font-semibold text-navy-900 mb-3">Pella Reserve Wood</h3>
+                <p className="mb-4">
+                  Reserve is Pella&apos;s top-tier traditional and contemporary wood and clad-wood line, built for custom Garland homes where the architecture demands authentic divided lites, specialty shapes, and stain-grade interiors. Available with aluminum cladding in dozens of colors.
+                </p>
+                <h3 className="font-semibold text-navy-900 mb-3">Pella Architect Series</h3>
+                <p>
+                  Architect Series sits between Lifestyle and Reserve, offering authentic clad-wood construction at a more accessible price. The line is a strong fit for the architecturally-detailed homes throughout Camelot, Naaman Forest, and the Lake Ray Hubbard custom enclaves.
+                </p>
+              </div>
+            </div>
+          </div>
+
           {/* Why Choose */}
           <div className="bg-white p-10 rounded-sm mb-16">
             <h2 className="font-serif text-3xl font-semibold text-navy-900 mb-8 text-center">

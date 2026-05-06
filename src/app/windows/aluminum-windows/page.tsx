@@ -38,7 +38,7 @@ export default function AluminumWindowsPage() {
         content: "While aluminum windows require more maintenance than vinyl options, they offer excellent long-term value with manageable care requirements for Garland&apos;s diverse community. Exterior surfaces benefit from periodic refinishing (typically every 8-12 years) to maintain appearance and protect the metal. The frames themselves never corrode or degrade, and interior surfaces require no maintenance beyond occasional cleaning. This maintenance schedule accommodates Garland&apos;s varied lifestyles and cultural practices. Compared to wood windows that require annual maintenance, aluminum windows represent a significant time and cost savings for busy families with diverse backgrounds.",
       },
       {
-        heading: 'Versatility for Garland\&apos;s Architectural Diversity',
+        heading: 'Versatility for Garland\'s Architectural Diversity',
         content: "Aluminum&apos;s workability allows it to be formed into virtually any window configuration, making it ideal for Garland&apos;s diverse architectural landscape. From contemporary designs in new developments to traditional styles in established neighborhoods, aluminum adapts beautifully. The material accommodates all major glass types, from single-pane for cost-conscious applications to triple-pane insulated units for maximum energy efficiency. In Garland, aluminum windows excel in community-oriented spaces that need durability and style. The material&apos;s compatibility with impact-resistant glass makes it suitable for areas with occasional severe weather. Whether for new construction or replacement in established homes, aluminum provides the design flexibility required in Garland&apos;s dynamic community.",
       },
       {
@@ -67,7 +67,7 @@ export default function AluminumWindowsPage() {
       },
       {
         name: 'Pella Aluminum Windows',
-        description: 'Pella\&apos;s aluminum windows incorporate their signature EnduraClad protection system and advanced thermal barrier systems. The result is aluminum performance with superior weather resistance and energy efficiency.',
+        description: 'Pella\'s aluminum windows incorporate their signature EnduraClad protection system and advanced thermal barrier systems. The result is aluminum performance with superior weather resistance and energy efficiency.',
       },
       {
         name: 'JELD-WEN Aluminum Collection',
@@ -82,15 +82,15 @@ export default function AluminumWindowsPage() {
       },
       {
         question: 'Are aluminum windows energy efficient for Garland families?',
-        answer: 'Modern aluminum windows with thermal breaks are highly energy efficient, achieving U-factors comparable to vinyl windows. They can reduce heating and cooling costs by 25-35% in Garland\&apos;s climate when properly specified with insulated glass.',
+        answer: 'Modern aluminum windows with thermal breaks are highly energy efficient, achieving U-factors comparable to vinyl windows. They can reduce heating and cooling costs by 25-35% in Garland\'s climate when properly specified with insulated glass.',
       },
       {
         question: 'How long do aluminum windows last in Garland?',
         answer: 'Quality aluminum windows last 40+ years with proper maintenance. The frames never degrade like wood or vinyl, and with periodic repainting, they maintain their appearance and performance indefinitely.',
       },
       {
-        question: 'Are aluminum windows suitable for Garland\&apos;s diverse community?',
-        answer: 'Absolutely. Aluminum windows are perfect for Garland\&apos;s diverse population with their durability, versatility, and low-maintenance design that accommodates different lifestyles and cultural preferences.',
+        question: 'Are aluminum windows suitable for Garland\'s diverse community?',
+        answer: 'Absolutely. Aluminum windows are perfect for Garland\'s diverse population with their durability, versatility, and low-maintenance design that accommodates different lifestyles and cultural preferences.',
       },
       {
         question: 'Can aluminum windows be recycled?',

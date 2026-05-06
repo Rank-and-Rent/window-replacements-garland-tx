@@ -105,6 +105,35 @@ export default function WoodWindows() {
             </div>
           </div>
 
+          {/* Wood in Garland */}
+          <div className="bg-white p-10 rounded-sm mb-16">
+            <h2 className="font-serif text-3xl font-semibold text-navy-900 mb-6 text-center">
+              Wood Windows in Garland: When They Make Sense
+            </h2>
+            <div className="grid md:grid-cols-2 gap-8 text-navy-700 text-sm leading-relaxed">
+              <div>
+                <h3 className="font-semibold text-navy-900 mb-3">Historic and Heritage Restorations</h3>
+                <p className="mb-4">
+                  Real wood windows are the right pick for the older homes around Heritage Crossing, the early-twentieth-century properties along the original downtown grid, and the architectural-restoration projects where authenticity matters more than maintenance reduction. Andersen Woodwright, Marvin Signature, and Pella Reserve all build true wood windows with the divided-lite proportions and frame depths that period homes need.
+                </p>
+                <h3 className="font-semibold text-navy-900 mb-3">Custom Stain-Grade Interiors</h3>
+                <p>
+                  Many Garland custom homes feature stained wood trim, ceiling beams, or built-ins that demand wood window interiors to read correctly. Pella, Marvin, and JELD-WEN offer pine, fir, mahogany, and oak interiors that can be field-stained to match existing millwork.
+                </p>
+              </div>
+              <div>
+                <h3 className="font-semibold text-navy-900 mb-3">Maintenance Realities</h3>
+                <p className="mb-4">
+                  Real wood exterior surfaces need refinishing every 3 to 5 years in Garland&apos;s sun and humidity to prevent moisture damage and finish failure. Homeowners considering wood need to be honest with themselves about that maintenance cycle. For most Garland homes, wood-clad (wood interior, aluminum or fiberglass exterior) is the better long-term choice.
+                </p>
+                <h3 className="font-semibold text-navy-900 mb-3">Protection Strategies</h3>
+                <p>
+                  Where wood windows are the right call, we install with deep overhangs or covered porches whenever possible to protect exterior surfaces, and we specify factory-applied AuraLast or similar wood-preservation treatments that materially extend service life in Texas conditions.
+                </p>
+              </div>
+            </div>
+          </div>
+
           {/* FAQ */}
           <div>
             <h2 className="font-serif text-3xl font-semibold text-navy-900 mb-8 text-center">

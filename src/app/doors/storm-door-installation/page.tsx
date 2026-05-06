@@ -55,21 +55,13 @@ export default function StormDoorPage() {
                 Protect Your Investment
               </h2>
               <p className="text-navy-700 leading-relaxed mb-6">
-                Storm doors add an extra layer of protection to your entry door, shielding it from 
-                weather damage, UV exposure, and everyday wear. In Garland&apos;s harsh Texas climate, a 
-                quality storm door can significantly extend the life of your primary entry door while 
-                improving energy efficiency.
+                A storm door is one of the highest-leverage upgrades a Garland homeowner can make to extend the life of an entry door. Texas summer sun is brutal on stained wood doors and even painted fiberglass over time. The UV index from May through September is consistently in the high range, and a west-facing front entry can see surface temperatures well above 140&deg;F by mid-afternoon. A full-glass storm door blocks the worst of that exposure and cuts the heat soak through the entry, both of which extend finish life and reduce hot-spot heat gain inside the foyer.
               </p>
               <p className="text-navy-700 leading-relaxed mb-6">
-                Modern storm doors offer versatility beyond protection. Retractable screen options let you 
-                enjoy fresh air while keeping insects out. Full-view glass panels maximize natural light 
-                in your entryway. Some models feature interchangeable glass and screen inserts for 
-                seasonal flexibility.
+                Modern storm doors handle several different jobs at once. Retractable screen models let Garland homeowners open the front door for fresh air during the cooler weeks of spring and fall without inviting in mosquitoes from the creek bottoms. Full-view glass models with low-E coatings provide a permanent UV-blocking layer in front of the entry door. Heavy-duty security storm doors with steel grilles and multi-point locks add a real second layer of physical security at the front of the home.
               </p>
               <p className="text-navy-700 leading-relaxed">
-                Security storm doors with reinforced frames and heavy-duty locks provide an additional 
-                barrier against intruders. Many Garland homeowners appreciate the peace of mind that 
-                comes from having this extra layer of security at their main entry.
+                We install Andersen, Larson, and ProVia storm doors most often in Garland. Each line offers heavy-duty hinges, full-perimeter weatherstripping, hydraulic closers that won&apos;t slam in a Texas wind gust, and color matching for the most common entry-door finishes used in this market.
               </p>
             </div>
             <div className="bg-navy-900 p-8 rounded-sm">
@@ -100,6 +92,33 @@ export default function StormDoorPage() {
                   <span><strong className="text-cream-100">Curb Appeal:</strong> Enhance your home&apos;s entrance appearance</span>
                 </li>
               </ul>
+            </div>
+          </div>
+
+          {/* Storm Door Picks */}
+          <div className="bg-white p-10 rounded-sm mb-16">
+            <h2 className="font-serif text-3xl font-semibold text-navy-900 mb-6 text-center">
+              How to Pick the Right Storm Door
+            </h2>
+            <div className="grid md:grid-cols-3 gap-6 text-navy-700 text-sm leading-relaxed">
+              <div>
+                <h3 className="font-semibold text-navy-900 mb-3">Full-View Glass</h3>
+                <p>
+                  The most versatile choice for most Garland front entries. The glass panel sits in front of the entry door, blocking UV and weather while letting daylight reach the foyer. Some models include a retractable screen behind the glass for ventilation when the entry door is opened.
+                </p>
+              </div>
+              <div>
+                <h3 className="font-semibold text-navy-900 mb-3">Ventilating Half-Glass</h3>
+                <p>
+                  Half-glass storm doors with a built-in screen panel are the right pick for shaded entries or for homeowners who want to leave the front door open frequently. The configuration prevents heat soak between the storm door and entry door, which can be a concern in full-glass installations on west-facing entries.
+                </p>
+              </div>
+              <div>
+                <h3 className="font-semibold text-navy-900 mb-3">Security Storm Doors</h3>
+                <p>
+                  Heavy-duty steel-grille security storm doors add real physical protection at the front entry. We install these most often on rental properties and on homes where the homeowner travels frequently. Multi-point locking and reinforced hinges resist forced-entry attempts.
+                </p>
+              </div>
             </div>
           </div>
 

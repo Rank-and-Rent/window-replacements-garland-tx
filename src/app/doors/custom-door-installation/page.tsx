@@ -55,20 +55,13 @@ export default function CustomDoorPage() {
                 Your Vision, Our Craftsmanship
               </h2>
               <p className="text-navy-700 leading-relaxed mb-6">
-                Sometimes standard door sizes and styles simply do not fit. Whether you have an oversized 
-                opening, unique architectural requirements, or a specific design vision, custom doors 
-                provide the perfect solution for Garland homes that demand something special.
+                Plenty of Garland homes have door openings that simply don&apos;t match what&apos;s sitting on a stocking-distributor pallet. The mid-century ranches in Eastern Hills, the custom builds along Lake Ray Hubbard, and the older homes around Heritage Crossing all have at least a few openings sized to whoever was building doors back in 1962. When the original door wears out, the choice is to shrink the opening to a stock size and patch the brick, or order a real custom door built to the exact rough-opening dimensions. We help homeowners pick the right path for the architecture and the budget.
               </p>
               <p className="text-navy-700 leading-relaxed mb-6">
-                Premium manufacturers like Marvin, Andersen, and Pella offer extensive custom capabilities. 
-                From non-standard dimensions to unique materials, hardware, and glass options, custom doors 
-                can be engineered to meet virtually any requirement while maintaining the quality and 
-                performance of standard product lines.
+                Premium manufacturers like Marvin, Andersen, JELD-WEN, and Pella all build to custom specifications, with options for oversized heights, non-standard widths, dual sidelite assemblies, transoms, arched tops, and custom species or stain matches. We work with their architectural-grade product lines for Garland homes that need entry doors built to match the architectural intent of the original house, with full multi-point locks, three-point compression weatherstripping, and impact-rated glass packages where the home faces I-635, I-30, or Hwy 78 noise.
               </p>
               <p className="text-navy-700 leading-relaxed">
-                Custom doors are especially popular for historic Garland homes where original openings 
-                do not conform to modern standard sizes, or for new construction where architects have 
-                specified unique entry statements that set the home apart.
+                Custom doors aren&apos;t just for high-end homes. We replace a lot of plain stock doors in Garland with mid-tier custom units that fit oversized 8-foot openings, accommodate full-lite glass to brighten dark foyers, or include security upgrades that builder-grade hardware never offered. The premium over a stock door is usually smaller than homeowners expect once everything is priced together.
               </p>
             </div>
             <div className="bg-navy-900 p-8 rounded-sm">
@@ -99,6 +92,35 @@ export default function CustomDoorPage() {
                   <span><strong className="text-cream-100">ADA Compliance:</strong> Wider openings and accessible hardware</span>
                 </li>
               </ul>
+            </div>
+          </div>
+
+          {/* Custom Door Options */}
+          <div className="bg-white p-10 rounded-sm mb-16">
+            <h2 className="font-serif text-3xl font-semibold text-navy-900 mb-6 text-center">
+              What Custom Means in Practice
+            </h2>
+            <div className="grid md:grid-cols-2 gap-8 text-navy-700 text-sm leading-relaxed">
+              <div>
+                <h3 className="font-semibold text-navy-900 mb-3">Oversized Entry Doors</h3>
+                <p className="mb-4">
+                  8-foot tall doors are increasingly common on newer Garland custom homes. We order these direct from Marvin, Andersen, and JELD-WEN architectural lines with the proper compression weatherstripping and three-point locks needed to keep a tall slab from warping over time.
+                </p>
+                <h3 className="font-semibold text-navy-900 mb-3">Sidelite and Transom Assemblies</h3>
+                <p>
+                  Many older Garland homes have entry walls that combine a door, sidelites, and a transom into one mulled assembly. When the time comes to replace, we order the entire unit factory-mulled so the joint geometry stays tight and weatherstripping carries through correctly.
+                </p>
+              </div>
+              <div>
+                <h3 className="font-semibold text-navy-900 mb-3">Wood Species and Stains</h3>
+                <p className="mb-4">
+                  Mahogany, knotty alder, white oak, and walnut are all available in custom door programs. We send physical stain samples to homeowners ahead of order so the finish matches existing trim and millwork inside the home.
+                </p>
+                <h3 className="font-semibold text-navy-900 mb-3">Glass and Privacy</h3>
+                <p>
+                  Decorative leaded glass, art glass, frosted, reeded, and laminated impact-rated glass are all available. For Garland homeowners on busier streets, laminated acoustic glass quiets the entry noticeably while still allowing daylight into the foyer.
+                </p>
+              </div>
             </div>
           </div>
 

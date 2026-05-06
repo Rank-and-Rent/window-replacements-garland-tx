@@ -55,20 +55,13 @@ export default function PatioDoorPage() {
                 Seamless Indoor-Outdoor Living
               </h2>
               <p className="text-navy-700 leading-relaxed mb-6">
-                Patio doors are the gateway between your indoor living spaces and outdoor areas. Whether 
-                you have a spacious backyard, a cozy deck, or a garden patio, the right patio door creates 
-                a seamless transition that expands your living area and brings the outdoors in.
+                The patio door is one of the hardest-working openings in a Garland home. It opens and closes thousands of times a year, takes the worst of the west-facing afternoon sun, and is the largest single source of heat gain on most floor plans. The original aluminum sliders that came in a 1980s tract home, or the early vinyl sliders installed in 1990s and 2000s subdivisions, almost universally need replacement by their 20-year mark. Drag, draft, and failed weatherstripping are the telltale signs.
               </p>
               <p className="text-navy-700 leading-relaxed mb-6">
-                Modern patio doors from Andersen, Pella, JELD-WEN, and Marvin offer large glass panels that 
-                flood interiors with natural light while providing energy-efficient performance suited to 
-                Garland&apos;s hot Texas summers. Advanced weatherstripping and Low-E glass keep your home 
-                comfortable year-round.
+                Modern patio doors from Andersen, Pella, JELD-WEN, and Marvin operate on completely different mechanical principles than the originals. Andersen&apos;s 200 and 400 Series sliders glide on tandem stainless rollers that don&apos;t bind. Pella&apos;s Lifestyle and Reserve sliders use a self-contained track and brush-seal weatherstripping that performs through Garland&apos;s 100-degree summers. Hinged patio doors with multi-point compression hardware lock the slab tight against weatherstripping at three or four points, transforming both energy performance and security.
               </p>
               <p className="text-navy-700 leading-relaxed">
-                Choose from sliding patio doors for space-efficient operation or hinged patio doors for a 
-                more traditional swing-open style. Both options are available with multi-point locking 
-                systems for enhanced security.
+                Glass packages matter enormously on patio doors because of the surface area. Low-E366 and SunDefense glass packages cut solar heat gain dramatically on west-facing patios, and laminated acoustic interlayers reduce highway noise on Garland homes near I-635, I-30, or Hwy 78.
               </p>
             </div>
             <div className="bg-navy-900 p-8 rounded-sm">
@@ -98,6 +91,33 @@ export default function PatioDoorPage() {
                 <li>- Multi-point locking systems</li>
                 <li>- Smooth, quiet operation</li>
               </ul>
+            </div>
+          </div>
+
+          {/* Sliding vs Hinged Deep Dive */}
+          <div className="bg-white p-10 rounded-sm mb-16">
+            <h2 className="font-serif text-3xl font-semibold text-navy-900 mb-6 text-center">
+              Sliding vs Hinged: How to Choose
+            </h2>
+            <div className="grid md:grid-cols-2 gap-8 text-navy-700 text-sm leading-relaxed">
+              <div>
+                <h3 className="font-semibold text-navy-900 mb-3">Pick Sliding When...</h3>
+                <p className="mb-4">
+                  The patio side of the room is tight on swing space, the door is in heavy daily use, or you want maximum glass area for a panoramic view. Sliding doors don&apos;t require any clearance for the swing arc, which matters when furniture sits close to the door or when the patio is narrow.
+                </p>
+                <p>
+                  We typically recommend Andersen&apos;s 200 and 400 Series, Pella Lifestyle and Reserve, JELD-WEN Premium Vinyl, and Marvin Elevate sliders for Garland homes. All four operate on smooth tandem rollers and use compression weatherstripping that holds up through Texas heat cycles.
+                </p>
+              </div>
+              <div>
+                <h3 className="font-semibold text-navy-900 mb-3">Pick Hinged When...</h3>
+                <p className="mb-4">
+                  Architectural intent calls for a more traditional look, you want the multi-point security that swing doors offer, or you frequently want to open both leaves wide for entertaining. Hinged French-style and single-leaf patio doors lock at three or more points along the frame, which improves both performance and security.
+                </p>
+                <p>
+                  Hinged patio doors do need swing clearance — typically 32 to 36 inches inside or outside the door, depending on which way it swings. We help homeowners decide between inswing and outswing based on furniture layout and patio geometry.
+                </p>
+              </div>
             </div>
           </div>
 

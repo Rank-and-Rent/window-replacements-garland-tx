@@ -1,21 +1,22 @@
 import Header from "@/components/header";
 import CallToAction from "@/components/call-to-action";
 import Footer from "@/components/footer";
+import Link from "next/link";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Window Replacement Frisco TX | Premium Installation Services",
-  description: "Expert window replacement in Frisco, Texas. Master-planned communities, luxury homes, premium windows. Top service. Call 972-734-3158.",
-  keywords: "window replacement Frisco TX, Frisco windows, luxury windows Frisco",
+  title: "Window Replacement Frisco TX | Stonebriar, Starwood & Phillips Creek",
+  description: "Window replacement in Frisco, TX. Specialists serving Stonebriar, Starwood, Phillips Creek Ranch, and Frisco&apos;s premium master-planned communities. Call 972-734-3158.",
+  keywords: "window replacement Frisco TX, Stonebriar windows, Starwood windows, Phillips Creek Ranch windows",
 };
 
 export default function FriscoWindowReplacement() {
   return (
     <main>
       <Header />
-      
+
       <section className="relative min-h-[50vh] flex items-center justify-center bg-navy-900">
-        <div 
+        <div
           className="absolute inset-0 bg-cover bg-center opacity-20"
           style={{ backgroundImage: "url('/locations/window-replacement-frisco-tx-2.webp')" }}
         />
@@ -24,7 +25,7 @@ export default function FriscoWindowReplacement() {
             Window Replacement in Frisco, TX
           </h1>
           <p className="text-xl text-cream-200 mb-8 max-w-2xl mx-auto">
-            Premium window solutions for Frisco&apos;s luxury master-planned communities.
+            Window replacement for Frisco&apos;s premium master-planned communities and custom-home enclaves.
           </p>
           <a href="tel:972-734-3158" className="btn-primary">
             Call 972-734-3158
@@ -37,20 +38,16 @@ export default function FriscoWindowReplacement() {
           <div className="grid lg:grid-cols-2 gap-12 mb-16">
             <div>
               <h2 className="font-serif text-3xl font-semibold text-navy-900 mb-6">
-                Frisco&apos;s Window Replacement Experts
+                Frisco&apos;s Premium Window Specialists
               </h2>
               <p className="text-navy-700 leading-relaxed mb-6">
-                Frisco represents the pinnacle of North Texas master-planned community development. From Stonebriar to 
-                Starwood, Phillips Creek Ranch to The Gates of Prosper, Frisco neighborhoods set standards for quality 
-                that extend to every home improvement. Window replacement in Frisco requires understanding these elevated 
-                expectations—premium products, meticulous installation, and service that respects your time and property.
+                Frisco set the template for North Texas master-planned community development. Our crews work in Stonebriar, Starwood, Phillips Creek Ranch, The Trails, Newman Village, Hollyhock, Lone Star Ranch, and the custom-home enclaves north of Main Street. The dominant housing era is the 1990s through the 2010s, which means original builder windows are now anywhere from ten to thirty years old. Many homes are entering the failed-IGU window where seal failure becomes apparent on a meaningful share of the units, especially on west and south elevations that took the brunt of the sun.
               </p>
               <p className="text-navy-700 leading-relaxed mb-6">
-                We serve Frisco&apos;s discerning homeowners with brands like Andersen and Pella that match community standards. 
-                Whether you&apos;re in an established neighborhood or new luxury development, our installations deliver the 
-                performance and aesthetics that protect Frisco&apos;s exceptional property values. From custom window 
-                configurations to energy-efficient glass packages, we bring expertise worthy of Frisco&apos;s premium real 
-                estate market.
+                Frisco homeowners typically expect mid-tier and premium-tier replacement products that match the home&apos;s original architecture: Pella Lifestyle and Reserve, Andersen 400 and A-Series, Marvin Elevate and Signature, JELD-WEN Siteline. Each is paired with the right Low-E glass package for the home&apos;s exposure. We handle HOA architectural-committee submittals up front so the install schedule isn&apos;t held up by paperwork from Stonebriar, Starwood, or Phillips Creek Ranch boards.
+              </p>
+              <p className="text-navy-700 leading-relaxed">
+                Frisco is squarely in the spring storm corridor, and laminated and impact-rated glass packages are an increasingly common request after recent hail events. We help homeowners weigh upgraded glass against typical Collin County deductibles for a long-term decision that holds up.
               </p>
             </div>
             <div className="bg-navy-900 p-8 rounded-sm">
@@ -58,17 +55,35 @@ export default function FriscoWindowReplacement() {
               <ul className="space-y-4 text-cream-200">
                 <li className="flex items-start">
                   <span className="text-gold-500 mr-3 mt-1">•</span>
-                  <span><strong className="text-cream-100">Luxury Standards:</strong> Premium products and service</span>
+                  <span><strong className="text-cream-100">Premium-Tier Products:</strong> Pella Reserve, Andersen A-Series, Marvin Signature on demand</span>
                 </li>
                 <li className="flex items-start">
                   <span className="text-gold-500 mr-3 mt-1">•</span>
-                  <span><strong className="text-cream-100">HOA Compliance:</strong> Meeting community standards</span>
+                  <span><strong className="text-cream-100">HOA Submittals Handled:</strong> Stonebriar, Starwood, Phillips Creek Ranch architectural-committee paperwork done in advance</span>
                 </li>
                 <li className="flex items-start">
                   <span className="text-gold-500 mr-3 mt-1">•</span>
-                  <span><strong className="text-cream-100">Property Value:</strong> Protecting premium investments</span>
+                  <span><strong className="text-cream-100">Resale Value Protection:</strong> Quality installs that show up on inspection and listing photos</span>
+                </li>
+                <li className="flex items-start">
+                  <span className="text-gold-500 mr-3 mt-1">•</span>
+                  <span><strong className="text-cream-100">Storm-Ready Glass:</strong> Laminated and impact-rated options for Collin County hail season</span>
                 </li>
               </ul>
+            </div>
+          </div>
+
+          <div className="bg-white p-10 rounded-sm mb-16">
+            <h2 className="font-serif text-3xl font-semibold text-navy-900 mb-6 text-center">
+              The Frisco Replacement Conversation
+            </h2>
+            <div className="grid md:grid-cols-2 gap-8 text-navy-700 text-sm leading-relaxed">
+              <p>
+                Frisco homeowners almost always ask about appearance from the curb. The original architectural intent of these homes was set by master builders, and homeowners want to maintain or improve that look. We bring full datasheets, frame samples, and grid-pattern overlays to every estimate so you can see how a replacement product will read from the street.
+              </p>
+              <p>
+                The other recurring conversation is about specialty shapes. Frisco homes routinely feature foyer Palladians, two-story arched units, and mulled assemblies that need careful re-creation. We document each unit with photos and rough-opening measurements, then verify the factory&apos;s shop drawings before fabrication starts.
+              </p>
             </div>
           </div>
 
@@ -77,7 +92,7 @@ export default function FriscoWindowReplacement() {
               Premium Service for Frisco Homes
             </h2>
             <p className="text-cream-200 max-w-3xl mx-auto mb-8">
-              Experience window replacement that meets Frisco&apos;s high standards. Schedule your consultation today.
+              Free in-person estimates, written quotes that include all flashing and disposal, and a labor warranty backing the manufacturer warranty. Call us, and we&apos;ll be on your driveway within days.
             </p>
             <a href="tel:972-734-3158" className="btn-primary">
               Call 972-734-3158
@@ -91,4 +106,3 @@ export default function FriscoWindowReplacement() {
     </main>
   );
 }
-

@@ -55,21 +55,13 @@ export default function FrenchDoorPage() {
                 Classic Beauty That Never Goes Out of Style
               </h2>
               <p className="text-navy-700 leading-relaxed mb-6">
-                French doors have graced elegant homes for centuries, and their timeless appeal shows no 
-                signs of fading. These classic double doors feature glass panels that allow natural light 
-                to flow between spaces while creating a grand, welcoming entrance to patios, gardens, 
-                or between interior rooms.
+                French doors give a Garland home an unmistakable architectural moment. The double-leaf design with full-lite glass panels works in nearly every architectural context we see in this market, from a 1960s ranch in Eastern Hills opening to a back patio, to a custom-built two-story in Firewheel where the great room steps down to a covered loggia. We install them on patios, between formal living rooms and back yards, between primary suites and balconies, and in interior applications between studies, dining rooms, and great rooms where light flow and architectural transition matter.
               </p>
               <p className="text-navy-700 leading-relaxed mb-6">
-                Modern French doors from premium manufacturers combine traditional aesthetics with 
-                contemporary performance. Advanced glass technologies block UV rays and reduce heat 
-                transfer, while multi-point locking systems provide the security Garland homeowners 
-                expect from their exterior doors.
+                Modern French doors from Andersen, Pella, JELD-WEN, and Marvin combine the look of the classic with serious modern performance. Multi-point compression hardware locks the doors at three or more points along the frame, completely changing the feel of operation versus the floppy single-deadbolt French doors many older Garland homes still have. Low-E coatings cut summer heat gain on west-facing patios, and laminated glass options provide both security and acoustic performance for homeowners on busier streets.
               </p>
               <p className="text-navy-700 leading-relaxed">
-                French doors are available in a variety of configurations: both doors active, one active 
-                with one fixed, inswing or outswing, and with various muntin patterns to match your 
-                home&apos;s architectural style.
+                Configuration options include both doors active for full-width opening, one active with one fixed for daily use with occasional grand opening, inswing or outswing depending on porch and patio geometry, and a wide range of muntin patterns including six-lite, ten-lite, and full-lite. We help match grid pattern and frame proportion to the rest of the home.
               </p>
             </div>
             <div className="bg-navy-900 p-8 rounded-sm">
@@ -100,6 +92,35 @@ export default function FrenchDoorPage() {
                   <span><strong className="text-cream-100">Customizable:</strong> Various glass and muntin options available</span>
                 </li>
               </ul>
+            </div>
+          </div>
+
+          {/* Use Cases */}
+          <div className="bg-white p-10 rounded-sm mb-16">
+            <h2 className="font-serif text-3xl font-semibold text-navy-900 mb-6 text-center">
+              Where French Doors Work Best in Garland Homes
+            </h2>
+            <div className="grid md:grid-cols-2 gap-8 text-navy-700 text-sm leading-relaxed">
+              <div>
+                <h3 className="font-semibold text-navy-900 mb-3">Living Room or Den to Patio</h3>
+                <p className="mb-4">
+                  The most common French-door application in Garland is converting a sliding glass door from the original construction to a hinged French-door pair. The grid pattern reads more architecturally than a slider, the operation feels solid, and proper compression weatherstripping keeps conditioned air inside even during the worst summer afternoons.
+                </p>
+                <h3 className="font-semibold text-navy-900 mb-3">Primary Suite to Backyard</h3>
+                <p>
+                  In larger Garland homes, particularly newer Firewheel and Naaman Forest builds, primary suites often open to a private garden or pool deck. A pair of French doors with laminated glass adds privacy, security, and quiet to that transition.
+                </p>
+              </div>
+              <div>
+                <h3 className="font-semibold text-navy-900 mb-3">Interior Study or Office</h3>
+                <p className="mb-4">
+                  Interior French doors are an increasingly common request as more Garland homeowners create dedicated home offices. Glass panels keep the room visually connected to the rest of the home while providing acoustic separation when the door is closed for calls.
+                </p>
+                <h3 className="font-semibold text-navy-900 mb-3">Dining Room to Sunroom</h3>
+                <p>
+                  For Garland homes with attached sunrooms or screened porches, French doors create a beautiful transition that can be opened wide for entertaining or closed to maintain conditioned space inside the main house.
+                </p>
+              </div>
             </div>
           </div>
 
