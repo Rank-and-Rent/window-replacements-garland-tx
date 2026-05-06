@@ -5,7 +5,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Special Shape Window Replacement Garland TX | Custom Geometric Windows",
-  description: "Professional special shape window replacement in Garland, TX. Arched, circular, and geometric designs. Custom shapes for unique architecture. Call 972-734-3158.",
+  description: "Custom-shape windows for Heritage Crossing historic facades, Bradfield Estates transoms, and Firewheel custom builds. Arched, half-round, octagon, eyebrow. Field-templated to existing openings.",
   keywords: "special shape windows Garland TX, arched windows, circular windows, custom windows Garland",
 };
 

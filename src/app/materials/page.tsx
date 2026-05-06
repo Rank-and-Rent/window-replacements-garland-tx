@@ -7,7 +7,7 @@ import { servicesData } from "@/data";
 
 export const metadata: Metadata = {
   title: "Window Materials Garland TX | Vinyl, Aluminum, Fiberglass, Wood Windows",
-  description: "Choose the perfect window material for your Garland home. Vinyl, aluminum, fiberglass, Fibrex, wood-clad, and wood windows. Expert guidance. Free estimates. Call 972-734-3158.",
+  description: "Window-frame material guide for Garland: which frames hold up to Lake Ray Hubbard hard water, the I-635 corridor noise, the Hwy 78 hail line, and Firewheel HOA color standards.",
   keywords: "window materials Garland TX, vinyl windows, aluminum windows, fiberglass windows, wood windows, Fibrex windows",
   alternates: {
     canonical: 'https://windowreplacementgarlandtx.com/materials',

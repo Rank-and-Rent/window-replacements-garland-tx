@@ -5,7 +5,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Wood Clad Window Replacement Garland TX | Authentic Wood with Modern Protection",
-  description: "Professional wood clad window replacement in Garland, TX. Authentic wood interiors with weather-resistant exterior protection. Traditional beauty meets modern durability. Call 972-734-3158.",
+  description: "Wood-clad windows for Lake Ray Hubbard custom builds and Naaman Forest premium homes. True wood interior, factory-finished aluminum or fiberglass exterior shrugs off Garland UV and hail.",
   keywords: "wood clad windows Garland TX, clad windows, wood windows with aluminum exterior, traditional wood windows",
 };
 

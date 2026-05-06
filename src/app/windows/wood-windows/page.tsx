@@ -8,7 +8,7 @@ import ContactSection from '@/components/contact-section'
 
 export const metadata: Metadata = {
   title: 'Wood Windows Replacement Garland TX | Authentic Natural Beauty',
-  description: 'Premium solid wood replacement windows in Garland, TX. Timeless natural beauty, superior craftsmanship, and authentic character. Everything priced including installation.',
+  description: 'Solid-wood replacement windows for Heritage Crossing historic homes and downtown Garland 1920s-40s bungalows. Period-correct profiles, true mortise-and-tenon, custom stains. Free in-home estimate.',
   keywords: 'wood windows Garland TX, solid wood windows, traditional wood windows, authentic wood windows, custom wood windows',
 }
 
@@ -18,7 +18,7 @@ export default function WoodWindowsPage() {
     subtitle: 'Timeless Beauty and Authentic Craftsmanship in Solid Wood',
     heroImage: '/window-types/wood-garland-tx.jpg',
 
-    intro: "Garland homeowners who appreciate authentic traditional craftsmanship and timeless natural beauty choose solid wood windows. Nothing matches the warmth, character, and architectural authenticity that genuine wood provides. For historic Garland homes and discerning homeowners who prioritize traditional quality, solid wood windows offer unparalleled beauty and lasting value.",
+    intro: "Solid wood is the right material for a specific slice of Garland: the pre-1950 housing stock around Heritage Crossing and the original downtown grid, the bungalows along Walnut Street and Buckingham Road that still have their original wavy-glass single panes, and the Bradfield Estates and Club Hill traditionals where buyers will pay for an authentic restoration. Vinyl and Fibrex read wrong on those facades up close, and many of the historic-overlay parcels around Garland&apos;s downtown require true wood for any visible elevation. We coordinate solid-wood orders with Andersen E-Series, Pella Reserve, and Marvin Signature lines—true mortise-and-tenon joinery, period-correct ogee profiles, and custom-stained interiors matched to existing trim. Owners accept the trade-off: an exterior repaint or reseal cycle every three to five years in our UV and humidity, in exchange for the only window that lets the house be what it is.",
 
     sections: [
       {

@@ -5,7 +5,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Casement Window Replacement Garland TX | Maximum Ventilation",
-  description: "Professional casement window replacement in Garland, TX. Crank-out design for maximum ventilation and energy efficiency. Andersen, Pella, JELD-WEN. Call 972-734-3158.",
+  description: "Casement windows for Heritage Crossing historic and Naaman Forest established homes. Multi-point lock seals against I-635 corridor noise, crank-out airflow on mild Lake Ray Hubbard mornings.",
   keywords: "casement windows Garland TX, crank windows, energy efficient windows, window replacement Garland",
 };
 

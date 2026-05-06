@@ -8,7 +8,7 @@ import ContactSection from '@/components/contact-section'
 
 export const metadata: Metadata = {
   title: 'Aluminum Windows Replacement Garland TX | Durable, Modern Design',
-  description: 'High-quality aluminum replacement windows in Garland, TX. Durable, sleek, and energy-efficient. Andersen, Pella & JELD-WEN aluminum options. Everything priced including installation. Call 817-592-8870.',
+  description: 'Thermally broken aluminum windows for Firewheel master-planned and Naaman Forest contemporary builds. Narrow sightlines, hail-resistant frames, ENERGY STAR options. Garland install team, free measurement.',
   keywords: 'aluminum windows Garland TX, aluminum replacement windows, durable windows, modern aluminum windows, Andersen aluminum windows, Pella aluminum windows, JELD-WEN aluminum windows',
 }
 
@@ -18,7 +18,7 @@ export default function AluminumWindowsPage() {
     subtitle: 'Sleek, Durable Performance with Modern Thermal Efficiency',
     heroImage: '/window-types/aluminum-garland-tx.jpg',
 
-    intro: "Garland&apos;s diverse cultural landscape and growing suburban environment make modern aluminum windows an ideal choice for homeowners seeking sophisticated durability. As a culturally rich suburb with a mix of traditional and contemporary architecture, Garland attracts families who appreciate aluminum windows' combination of sleek contemporary styling, exceptional strength, and thermal break efficiency. Whether in established neighborhoods near downtown or newer developments, aluminum windows provide the modern aesthetic and lasting performance that Garland homeowners value. With the area&apos;s blend of cultural diversity and architectural variety, aluminum windows offer versatile design that enhances Garland&apos;s unique character.",
+    intro: "Aluminum has a specific job in the Garland market: it is the right answer for the contemporary infills going up around Firewheel Town Center, the modernist remodels happening on the older Camelot and Club Hill lots, and any home where the floor plan calls for oversized fixed glass and tight, minimal sightlines. The reason is structural. Aluminum&apos;s tensile strength lets a 60-inch picture window hold its shape under the spring hail loads that hammer the I-30 and Hwy 78 corridors, where vinyl would deflect and wood would need a much heavier mullion. The thermal-break technology in modern frames closes the historic energy gap, putting the U-factor in the same band as good vinyl. For Heritage Crossing storefront-style homes, Naaman Forest custom builds, and any owner specifying corner-mulled walls of glass facing Lake Ray Hubbard, thermally broken aluminum is the only frame that delivers the look without compromise.",
 
     sections: [
       {
@@ -26,12 +26,12 @@ export default function AluminumWindowsPage() {
         content: "Garland&apos;s North Texas climate with hot summers and cool winters benefits greatly from aluminum windows' advanced thermal break technology. A thermal break is a non-conductive material inserted between aluminum sections, creating an insulating barrier that dramatically improves energy performance. This prevents heat conduction through the metal, achieving U-factors comparable to vinyl windows while maintaining aluminum&apos;s sleek appearance. In Garland&apos;s variable climate, thermally broken aluminum windows reduce heating and cooling costs by 25-35%, providing measurable savings for diverse families. Many models qualify for ENERGY STAR certification, making them an economical choice for Garland&apos;s cost-conscious homeowners.",
       },
       {
-        heading: 'Cultural Community Durability and Strength',
-        content: "Aluminum&apos;s fundamental properties make it exceptionally well-suited for Garland&apos;s diverse community environment. The material never rusts, rots, or warps, maintaining structural integrity indefinitely. Aluminum windows are virtually indestructible—they resist impact damage from community activities, sports, or severe weather far better than alternatives. This makes them ideal for Garland homes serving active community lifestyles. The frames are extruded to precise tolerances, ensuring smooth operation and perfect alignment. Aluminum&apos;s strength enables larger window units and thinner sightlines that maximize views while maintaining structural stability. With proper maintenance, quality aluminum windows provide 40+ years of service in Garland&apos;s vibrant community.",
+        heading: 'Hail-Corridor Strength and Spring-Storm Resilience',
+        content: "Garland sits in the heart of the North Texas hail corridor, and the spring line of severe weather that rolls through Rowlett and Sachse before crossing Hwy 78 routinely drops 1-2 inch hail on Camelot, Naaman Forest, and Spring Park rooftops. Aluminum frames absorb that impact load without cracking or splitting at the corners, where vinyl can split and wood can splinter. The material does not warp under the post-Uri freeze-thaw cycles either, so meeting rails stay aligned and weatherstripping keeps full contact through the seasons. Combined with impact-rated laminated glass, an aluminum frame is what we install when a homeowner has already lost windows to hail and does not want to file another claim.",
       },
       {
-        heading: 'Contemporary Aesthetics for Diverse Garland',
-        content: "Aluminum windows excel at delivering the clean, minimalist aesthetic that complements Garland&apos;s diverse architectural landscape. The material&apos;s ability to be extruded into thin, precise profiles creates narrow sightlines that maximize glass area with minimal framing. Aluminum accepts a wide range of exterior finishes, from natural silver tones to custom powder-coated colors that match Garland&apos;s varied architectural preferences. Unlike wood windows that can swell or shrink with humidity, aluminum maintains perfectly straight lines year-round. For Garland homeowners seeking sophisticated, low-maintenance windows that reflect the city&apos;s cultural diversity and growth, aluminum provides the perfect balance of form and function.",
+        heading: 'Narrow Sightlines for Firewheel and Modern Garland Builds',
+        content: "The newer Firewheel master-planned homes, the contemporary remodels in Bradfield Estates, and the modernist builds along the Lake Ray Hubbard waterfront all share a design vocabulary built around expansive glass and minimal frame. Aluminum is the only frame material that can be extruded thin enough to deliver those proportions while still spanning the openings. Powder-coated finishes in matte black, dark bronze, and architectural anthracite hold up against UV without fade, and the sightlines stay crisp where vinyl would balloon. For owners doing whole-home contemporary updates west of the Firewheel Town Center, aluminum is the frame that lets the architecture read correctly.",
       },
       {
         heading: 'Low Maintenance with Cultural Flexibility',
@@ -89,8 +89,8 @@ export default function AluminumWindowsPage() {
         answer: 'Quality aluminum windows last 40+ years with proper maintenance. The frames never degrade like wood or vinyl, and with periodic repainting, they maintain their appearance and performance indefinitely.',
       },
       {
-        question: 'Are aluminum windows suitable for Garland\'s diverse community?',
-        answer: 'Absolutely. Aluminum windows are perfect for Garland\'s diverse population with their durability, versatility, and low-maintenance design that accommodates different lifestyles and cultural preferences.',
+        question: 'Are aluminum windows good for Firewheel and Naaman Forest contemporary homes?',
+        answer: 'Yes. Aluminum is the right frame for the modern Firewheel infills, the Bradfield Estates contemporary remodels, and any Lake Ray Hubbard build that needs oversized fixed glass with narrow sightlines. Thermally broken frames keep the energy performance competitive with vinyl.',
       },
       {
         question: 'Can aluminum windows be recycled?',

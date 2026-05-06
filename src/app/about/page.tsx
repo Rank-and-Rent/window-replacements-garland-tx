@@ -6,7 +6,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "About Us | Window Replacement Service of Garland, TX",
   description:
-    "Professional window and door installation services in Garland, Texas. Andersen, Pella, JELD-WEN, Marvin windows.",
+    "Garland-based window and door installation crew. Local team that knows Heritage Crossing, Firewheel, Naaman Forest, and Lake Ray Hubbard housing stock. Andersen, Pella, JELD-WEN, Marvin.",
 };
 
 export default function AboutPage() {

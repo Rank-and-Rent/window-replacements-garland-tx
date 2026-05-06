@@ -6,7 +6,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Window Replacement Wylie TX | Expert Window Installation Services",
-  description: "Professional window replacement in Wylie, Texas. Serving all Wylie neighborhoods with premium windows. Energy-efficient solutions for growing families. Call 972-734-3158.",
+  description: "Window replacement in Wylie, TX. Garland-based crews crossing Hwy 78 daily for Woodbridge, Inspiration, Bozman Farm, and the newer Lake Lavon-side subdivisions. Andersen, Pella, JELD-WEN.",
   keywords: "window replacement Wylie TX, Wylie windows, window installation Wylie Texas",
 };
 

@@ -5,7 +5,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Awning Window Replacement Garland TX | Rain-Proof Ventilation",
-  description: "Professional awning window replacement in Garland, TX. Top-hinged design for ventilation during rain. Perfect for bathrooms and basements. Call 972-734-3158.",
+  description: "Awning windows that vent during Garland spring rains without letting water in. Ideal for bathrooms, kitchens, and over-counter installs in Camelot and Hillside Village. Free measurement.",
   keywords: "awning windows Garland TX, rain ventilation windows, bathroom windows, window replacement Garland",
 };
 

@@ -5,7 +5,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "French Door Replacement Garland TX | Elegant Double Doors",
-  description: "Professional French door replacement in Garland, TX. Classic double doors with glass panels for elegant transitions. Andersen, Pella, JELD-WEN, Marvin. Call 972-734-3158.",
+  description: "French doors for Bradfield Estates dining rooms, Naaman Forest studies, and Lake Ray Hubbard back porches. Active-passive multipoint locks, hail-rated lites. Andersen, Pella, Marvin.",
   keywords: "French doors Garland TX, double doors, glass panel doors, door replacement Garland",
 };
 

@@ -5,7 +5,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Storm Door Replacement Garland TX | Protection & Ventilation",
-  description: "Professional storm door replacement in Garland, TX. Protective storm doors for added security and energy efficiency. Screen and glass options. Call 972-734-3158.",
+  description: "Storm doors built for the I-635 corridor noise and Garland hail corridor. Aluminum and fiberglass frames, full-screen ventilation for mild Lake Ray Hubbard mornings. Free measurement.",
   keywords: "storm doors Garland TX, screen doors, security doors, door replacement Garland",
 };
 

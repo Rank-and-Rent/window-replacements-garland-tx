@@ -8,7 +8,7 @@ import { brandsData } from "@/data";
 
 export const metadata: Metadata = {
   title: "Marvin Windows & Doors Garland TX",
-  description: "Marvin window and door replacement in Garland, TX. Premium custom craftsmanship since 1912. Signature, Elevate, and Essential collections. Call 972-734-3158.",
+  description: "Marvin Signature, Elevate, and Essential lines for Lake Ray Hubbard custom builds and Bradfield Estates premium remodels in Garland, TX. Pultruded fiberglass, true wood-clad, hail-rated glass.",
   keywords: "Marvin windows Garland TX, Marvin doors, custom windows, premium windows Garland",
   alternates: {
     canonical: 'https://windowreplacementgarlandtx.com/brands/marvin-windows-doors',

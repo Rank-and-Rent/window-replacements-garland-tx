@@ -8,7 +8,7 @@ import ContactSection from '@/components/contact-section'
 
 export const metadata: Metadata = {
   title: 'Fibrex Windows Replacement Garland TX | Andersen Premium Composite',
-  description: 'Andersen Fibrex composite replacement windows in Garland, TX. Premium performance with wood-like beauty. Energy-efficient and durable. Everything priced including installation.',
+  description: 'Andersen Fibrex composite windows for Heritage Crossing historic and Bradfield Estates traditional homes. Wood-look interior, no-paint exterior, holds up to Garland hail and post-Uri freeze cycles.',
   keywords: 'Fibrex windows Garland TX, Andersen Fibrex windows, composite windows, premium replacement windows, energy efficient Fibrex windows, durable composite windows',
 }
 
@@ -18,7 +18,7 @@ export default function FibrexWindowsPage() {
     subtitle: 'Andersen\'s Premium Composite Technology for Ultimate Performance',
     heroImage: '/window-types/fibrex-garland-tx.jpg',
 
-    intro: "Garland homeowners seeking the ultimate in window performance discover that Andersen&apos;s Fibrex composite material perfectly balances traditional wood aesthetics with modern durability. As a major cultural hub with multicultural community, Garland attracts homeowners who appreciate Fibrex windows' combination of wood-like beauty, exceptional strength, and superior energy efficiency. Whether in cultural heritage or contemporary developments, Fibrex windows provide the premium quality and lasting performance that Garland homeowners demand. With the area&apos;s mix of traditional and modern architecture, Fibrex windows offer versatile design that enhances Garland&apos;s architectural heritage.",
+    intro: "Fibrex earns its place in Garland on the houses that fall in the gap between cheap vinyl and full custom wood. The Heritage Crossing bungalows downtown, the older traditionals through Bradfield Estates and Club Hill, and the painted-trim Naaman Forest builds all share a wood-window aesthetic that vinyl reads wrong against. Andersen&apos;s composite, made of reclaimed wood fiber bonded in a polymer matrix, holds the precise sightlines and stained-wood interior surface those facades need, but skips the annual repaint cycle that bare wood demands in our climate. The thermal mass also performs noticeably better than vinyl through Garland&apos;s wide annual swing—triple-digit summer heat off the I-635 asphalt, then the post-Uri freeze events that arrive every few years. For owners replacing 1970s aluminum singles in Camelot or Eastern Hills who want the upgraded look without going to true wood-clad pricing, Fibrex is the answer.",
 
     sections: [
       {

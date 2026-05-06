@@ -6,7 +6,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Double-Hung Window Replacement Garland TX | Classic Vertical Sliding",
-  description: "Professional double-hung window replacement in Garland, TX. Classic vertical-sliding design with easy cleaning. Andersen, Pella, JELD-WEN, Marvin. Call 972-734-3158.",
+  description: "Double-hung windows for Bradfield Estates traditionals and Heritage Crossing historic homes. Tilt-in sashes clean from inside, ideal for two-story Naaman Forest builds. Andersen, Pella, Marvin.",
   keywords: "double hung windows Garland TX, vertical sliding windows, replacement windows, window installation Garland",
 };
 

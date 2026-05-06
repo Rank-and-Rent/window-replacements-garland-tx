@@ -5,7 +5,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Custom Door Replacement Garland TX | Unique Door Solutions",
-  description: "Professional custom door replacement in Garland, TX. Fully customized doors designed to your specifications. Unique sizes, styles, and features. Call 972-734-3158.",
+  description: "Custom doors for non-standard Heritage Crossing openings, Bradfield Estates remodels, and Lake Ray Hubbard estate builds. Field-templated, factory-built to spec. Andersen, Marvin, Pella.",
   keywords: "custom doors Garland TX, unique doors, oversized doors, specialty doors, door replacement Garland",
 };
 

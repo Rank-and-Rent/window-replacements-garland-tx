@@ -6,7 +6,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Single-Hung Window Replacement Garland TX | Affordable Quality",
-  description: "Professional single-hung window replacement in Garland, TX. Traditional design with fixed upper sash. Budget-friendly option. Andersen, Pella, JELD-WEN. Call 972-734-3158.",
+  description: "Single-hung windows for whole-home replacements across Camelot, Spring Park, and Heatherwood. Fixed upper sash keeps the price down on big projects. Andersen, Pella, JELD-WEN. Free measurement.",
   keywords: "single hung windows Garland TX, affordable windows, replacement windows, window installation Garland",
 };
 

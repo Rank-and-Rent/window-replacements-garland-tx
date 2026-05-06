@@ -5,7 +5,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Sliding Window Replacement Garland TX | Wide Opening Views",
-  description: "Professional sliding window replacement in Garland, TX. Horizontal sliding design for wide openings. Perfect for modern homes. Andersen, Pella, JELD-WEN. Call 972-734-3158.",
+  description: "Sliding windows for Firewheel master-planned and Spring Park ranch openings. Wide horizontal spans for Lake Ray Hubbard views, no swing clearance needed against fence lines or AC units.",
   keywords: "sliding windows Garland TX, horizontal windows, wide windows, window replacement Garland",
 };
 

@@ -8,7 +8,7 @@ import { brandsData } from "@/data";
 
 export const metadata: Metadata = {
   title: "JELD-WEN Windows & Doors Garland TX",
-  description: "JELD-WEN window and door replacement in Garland, TX. Quality and value with AuraLast wood protection. Wide selection of styles and price points. Call 972-734-3158.",
+  description: "JELD-WEN Premium Vinyl, Siteline wood-clad, and AuraLast wood for whole-home Garland projects in Camelot, Spring Park, and Heatherwood. Best-fit value brand for big-count replacements.",
   keywords: "JELD-WEN windows Garland TX, JELD-WEN doors, AuraLast wood, window replacement Garland",
   alternates: {
     canonical: 'https://windowreplacementgarlandtx.com/brands/jeld-wen-windows-doors',

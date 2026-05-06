@@ -5,7 +5,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Sliding Glass Door Replacement Garland TX | Space-Saving Design",
-  description: "Professional sliding glass door replacement in Garland, TX. Space-saving operation with expansive glass panels. Andersen, Pella, JELD-WEN. Call 972-734-3158.",
+  description: "Sliding glass doors for Lake Ray Hubbard waterfront patios and Firewheel covered porches. Multi-track systems, hail-rated glass, factory finishes that match Garland HOA palettes.",
   keywords: "sliding glass doors Garland TX, slider doors, patio sliders, door replacement Garland",
 };
 

@@ -5,7 +5,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Fibrex Window Replacement Garland TX | Andersen's Premium Composite",
-  description: "Professional Fibrex window replacement in Garland, TX. Andersen's premium composite material combining wood-like beauty with advanced durability. Call 972-734-3158.",
+  description: "Andersen Fibrex composite for Heritage Crossing bungalows and Bradfield Estates traditionals. Wood-look interior without the repaint cycle, holds up to Garland UV and post-Uri freeze swings.",
   keywords: "Fibrex windows Garland TX, Andersen Fibrex windows, composite windows, wood-like windows",
 };
 

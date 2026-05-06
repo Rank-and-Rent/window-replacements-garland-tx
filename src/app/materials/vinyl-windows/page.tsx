@@ -5,7 +5,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Vinyl Window Replacement Garland TX | Low Maintenance, Energy Efficient",
-  description: "Professional vinyl window replacement in Garland, TX. Low-maintenance, energy-efficient vinyl windows with superior durability. Andersen, Pella, JELD-WEN. Call 972-734-3158.",
+  description: "Vinyl windows that resist Lake Ray Hubbard hard-water spotting and meet Firewheel HOA color standards. Multi-chamber frames, fusion-welded corners, factory-finished exteriors.",
   keywords: "vinyl windows Garland TX, vinyl replacement windows, low maintenance windows, energy efficient vinyl windows",
 };
 

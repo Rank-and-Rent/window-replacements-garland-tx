@@ -9,7 +9,7 @@ export const metadata: Metadata = {
     template: "%s | Window Replacement Service of Garland",
   },
   description:
-    "Professional window replacement services in Garland, Texas. Expert installation of Andersen, Pella, and Jeld-Wen windows. Double-hung, casement, bay windows & more. Call 972-734-3158 for a free estimate.",
+    "Garland-based window replacement crews working Heritage Crossing historic, Firewheel master-planned, Naaman Forest, Bradfield Estates, Camelot, Spring Park, and Lake Ray Hubbard lakefront homes. Andersen, Pella, JELD-WEN, Marvin.",
   keywords: [
     'window replacement Garland TX',
     'window installation Garland',
@@ -40,7 +40,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Best Window Replacement in Garland, TX",
     description:
-      "Transform your home with premium window replacements from Andersen, Pella, and Jeld-Wen. Serving Garland, TX and surrounding areas.",
+      "Window replacement built for Garland: Lake Ray Hubbard hard water, Firewheel HOA standards, Hwy 78 hail corridor, post-Uri freeze cycles. Andersen, Pella, JELD-WEN, Marvin.",
     url: 'https://windowreplacementgarlandtx.com',
     siteName: 'Window Replacement Service of Garland',
     locale: "en_US",
@@ -57,7 +57,7 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
     title: 'Window Replacement Service of Garland',
-    description: 'Premium window replacement in Garland, TX. Andersen, Pella & Jeld-Wen windows.',
+    description: 'Garland window replacement: Lake Ray Hubbard, Firewheel, Heritage Crossing, Naaman Forest. Andersen, Pella, JELD-WEN, Marvin.',
     images: ['/og-image.jpg'],
   },
   alternates: {

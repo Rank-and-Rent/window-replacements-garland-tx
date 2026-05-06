@@ -6,7 +6,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Window Replacement Plano TX | Expert Installation Services",
-  description: "Professional window replacement in Plano, Texas. Serving West Plano, East Plano, Legacy, and all Plano neighborhoods. Premium Andersen, Pella & Jeld-Wen windows. Call 972-734-3158.",
+  description: "Window replacement in Plano, TX. Crews running up Hwy 75 from Garland for West Plano, Legacy, and East Plano jobs. Andersen, Pella, JELD-WEN, Marvin replacements with hail-rated glass.",
   keywords: "window replacement Plano TX, Plano windows, West Plano windows, Legacy window installation",
 };
 

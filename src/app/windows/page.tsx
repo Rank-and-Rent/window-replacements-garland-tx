@@ -7,7 +7,7 @@ import { servicesData } from "@/data";
 
 export const metadata: Metadata = {
   title: "Window Replacement Services Garland TX | All Styles & Materials",
-  description: "Complete window replacement in Garland, TX. All window styles and materials from Andersen, Pella, JELD-WEN, Marvin. Culturally diverse solutions. Free estimates. Call 972-734-3158.",
+  description: "Window replacement across Garland, TX. Styles and materials matched to Firewheel HOA standards, Heritage Crossing historic homes, and Lake Ray Hubbard lakefront. Andersen, Pella, JELD-WEN, Marvin.",
   keywords: "window replacement Garland TX, window styles, window materials, vinyl windows, aluminum windows",
 };
 

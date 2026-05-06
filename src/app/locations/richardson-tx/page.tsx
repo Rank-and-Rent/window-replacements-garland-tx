@@ -6,7 +6,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Window Replacement Richardson TX | Professional Installation",
-  description: "Expert window replacement in Richardson, Texas. Serving Cityline, Canyon Creek, Palisades, and all Richardson neighborhoods. Premium Andersen, Pella & Jeld-Wen windows. Call 972-734-3158.",
+  description: "Window replacement in Richardson, TX. Garland crews crossing 635 for Cityline, Canyon Creek, Palisades, and the older Richardson Heights ranch homes. Andersen, Pella, JELD-WEN.",
   keywords: "window replacement Richardson TX, Richardson windows, Canyon Creek windows, Cityline window installation",
 };
 

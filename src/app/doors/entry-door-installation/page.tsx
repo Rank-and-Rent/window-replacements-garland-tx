@@ -5,7 +5,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Entry Door Replacement Garland TX | Front Door Installation",
-  description: "Professional entry door replacement in Garland, TX. Fiberglass, steel, and wood entry doors. Enhanced security and curb appeal. Andersen, Pella, JELD-WEN, Marvin. Call 972-734-3158.",
+  description: "Entry doors for Heritage Crossing historic and Bradfield Estates traditional homes. Fiberglass, steel, and solid wood with multipoint locks. Hail-rated glass options. Free in-home estimate.",
   keywords: "entry doors Garland TX, front door replacement, door installation, fiberglass doors, steel doors",
 };
 

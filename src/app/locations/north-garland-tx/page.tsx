@@ -6,7 +6,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Window Replacement North Garland TX | Firewheel & Camelot Specialists",
-  description: "Professional window replacement throughout North Garland, TX. Serving Firewheel, Camelot, Naaman Forest, and Heatherwood. Andersen, Pella & JELD-WEN. Call 972-734-3158.",
+  description: "Window replacement in North Garland, TX. Specialists in the Firewheel master-planned community, Naaman Forest, Camelot, and Heatherwood. HOA-approved exterior colors, hail-rated glass options.",
   keywords: "window replacement North Garland TX, Firewheel windows, Camelot windows, Naaman Forest windows",
 };
 

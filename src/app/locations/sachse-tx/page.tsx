@@ -6,7 +6,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Window Replacement Sachse TX | Professional Installation Near Garland",
-  description: "Expert window replacement in Sachse, Texas. Family-friendly neighborhoods, quality service, premium windows. Energy-efficient solutions. Call 972-734-3158.",
+  description: "Window replacement in Sachse, TX. Garland-based crews running up Hwy 78 for Woodbridge, Hidden Creek, and the master-planned subdivisions on the Garland-Sachse line. Andersen, Pella, JELD-WEN.",
   keywords: "window replacement Sachse TX, Sachse windows, window installation Sachse",
 };
 

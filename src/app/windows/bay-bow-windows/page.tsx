@@ -5,7 +5,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Bay & Bow Window Replacement Garland TX | Elegant Projecting Windows",
-  description: "Professional bay and bow window replacement in Garland, TX. Multi-panel projecting windows that add space and character. Andersen, Pella, JELD-WEN. Call 972-734-3158.",
+  description: "Bay and bow windows for Bradfield Estates traditionals and Club Hill living rooms. Adds a window seat to 1970s tract homes in Camelot and Naaman Forest. Roof, header, and seat included.",
   keywords: "bay windows Garland TX, bow windows, projecting windows, window replacement Garland",
 };
 

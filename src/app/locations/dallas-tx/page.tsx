@@ -7,7 +7,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Window Replacement Dallas TX | Expert Installation Near You",
-  description: "Professional window replacement services in Dallas, Texas. Serving downtown, Highland Park, University Park, Oak Cliff, and all Dallas neighborhoods. Premium Andersen, Pella & Jeld-Wen windows. Call 972-734-3158.",
+  description: "Window replacement in Dallas, TX. Garland-based crews crossing I-635 daily for Highland Park, University Park, Lakewood, and Oak Cliff jobs. Andersen, Pella, JELD-WEN, Marvin.",
   keywords: "window replacement Dallas TX, Dallas window installation, Dallas windows, Highland Park windows, University Park windows",
 };
 

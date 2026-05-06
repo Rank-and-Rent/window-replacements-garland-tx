@@ -8,7 +8,7 @@ import ContactSection from '@/components/contact-section'
 
 export const metadata: Metadata = {
   title: 'Fiberglass Windows Replacement Garland TX | Ultimate Strength & Insulation',
-  description: 'Premium fiberglass replacement windows in Garland, TX. Maximum strength, superior insulation, and authentic wood appearance. Everything priced including installation.',
+  description: 'Fiberglass windows engineered for Garland hail corridor and post-Uri freeze swings. Pultruded frames, low expansion, hail-resistant. Lake Ray Hubbard and Firewheel homes. Free measurement.',
   keywords: 'fiberglass windows Garland TX, fiberglass replacement windows, strong windows, insulated fiberglass windows',
 }
 
@@ -18,7 +18,7 @@ export default function FiberglassWindowsPage() {
     subtitle: 'Ultimate Strength and Insulation with Authentic Wood-Like Beauty',
     heroImage: '/window-types/fiberglass-garland-tx.jpg',
 
-    intro: "Garland homeowners seeking the pinnacle of window performance choose fiberglass for its unmatched combination of structural strength, superior thermal efficiency, and authentic wood aesthetics. In a city with cultural architecture from historic bungalows to modern developments, fiberglass windows provide the ultimate durability and energy performance that discerning Garland residents demand.",
+    intro: "Fiberglass solves the two technical failure modes that show up most often on Garland window inspections. The first is hail damage: the spring storm corridor that crosses Hwy 78 and the I-30 Rockwall line drops 1-2 inch hail on Camelot, Naaman Forest, and Eastern Hills with frequency, and pultruded fiberglass frames absorb that impact load without splitting at the welded corners the way vinyl can. The second is the post-Uri freeze cycle—the February 2021 freeze taught Garland homeowners that frame materials with high thermal expansion (vinyl, in particular) shift enough during the deep dip to break sash seals. Fiberglass expands at almost the same rate as the glass it holds, so the seals stay tight through 100-plus-degree summers off the I-635 corridor and sub-20-degree freeze events. Marvin and Andersen pultruded fiberglass is what we install when an owner wants the longest-warranty, lowest-failure-rate frame Garland&apos;s climate will accept.",
 
     sections: [
       {

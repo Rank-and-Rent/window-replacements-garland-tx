@@ -5,7 +5,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Patio Door Replacement Garland TX | Indoor-Outdoor Living",
-  description: "Professional patio door replacement in Garland, TX. Sliding and hinged patio doors for seamless indoor-outdoor access. Andersen, Pella, JELD-WEN. Call 972-734-3158.",
+  description: "Patio doors for Camelot covered patios, Spring Park backyards, and Firewheel master-planned outdoor living. Sliding or hinged, factory-finished frames, screens included.",
   keywords: "patio doors Garland TX, sliding patio doors, hinged patio doors, door replacement Garland",
 };
 

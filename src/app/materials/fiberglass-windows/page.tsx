@@ -5,7 +5,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Fiberglass Window Replacement Garland TX | Ultimate Strength & Insulation",
-  description: "Professional fiberglass window replacement in Garland, TX. Ultimate strength and insulation with authentic wood-like appearance. Maximum durability and energy efficiency. Call 972-734-3158.",
+  description: "Pultruded fiberglass windows engineered for the Garland hail corridor and post-Uri freeze cycles. Lowest expansion rate of any frame, sash seals stay tight from 100-degree summers to sub-20 freezes.",
   keywords: "fiberglass windows Garland TX, fiberglass replacement windows, durable windows, energy efficient fiberglass windows",
 };
 

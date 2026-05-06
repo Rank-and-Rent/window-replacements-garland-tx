@@ -6,7 +6,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Window Replacement Rowlett TX | Lake Ray Hubbard Window Experts",
-  description: "Professional window replacement in Rowlett, Texas. Lake views, waterfront homes, and all Rowlett neighborhoods. Premium windows with moisture resistance. Call 972-734-3158.",
+  description: "Window replacement in Rowlett, TX. Specialists in Lake Ray Hubbard waterfront homes with hard-water-resistant frames and impact-rated glass for the Hwy 66 storm corridor. Andersen, Pella, Marvin.",
   keywords: "window replacement Rowlett TX, Rowlett windows, Lake Ray Hubbard windows, waterfront window installation",
 };
 

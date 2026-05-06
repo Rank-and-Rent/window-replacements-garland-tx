@@ -5,7 +5,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Picture Window Replacement Garland TX | Maximum Light & Views",
-  description: "Professional picture window replacement in Garland, TX. Large fixed windows for unobstructed views and natural light. Andersen, Pella, JELD-WEN, Marvin. Call 972-734-3158.",
+  description: "Picture windows for Lake Ray Hubbard waterfront and Firewheel greenbelt views. Fixed glass with the tightest U-factor, hail-rated laminated options for the Hwy 78 storm corridor. Marvin, Andersen.",
   keywords: "picture windows Garland TX, fixed windows, large windows, window replacement Garland",
 };
 

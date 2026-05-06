@@ -8,7 +8,7 @@ import { brandsData } from "@/data";
 
 export const metadata: Metadata = {
   title: "Andersen Windows & Doors Garland TX",
-  description: "Andersen window and door replacement in Garland, TX. Over 120 years of quality and innovation. Fibrex composite frames, Low-E glass. Call 972-734-3158.",
+  description: "Andersen 100, 200, 400, and A-Series across Garland, TX. Fibrex composite carries Heritage Crossing wood-look facades; A-Series fits Lake Ray Hubbard custom builds. Low-E argon for Texas heat.",
   keywords: "Andersen windows Garland TX, Andersen doors, Fibrex windows, window replacement Garland",
   alternates: {
     canonical: 'https://windowreplacementgarlandtx.com/brands/andersen-windows-doors',

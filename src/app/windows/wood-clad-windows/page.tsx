@@ -8,7 +8,7 @@ import ContactSection from '@/components/contact-section'
 
 export const metadata: Metadata = {
   title: 'Wood Clad Windows Replacement Garland TX | Traditional Beauty, Modern Protection',
-  description: 'Premium wood clad replacement windows in Garland, TX. Real wood interior beauty with durable exterior protection. Everything priced including installation.',
+  description: 'Wood-clad windows for Lake Ray Hubbard custom builds and Naaman Forest premium homes. Real wood interior, factory-finished aluminum exterior that resists Garland hail and lake humidity.',
   keywords: 'wood clad windows Garland TX, wood clad replacement windows, traditional windows, Andersen wood clad windows, Pella wood clad windows',
 }
 
@@ -18,7 +18,7 @@ export default function WoodCladWindowsPage() {
     subtitle: 'Authentic Wood Interior Beauty with Weather-Resistant Exterior Protection',
     heroImage: '/window-types/wood-clad-garland-tx.jpg',
 
-    intro: "Garland homeowners seeking the ultimate combination of traditional wood beauty and modern durability discover that wood clad windows provide the perfect balance. With authentic wood interiors that bring natural warmth to your home and weather-resistant exteriors that withstand Garland&apos;s challenging climate, wood clad windows represent the gold standard in window performance and aesthetics.",
+    intro: "Wood-clad is the spec we write for the higher end of Garland&apos;s housing market. The lakefront custom builds along Lake Ray Hubbard, the larger Naaman Forest and Bradfield Estates traditionals, and the executive-tier Firewheel homes that face into the master-planned greenbelts all share a problem solid wood does not solve: prevailing Texas UV, the lake-air humidity off the eastern Garland shoreline, and the spring hail loads coming up Hwy 78 will burn through an exterior repaint cycle every two to three years if the wood is exposed. Wood-clad solves it by laminating an aluminum or fiberglass shell over the structural wood. The interior reads as true wood—stained, painted, or clear-coated to match existing millwork in a Bradfield Estates study or a Lake Ray Hubbard great room—while the exterior is factory-finished, hail-tested, and warranty-backed for thirty-plus years. It is the install we recommend whenever the budget supports it on a high-design Garland home.",
 
     sections: [
       {

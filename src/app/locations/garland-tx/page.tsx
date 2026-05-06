@@ -6,7 +6,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Window Replacement Garland TX | Expert Installation Services",
-  description: "Professional window replacement throughout Garland, TX. Serving Firewheel, Camelot, North Garland, Duck Creek, and Lake Ray Hubbard neighborhoods. Andersen, Pella & JELD-WEN windows. Call 972-734-3158",
+  description: "Window replacement across Garland, TX. Local crews working Heritage Crossing historic, Firewheel master-planned, Naaman Forest, Bradfield Estates, Camelot, Spring Park, and Lake Ray Hubbard lakefront homes daily.",
   keywords: "window replacement Garland TX, Garland window installation, Garland windows, Firewheel windows, North Garland windows",
 };
 

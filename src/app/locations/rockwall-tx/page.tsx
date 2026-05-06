@@ -6,7 +6,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Window Replacement Rockwall TX | Premium Installation Services",
-  description: "Expert window replacement in Rockwall, Texas. Lakefront properties, historic downtown, and all Rockwall neighborhoods. Premium windows. Call 972-734-3158.",
+  description: "Window replacement in Rockwall, TX. Garland-based crews crossing the I-30 causeway daily for Chandlers Landing, The Shores, and historic downtown. Lake Ray Hubbard moisture-rated frames.",
   keywords: "window replacement Rockwall TX, Rockwall windows, lakefront windows, Rockwall window installation",
 };
 

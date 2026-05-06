@@ -5,7 +5,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Aluminum Window Replacement Garland TX | Durable, Modern Design",
-  description: "Professional aluminum window replacement in Garland, TX. Sleek, durable aluminum windows with modern thermal efficiency. Andersen, Pella, JELD-WEN. Call 972-734-3158.",
+  description: "Aluminum-frame windows for Firewheel contemporary infills and Lake Ray Hubbard waterfront builds. Narrow sightlines, hail-corridor strength, thermally broken for Garland summer heat.",
   keywords: "aluminum windows Garland TX, aluminum replacement windows, durable windows, modern aluminum windows",
 };
 

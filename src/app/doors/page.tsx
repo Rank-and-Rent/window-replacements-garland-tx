@@ -7,7 +7,7 @@ import { servicesData } from "@/data";
 
 export const metadata: Metadata = {
   title: "Door Installation Services Garland TX | Entry & Patio Doors",
-  description: "Professional door replacement in Garland, TX. Entry doors, patio doors, French doors, sliding glass doors. Andersen, Pella, JELD-WEN, Marvin. Free estimates. Call 972-734-3158.",
+  description: "Door replacement in Garland: entry, patio, French, sliding, and storm doors built for the I-635 corridor noise, the Hwy 78 hail line, and the lake-air humidity off Lake Ray Hubbard.",
 };
 
 export default function DoorsIndexPage() {

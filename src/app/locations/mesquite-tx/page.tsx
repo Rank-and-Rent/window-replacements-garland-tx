@@ -6,7 +6,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Window Replacement Mesquite TX | Professional Installation",
-  description: "Expert window replacement in Mesquite, Texas. Serving all Mesquite neighborhoods with premium Andersen, Pella & Jeld-Wen windows. Energy-efficient solutions. Call 972-734-3158.",
+  description: "Window replacement in Mesquite, TX. Garland-based crews running south on I-635 for Town East, Hagan Hill, and the older 1960s ranch tracts. Andersen, Pella, JELD-WEN, Marvin.",
   keywords: "window replacement Mesquite TX, Mesquite windows, window installation Mesquite Texas",
 };
 

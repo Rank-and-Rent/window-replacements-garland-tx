@@ -5,7 +5,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Wood Window Replacement Garland TX | Traditional Beauty & Superior Insulation",
-  description: "Professional wood window replacement in Garland, TX. Traditional wood windows with natural beauty and superior insulation. Timeless character and craftsmanship. Call 972-734-3158.",
+  description: "Solid-wood windows for Heritage Crossing historic homes, downtown Garland 1920s-40s bungalows, and pre-1950 traditional restorations. Period-correct profiles, true mortise-and-tenon.",
   keywords: "wood windows Garland TX, wood replacement windows, traditional wood windows, natural wood windows",
 };
 

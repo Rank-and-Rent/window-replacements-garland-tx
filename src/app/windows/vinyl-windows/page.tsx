@@ -8,7 +8,7 @@ import ContactSection from '@/components/contact-section'
 
 export const metadata: Metadata = {
   title: 'Vinyl Windows Replacement Garland TX | Low Maintenance, Energy Efficient',
-  description: 'Premium vinyl replacement windows in Garland, TX. Low-maintenance, energy-efficient, and durable. Andersen, Pella & JELD-WEN vinyl options. Everything priced including installation. Call 817-592-8870.',
+  description: 'Vinyl windows that resist Lake Ray Hubbard hard-water spotting and Firewheel HOA standards. Multi-chamber frames, Low-E argon, fusion-welded corners, 25-year warranty. Garland install crew, free estimate.',
   keywords: 'vinyl windows Garland TX, vinyl replacement windows, low maintenance windows, energy efficient vinyl windows, Andersen vinyl windows, Pella vinyl windows, JELD-WEN vinyl windows',
 }
 
@@ -18,12 +18,12 @@ export default function VinylWindowsPage() {
     subtitle: 'Low-Maintenance Excellence with Superior Energy Performance',
     heroImage: '/window-types/vinyl-garland-tx.jpg',
 
-    intro: "Garland&apos;s diverse population and mix of established neighborhoods with new developments make vinyl windows an excellent choice for homeowners seeking quality and value. As a growing suburb with rich cultural diversity, Garland attracts families and professionals who appreciate vinyl windows' combination of modern efficiency, low maintenance, and lasting durability. Whether in established neighborhoods near downtown or newer developments, vinyl windows provide the energy efficiency and beautiful aesthetics that Garland homeowners value. With the area&apos;s blend of traditional and contemporary homes, vinyl windows offer versatile styling that complements Garland&apos;s architectural diversity.",
+    intro: "Vinyl is the workhorse window in Garland because it solves three specific local problems at once. First, the hard-water mineral content from Lake Ray Hubbard and Garland Water Utilities municipal supply leaves stubborn spotting on glass and frames after irrigation overspray; the smooth, non-porous PVC surface on a quality vinyl frame wipes clean without etching, where painted aluminum and bare wood absorb the deposits. Second, the Firewheel master-planned subdivisions and the Bradfield Estates and Club Hill HOAs hold homeowners to strict exterior color and trim standards, and modern vinyl ships factory-finished in HOA-friendly bronzes, almonds, and clays that never need repainting. Third, the I-635, I-30, and Hwy 78 corridors bracket Garland with traffic noise and the spring hail corridor delivers heavy impact loads, so the multi-chamber, fusion-welded vinyl frames we install offer the STC ratings and structural rigidity that single-pane originals never could.",
 
     sections: [
       {
-        heading: 'Cultural Diversity and Community Appeal',
-        content: "Garland&apos;s diverse population represents many cultures and lifestyles, making vinyl windows' low-maintenance nature particularly appealing. Families from various backgrounds appreciate windows that maintain their beauty without demanding cultural or religious restrictions on maintenance schedules. The smooth, non-porous vinyl surface resists Garland&apos;s urban environment while staying looking new with minimal effort. This allows Garland residents to focus on community activities, cultural events, and family traditions rather than home maintenance. Vinyl windows' versatility accommodates different aesthetic preferences, from traditional designs that honor cultural heritage to modern styles that reflect contemporary tastes.",
+        heading: 'Hard-Water Spotting and Lake Ray Hubbard Lakefront Homes',
+        content: "Lake Ray Hubbard sits on the eastern edge of Garland, and the city&apos;s municipal water supply carries the calcium and magnesium content typical of North Texas surface water. For Bayside, Eastern Hills, and Lakeview Manor homeowners, that means sprinkler overspray and lake-air mist deposit a chalky film on window frames that bonds aggressively to porous painted surfaces. Quality vinyl is non-porous and chemically inert, so a vinegar-and-water rinse takes the deposits off without dulling the finish. Wood frames absorb the minerals and stain permanently; bare aluminum pits. Vinyl is the only frame material engineered to live next to a Garland sprinkler head without showing it.",
       },
       {
         heading: 'Energy Efficiency in North Texas Climate',
@@ -31,7 +31,7 @@ export default function VinylWindowsPage() {
       },
       {
         heading: 'Versatile Styling for Garland Architecture',
-        content: "Garland&apos;s architectural landscape reflects its diverse population, from traditional homes in established neighborhoods to contemporary designs in new developments. Vinyl windows adapt beautifully to all styles with versatile design options. For traditional Garland homes, vinyl offers wood-grain finishes that blend seamlessly with existing architecture. In modern developments, vinyl provides sleek contemporary profiles. The material accepts unlimited color options, allowing customization for Garland&apos;s varied architectural preferences. From the established charm of downtown Garland to the modern appeal of new subdivisions, vinyl windows provide design flexibility that complements any Garland home style.",
+        content: "Garland&apos;s housing stock spans 1950s ranches in Heritage Crossing and Spring Park, 1970s tract homes through Camelot and Eastern Hills, and the master-planned Firewheel and Naaman Forest subdivisions built since the 1990s. Vinyl carries each era convincingly. Wood-grain laminates on premium vinyl read as true wood from the curb on the older Bradfield Estates and Club Hill homes. The standard bronze, almond, sandalwood, and architectural clay finishes match Firewheel HOA palettes without a custom-color upcharge. For Hillside Village and Heatherwood owners updating original aluminum-frame singles, vinyl drops the U-factor by more than half with no exterior repaint cycle.",
       },
       {
         heading: 'Low Maintenance for Busy Garland Families',
@@ -77,8 +77,8 @@ export default function VinylWindowsPage() {
 
     faq: [
       {
-        question: 'Are vinyl windows suitable for Garland\'s diverse community?',
-        answer: 'Absolutely. Vinyl windows are perfect for Garland\'s diverse population with their low-maintenance design, versatility, and energy efficiency. They accommodate different lifestyles and aesthetic preferences without demanding restrictive maintenance schedules.',
+        question: 'Will vinyl windows hold up against Lake Ray Hubbard hard water and Garland sprinkler overspray?',
+        answer: 'Yes. Vinyl is non-porous, so the calcium and magnesium deposits in Garland Water Utilities supply rinse off with vinegar-and-water without etching the frame. Painted aluminum and bare wood absorb the minerals and stain; vinyl does not.',
       },
       {
         question: 'How do vinyl windows handle Garland\'s urban environment?',
